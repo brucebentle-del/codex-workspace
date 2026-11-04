@@ -1,0 +1,38 @@
+{
+  "right_source": "right_roof_rev10_inner_snow_flat_mirrored.stl",
+  "right_source_sha256": "0f2a0e6f4aeccd185b258aea9b1b3ec39a8a56e23cca358cf08e6a4d80cfa37f",
+  "left_template_source": "left_roof_rev10_inner_snow_flat (1).stl",
+  "left_template_source_sha256": "17410a70b13c19d425226853bb89d0e02c35b31cf4a08594de0a6d0893afa882",
+  "right_from_left_transform": [
+    [
+      -1,
+      0,
+      0,
+      148
+    ],
+    [
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "matched_vertices": 13950,
+  "source_triangles": 28016,
+  "max_matching_vertex_distance": 7.62939453125e-06,
+  "matching_distance_tolerance": 2e-05,
+  "triangle_connectivity_matches": true,
+  "right_export_method": "Reflect the v3 left mesh using the verified source transformation, correct winding, and remove zero-volume export fragments. Check the saved right STL against the uploaded right source."
+}

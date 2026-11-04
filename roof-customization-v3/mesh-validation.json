@@ -85,5 +85,36 @@
     "scale_factor": 1.0,
     "numerical_regularization_growth_per_axis": 0.001137,
     "notes": "One connected material part; negative closed boundary shells represent enclosed cavities. STL has no unit or color metadata."
+  },
+  {
+    "file": "right_roof_rev10_inner_snow_flat_mirrored_shallow_snow_v3.stl",
+    "source": "right_roof_rev10_inner_snow_flat_mirrored.stl",
+    "source_sha256": "0f2a0e6f4aeccd185b258aea9b1b3ec39a8a56e23cca358cf08e6a4d80cfa37f",
+    "export_sha256": "0794acaaa606b7ffa6db9165c4279efaf4f9206cce09c0ed0ba963c93d9a45cb",
+    "watertight_after_STL_reload": true,
+    "consistent_winding": true,
+    "positive_total_volume": true,
+    "material_parts": 1,
+    "boundary_shells": 2,
+    "enclosed_cavity_boundaries": 1,
+    "triangles": 128584,
+    "volume_model_units_cubed": 308141.4470485633,
+    "bounds": [
+      [
+        -5.2511444091796875,
+        -15.569982528686523,
+        -7.501136779785156
+      ],
+      [
+        160.83944702148438,
+        157.70114135742188,
+        62.35113525390625
+      ]
+    ],
+    "scale_factor": 1.0,
+    "numerical_regularization_growth_per_axis": 0.001137,
+    "notes": "One connected material part; negative closed boundary shells represent enclosed cavities. STL has no unit or color metadata.",
+    "construction": "Reflected v3 left mesh, after verifying the uploaded source geometry and triangle connectivity.",
+    "source_comparison": "right-source-match.json"
   }
 ]

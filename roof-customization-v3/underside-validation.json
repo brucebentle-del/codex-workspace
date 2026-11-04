@@ -34,5 +34,17 @@
     "method": "BVH screening; float64 point-to-triangle verification for every distance above 0.003 model units (avoids single-precision errors on long thin triangles).",
     "underside_acceptance_tolerance": 0.025,
     "fixture_acceptance_tolerance": 0.005
+  },
+  {
+    "fixture_faces": 2344,
+    "max_fixture_surface_distance": 0.0019827657379209995,
+    "file": "right_roof_rev10_inner_snow_flat_mirrored_shallow_snow_v3.stl",
+    "sampled_original_underside_faces": 3290,
+    "max_distance_to_export": 0.01942581137230035,
+    "mean_distance_to_export": 0.0015819037994552732,
+    "double_precision_rechecked_faces": 17,
+    "method": "BVH screening; float64 point-to-triangle verification for every distance above 0.003 model units (avoids single-precision errors on long thin triangles).",
+    "underside_acceptance_tolerance": 0.025,
+    "fixture_acceptance_tolerance": 0.005
   }
 ]
