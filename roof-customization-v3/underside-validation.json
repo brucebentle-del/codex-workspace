@@ -1,0 +1,38 @@
+[
+  {
+    "fixture_faces": 2344,
+    "max_fixture_surface_distance": 0.001986852614209056,
+    "file": "left_roof_rev10_inner_snow_flat_shallow_snow_v3.stl",
+    "sampled_original_underside_faces": 3290,
+    "max_distance_to_export": 0.019424749353839612,
+    "mean_distance_to_export": 0.0015833516402304606,
+    "double_precision_rechecked_faces": 59,
+    "method": "BVH screening; float64 point-to-triangle verification for every distance above 0.003 model units (avoids single-precision errors on long thin triangles).",
+    "underside_acceptance_tolerance": 0.025,
+    "fixture_acceptance_tolerance": 0.005
+  },
+  {
+    "fixture_faces": 3038,
+    "max_fixture_surface_distance": 0.0019847783260047436,
+    "file": "center_roof_rev31_front_seams_smooth_shallow_snow_v3.stl",
+    "sampled_original_underside_faces": 15000,
+    "max_distance_to_export": 0.0029605466406792402,
+    "mean_distance_to_export": 0.0015113597619320332,
+    "double_precision_rechecked_faces": 153,
+    "method": "BVH screening; float64 point-to-triangle verification for every distance above 0.003 model units (avoids single-precision errors on long thin triangles).",
+    "underside_acceptance_tolerance": 0.025,
+    "fixture_acceptance_tolerance": 0.005
+  },
+  {
+    "fixture_faces": 3038,
+    "max_fixture_surface_distance": 0.001993076177313924,
+    "file": "center_roof_rev30_smooth_top_planes_shallow_snow_v3.stl",
+    "sampled_original_underside_faces": 15000,
+    "max_distance_to_export": 0.015788992374260312,
+    "mean_distance_to_export": 0.0015160778096534367,
+    "double_precision_rechecked_faces": 139,
+    "method": "BVH screening; float64 point-to-triangle verification for every distance above 0.003 model units (avoids single-precision errors on long thin triangles).",
+    "underside_acceptance_tolerance": 0.025,
+    "fixture_acceptance_tolerance": 0.005
+  }
+]

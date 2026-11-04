@@ -1,0 +1,89 @@
+[
+  {
+    "file": "left_roof_rev10_inner_snow_flat_shallow_snow_v3.stl",
+    "source": "left_roof_rev10_inner_snow_flat (1).stl",
+    "source_sha256": "17410a70b13c19d425226853bb89d0e02c35b31cf4a08594de0a6d0893afa882",
+    "export_sha256": "261538b67845e2882607b5dc2f14551cce0c03df81ac8a3676d5b843a6da9b93",
+    "watertight_after_STL_reload": true,
+    "consistent_winding": true,
+    "positive_total_volume": true,
+    "material_parts": 1,
+    "boundary_shells": 2,
+    "enclosed_cavity_boundaries": 1,
+    "triangles": 128604,
+    "volume_model_units_cubed": 308141.46753625484,
+    "bounds": [
+      [
+        -12.83945083618164,
+        -15.569982528686523,
+        -7.501136779785156
+      ],
+      [
+        153.2511444091797,
+        157.70114135742188,
+        62.35113525390625
+      ]
+    ],
+    "scale_factor": 1.0,
+    "numerical_regularization_growth_per_axis": 0.001137,
+    "notes": "One connected material part; negative closed boundary shells represent enclosed cavities. STL has no unit or color metadata."
+  },
+  {
+    "file": "center_roof_rev31_front_seams_smooth_shallow_snow_v3.stl",
+    "source": "center_roof_rev31_front_seams_smooth.stl",
+    "source_sha256": "9b962994d54c34edb1b88074b81a249fef775a62f2a7b31dec2abe07a2c513e2",
+    "export_sha256": "a44cd09c8c510cbc6c2ce9d8271820466e72c0bbb527ace5d283039688ec536b",
+    "watertight_after_STL_reload": true,
+    "consistent_winding": true,
+    "positive_total_volume": true,
+    "material_parts": 1,
+    "boundary_shells": 9,
+    "enclosed_cavity_boundaries": 8,
+    "triangles": 234190,
+    "volume_model_units_cubed": 2030420.229735043,
+    "bounds": [
+      [
+        -46.96049118041992,
+        -25.980770111083984,
+        -7.635976791381836
+      ],
+      [
+        195.05677795410156,
+        149.40113830566406,
+        118.48954010009766
+      ]
+    ],
+    "scale_factor": 1.0,
+    "numerical_regularization_growth_per_axis": 0.001137,
+    "notes": "One connected material part; negative closed boundary shells represent enclosed cavities. STL has no unit or color metadata."
+  },
+  {
+    "file": "center_roof_rev30_smooth_top_planes_shallow_snow_v3.stl",
+    "source": "center_roof_rev30_smooth_top_planes.stl",
+    "source_sha256": "53511d3ef1336a03951afc7ebe9c243f9167bd7680921d72edee60413cfb340e",
+    "export_sha256": "de5ffd7a2737167ccf72edc01ba58c891e8e17c5d24af04990bf206a63ba50db",
+    "watertight_after_STL_reload": true,
+    "consistent_winding": true,
+    "positive_total_volume": true,
+    "material_parts": 1,
+    "boundary_shells": 15,
+    "enclosed_cavity_boundaries": 14,
+    "triangles": 246668,
+    "volume_model_units_cubed": 2027750.3546061553,
+    "bounds": [
+      [
+        -46.96049118041992,
+        -25.980770111083984,
+        -7.635973930358887
+      ],
+      [
+        195.05677795410156,
+        149.40113830566406,
+        118.48954010009766
+      ]
+    ],
+    "scale_factor": 1.0,
+    "numerical_regularization_growth_per_axis": 0.001137,
+    "notes": "One connected material part; negative closed boundary shells represent enclosed cavities. STL has no unit or color metadata."
+  }
+]
