@@ -1,0 +1,23 @@
+[
+  {
+    "file": "left_roof_rev10_inner_snow_flat_rounded_fused_snow_v1.stl",
+    "watertight": true,
+    "connected_shells": 1,
+    "original_material_removed_volume": 0.0004416773347960164,
+    "volume_added": 11485.728722255677
+  },
+  {
+    "file": "center_roof_rev31_front_seams_smooth_rounded_fused_snow_v1.stl",
+    "watertight": true,
+    "connected_shells": 1,
+    "original_material_removed_volume": 0.00033812224864959717,
+    "volume_added": 33389.387858650414
+  },
+  {
+    "file": "center_roof_rev30_smooth_top_planes_rounded_fused_snow_v1.stl",
+    "watertight": true,
+    "connected_shells": 1,
+    "original_material_removed_volume": 0.002849857023344763,
+    "volume_added": 33481.95218406501
+  }
+]
