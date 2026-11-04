@@ -1,0 +1,23 @@
+[
+  {
+    "file": "left_roof_rev10_inner_snow_flat_snow_cap_fused_v2.stl",
+    "watertight": true,
+    "connected_shells": 1,
+    "original_material_removed_volume": 0.0004051791426415245,
+    "volume_added": 35593.2877922309
+  },
+  {
+    "file": "center_roof_rev31_front_seams_smooth_snow_cap_fused_v2.stl",
+    "watertight": true,
+    "connected_shells": 1,
+    "original_material_removed_volume": 0.0005122122238390148,
+    "volume_added": 74862.96709934226
+  },
+  {
+    "file": "center_roof_rev30_smooth_top_planes_snow_cap_fused_v2.stl",
+    "watertight": true,
+    "connected_shells": 1,
+    "original_material_removed_volume": 5.082713808709135e-05,
+    "volume_added": 75046.2508971626
+  }
+]
