@@ -1,0 +1,169 @@
+[
+  {
+    "file": "left_roof_rev10_inner_snow_flat_scalloped_snow_v4.stl",
+    "sha256": "cf28f131911aef1d5c537cbacc871cab021b7e784fced26a3861718bd895e0c7",
+    "original_source": "left_roof_rev10_inner_snow_flat (1).stl",
+    "original_source_sha256": "17410a70b13c19d425226853bb89d0e02c35b31cf4a08594de0a6d0893afa882",
+    "source_v3": "left_roof_rev10_inner_snow_flat_shallow_snow_v3.stl",
+    "roof_plane_coefficients": [
+      [
+        0.5159236733691647,
+        17.89330240005129
+      ],
+      [
+        -0.5159234765638837,
+        89.60663438599109
+      ]
+    ],
+    "watertight": true,
+    "consistent_winding": true,
+    "material_parts": 1,
+    "enclosed_cavities": 0,
+    "triangles": 225248,
+    "bounds": [
+      [
+        -12.832448959350586,
+        -15.569982528686523,
+        -7.501136779785156
+      ],
+      [
+        153.2511444091797,
+        157.70114135742188,
+        62.35113525390625
+      ]
+    ],
+    "voxel_resolution_cosmetic_cap_only": 0.25,
+    "cosmetic_cap_simplification": 0.012,
+    "export_cleanup_tolerance": 0.001,
+    "protected_body_upper_height_relative_to_roof": -0.2,
+    "protected_forward_region_y": -9.39,
+    "method": "Resolve the cosmetic snow cap separately, then fuse it with the preserved v3 front and functional roof body. Forward snow lip and mounting surfaces are checked after saving.",
+    "scale_factor": 1.0,
+    "inherited_tiny_edge_cleanup_max_displacement": 2.6973983046972182e-06
+  },
+  {
+    "file": "right_roof_rev10_inner_snow_flat_mirrored_scalloped_snow_v4.stl",
+    "sha256": "b01aa12c7ef4b46d3ad4db7ded9304ec570e5f7016f5bf98ea35236123d81630",
+    "original_source": "right_roof_rev10_inner_snow_flat_mirrored.stl",
+    "original_source_sha256": "0f2a0e6f4aeccd185b258aea9b1b3ec39a8a56e23cca358cf08e6a4d80cfa37f",
+    "source_v3": "right_roof_rev10_inner_snow_flat_mirrored_shallow_snow_v3.stl",
+    "roof_plane_coefficients": [
+      [
+        -0.5159236733691647,
+        94.25000605868766
+      ],
+      [
+        0.5159234765638837,
+        13.2499598545363
+      ]
+    ],
+    "watertight": true,
+    "consistent_winding": true,
+    "material_parts": 1,
+    "enclosed_cavities": 0,
+    "triangles": 225248,
+    "bounds": [
+      [
+        -5.2511444091796875,
+        -15.569982528686523,
+        -7.501136779785156
+      ],
+      [
+        160.8324432373047,
+        157.70114135742188,
+        62.35113525390625
+      ]
+    ],
+    "voxel_resolution_cosmetic_cap_only": 0.25,
+    "cosmetic_cap_simplification": 0.012,
+    "export_cleanup_tolerance": 0.001,
+    "protected_body_upper_height_relative_to_roof": -0.2,
+    "protected_forward_region_y": -9.39,
+    "method": "Resolve the cosmetic snow cap separately, then fuse it with the preserved v3 front and functional roof body. Forward snow lip and mounting surfaces are checked after saving.",
+    "mirror_relation": "x_right = 148 - x_left; verified against the uploaded right source.",
+    "scale_factor": 1.0,
+    "inherited_tiny_edge_cleanup_max_displacement": 2.6973983046972182e-06
+  },
+  {
+    "file": "center_roof_rev31_front_seams_smooth_scalloped_snow_v4.stl",
+    "sha256": "5017834b05881f32cfb4031b8dcb7eae4576ab8a501494c46e03d06eb397d42b",
+    "original_source": "center_roof_rev31_front_seams_smooth.stl",
+    "original_source_sha256": "9b962994d54c34edb1b88074b81a249fef775a62f2a7b31dec2abe07a2c513e2",
+    "source_v3": "center_roof_rev31_front_seams_smooth_shallow_snow_v3.stl",
+    "roof_plane_coefficients": [
+      [
+        0.7148391756874704,
+        56.78975977523255
+      ],
+      [
+        -0.7126359657436886,
+        162.3239470180685
+      ]
+    ],
+    "watertight": true,
+    "consistent_winding": true,
+    "material_parts": 1,
+    "enclosed_cavities": 0,
+    "triangles": 287324,
+    "bounds": [
+      [
+        -46.925048828125,
+        -25.980770111083984,
+        -7.635976791381836
+      ],
+      [
+        195.03189086914062,
+        149.40115356445312,
+        118.48100280761719
+      ]
+    ],
+    "voxel_resolution_cosmetic_cap_only": 0.25,
+    "cosmetic_cap_simplification": 0.012,
+    "export_cleanup_tolerance": 0.001,
+    "protected_body_upper_height_relative_to_roof": -0.2,
+    "protected_forward_region_y": -19.8,
+    "method": "Resolve the cosmetic snow cap separately, then fuse it with the preserved v3 front and functional roof body. Forward snow lip and mounting surfaces are checked after saving.",
+    "scale_factor": 1.0
+  },
+  {
+    "file": "center_roof_rev30_smooth_top_planes_scalloped_snow_v4.stl",
+    "sha256": "59026fcc313975d68a92c8b94f6e2856bfbaa614e10f6974f998fd8c9fe54a2f",
+    "original_source": "center_roof_rev30_smooth_top_planes.stl",
+    "original_source_sha256": "53511d3ef1336a03951afc7ebe9c243f9167bd7680921d72edee60413cfb340e",
+    "source_v3": "center_roof_rev30_smooth_top_planes_shallow_snow_v3.stl",
+    "roof_plane_coefficients": [
+      [
+        0.7149664335007746,
+        56.70876914108031
+      ],
+      [
+        -0.712763210404,
+        162.26119486195373
+      ]
+    ],
+    "watertight": true,
+    "consistent_winding": true,
+    "material_parts": 1,
+    "enclosed_cavities": 9,
+    "triangles": 283400,
+    "bounds": [
+      [
+        -46.92512130737305,
+        -25.980770111083984,
+        -7.635973930358887
+      ],
+      [
+        195.03280639648438,
+        149.40113830566406,
+        118.48400115966797
+      ]
+    ],
+    "voxel_resolution_cosmetic_cap_only": 0.25,
+    "cosmetic_cap_simplification": 0.012,
+    "export_cleanup_tolerance": 0.001,
+    "protected_body_upper_height_relative_to_roof": -0.2,
+    "protected_forward_region_y": -19.8,
+    "method": "Fill and smooth the upper front groove; scallop the rear snow and ridge edges. Resolve the cosmetic cap surface separately, then fuse it with the preserved v3 front and functional roof body.",
+    "scale_factor": 1.0
+  }
+]

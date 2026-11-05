@@ -1,0 +1,184 @@
+[
+  {
+    "file": "left_roof_rev10_inner_snow_flat_scalloped_snow_v4.stl",
+    "groups": {
+      "mounting_surfaces": [
+        0,
+        2344
+      ],
+      "functional_underside": [
+        2344,
+        4938
+      ],
+      "approved_front_lip": [
+        4938,
+        16938
+      ]
+    },
+    "acceptance_tolerance": 0.01,
+    "screening_recheck_threshold": 0.008,
+    "groove_probe_sections": 32,
+    "max_groove_depth_before": 0.003284454345703125,
+    "max_groove_depth_after": 0,
+    "groove_acceptance_depth": 0.15,
+    "method": "Saved STL surface comparisons. Functional underside samples exclude cosmetic snow above the roof plane. Forward snow-lip samples are compared against the accepted v3 mesh. Groove depth uses vertical probes across the marked join.",
+    "surface_measurements": {
+      "mounting_surfaces": {
+        "samples": 2344,
+        "max_distance": 0.001986852614209056,
+        "mean_distance": 0.0016312785210237288
+      },
+      "functional_underside": {
+        "samples": 2594,
+        "max_distance": 0.005785153713077307,
+        "mean_distance": 0.001560431755766944
+      },
+      "approved_front_lip": {
+        "samples": 12000,
+        "max_distance": 0.012463569027485915,
+        "mean_distance": 1.7971682151989668e-05
+      }
+    },
+    "double_precision_rechecked_points": 39,
+    "front_lip_acceptance_tolerance": 0.02
+  },
+  {
+    "file": "right_roof_rev10_inner_snow_flat_mirrored_scalloped_snow_v4.stl",
+    "groups": {
+      "mounting_surfaces": [
+        0,
+        2344
+      ],
+      "functional_underside": [
+        2344,
+        4938
+      ],
+      "approved_front_lip": [
+        4938,
+        16938
+      ]
+    },
+    "acceptance_tolerance": 0.01,
+    "screening_recheck_threshold": 0.008,
+    "groove_probe_sections": 32,
+    "max_groove_depth_before": 0.003131866455078125,
+    "max_groove_depth_after": 0,
+    "groove_acceptance_depth": 0.15,
+    "method": "Saved STL surface comparisons. Functional underside samples exclude cosmetic snow above the roof plane. Forward snow-lip samples are compared against the accepted v3 mesh. Groove depth uses vertical probes across the marked join.",
+    "surface_measurements": {
+      "mounting_surfaces": {
+        "samples": 2344,
+        "max_distance": 0.0019827657379209995,
+        "mean_distance": 0.0016313816220384352
+      },
+      "functional_underside": {
+        "samples": 2594,
+        "max_distance": 0.0020706551149487495,
+        "mean_distance": 0.0015533320274218338
+      },
+      "approved_front_lip": {
+        "samples": 12000,
+        "max_distance": 0.00138633802998811,
+        "mean_distance": 1.5058631314995334e-05
+      }
+    },
+    "double_precision_rechecked_points": 2,
+    "front_lip_acceptance_tolerance": 0.02,
+    "additional_mirrored_crown_probe": {
+      "point": [
+        69.98747253417969,
+        -13.71367613474528,
+        52.8607292175293
+      ],
+      "distance": 0.012463569027485915,
+      "acceptance_tolerance": 0.02,
+      "source": "Reflected left-v3 forward-lip sample using the verified source transform."
+    }
+  },
+  {
+    "file": "center_roof_rev31_front_seams_smooth_scalloped_snow_v4.stl",
+    "groups": {
+      "mounting_surfaces": [
+        0,
+        3038
+      ],
+      "functional_underside": [
+        3038,
+        18038
+      ],
+      "approved_front_lip": [
+        18038,
+        30038
+      ]
+    },
+    "acceptance_tolerance": 0.01,
+    "screening_recheck_threshold": 0.008,
+    "groove_probe_sections": 36,
+    "max_groove_depth_before": 8.309013366699219,
+    "max_groove_depth_after": 0.00714874267578125,
+    "groove_acceptance_depth": 0.15,
+    "method": "Saved STL surface comparisons. Functional underside samples exclude cosmetic snow above the roof plane. Forward snow-lip samples are compared against the accepted v3 mesh. Groove depth uses vertical probes across the marked join.",
+    "surface_measurements": {
+      "mounting_surfaces": {
+        "samples": 3038,
+        "max_distance": 0.00228416477330029,
+        "mean_distance": 0.0014865398521749994
+      },
+      "functional_underside": {
+        "samples": 15000,
+        "max_distance": 0.007939175702631474,
+        "mean_distance": 0.0015527010589436955
+      },
+      "approved_front_lip": {
+        "samples": 12000,
+        "max_distance": 0.001290070009417832,
+        "mean_distance": 1.3363685289599895e-05
+      }
+    },
+    "double_precision_rechecked_points": 125,
+    "front_lip_acceptance_tolerance": 0.02
+  },
+  {
+    "file": "center_roof_rev30_smooth_top_planes_scalloped_snow_v4.stl",
+    "groups": {
+      "mounting_surfaces": [
+        0,
+        3038
+      ],
+      "functional_underside": [
+        3038,
+        18038
+      ],
+      "approved_front_lip": [
+        18038,
+        30038
+      ]
+    },
+    "acceptance_tolerance": 0.01,
+    "screening_recheck_threshold": 0.008,
+    "groove_probe_sections": 36,
+    "max_groove_depth_before": 8.308967590332031,
+    "max_groove_depth_after": 0.00557708740234375,
+    "groove_acceptance_depth": 0.15,
+    "method": "Saved STL surface comparisons. Functional underside samples exclude cosmetic snow above the roof plane. Forward snow-lip samples are compared against the accepted v3 mesh. Groove depth uses vertical probes across the marked join.",
+    "surface_measurements": {
+      "mounting_surfaces": {
+        "samples": 3038,
+        "max_distance": 0.002339237602427602,
+        "mean_distance": 0.0014798833650512004
+      },
+      "functional_underside": {
+        "samples": 15000,
+        "max_distance": 0.0073268539272248745,
+        "mean_distance": 0.0015544074057225149
+      },
+      "approved_front_lip": {
+        "samples": 12000,
+        "max_distance": 0.0016640127869322896,
+        "mean_distance": 1.2618672940580686e-05
+      }
+    },
+    "double_precision_rechecked_points": 90,
+    "front_lip_acceptance_tolerance": 0.02
+  }
+]
