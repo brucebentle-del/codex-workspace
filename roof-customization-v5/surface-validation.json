@@ -1,0 +1,126 @@
+[
+  {
+    "file": "center_roof_rev31_front_seams_smooth_smooth_roof_rounded_tips_v5.stl",
+    "groups": {
+      "mounting_surfaces": [
+        0,
+        3038
+      ],
+      "functional_underside": [
+        3038,
+        18038
+      ],
+      "main_front_snow_lip": [
+        18038,
+        30038
+      ],
+      "front_decor": [
+        30038,
+        45038
+      ]
+    },
+    "fitting_tolerance": 0.01,
+    "front_tolerance": 0.02,
+    "double_precision_threshold": 0.008,
+    "bare_roof_samples": 750,
+    "bare_roof_tolerance": 0.005,
+    "max_secondary_ridge_bump": 3.7381293154226114e-05,
+    "ridge_bump_tolerance": 0.04,
+    "tip_face_area_before": {
+      "left": 55.170527849542125,
+      "right": 54.4095779812773
+    },
+    "tip_face_area_after": {
+      "left": 1.2641878535725521,
+      "right": 1.2440868436742587
+    },
+    "method": "Saved-file comparisons with the original fittings/underside and v4 main front surfaces; tips are excluded from front-preservation samples because their rounding is intentional. Roof-plane probes and cross-sections inspect both sides of the ridge.",
+    "surface_measurements": {
+      "mounting_surfaces": {
+        "samples": 3038,
+        "max_distance": 0.00228416477330029,
+        "mean_distance": 0.0014865496874303472
+      },
+      "functional_underside": {
+        "samples": 15000,
+        "max_distance": 0.007859744131565094,
+        "mean_distance": 0.0015528451919500275
+      },
+      "main_front_snow_lip": {
+        "samples": 12000,
+        "max_distance": 0.0010525125544518232,
+        "mean_distance": 4.1273332960827246e-06
+      },
+      "front_decor": {
+        "samples": 15000,
+        "max_distance": 0.0013351495144888759,
+        "mean_distance": 8.224149403364815e-06
+      }
+    },
+    "double_precision_rechecked_points": 117,
+    "max_bare_roof_deviation": 2.332987814668286e-05,
+    "old_max_bare_roof_deviation": 0.00449623470348115
+  },
+  {
+    "file": "center_roof_rev30_smooth_top_planes_smooth_roof_rounded_tips_v5.stl",
+    "groups": {
+      "mounting_surfaces": [
+        0,
+        3038
+      ],
+      "functional_underside": [
+        3038,
+        18038
+      ],
+      "main_front_snow_lip": [
+        18038,
+        30038
+      ],
+      "front_decor": [
+        30038,
+        45038
+      ]
+    },
+    "fitting_tolerance": 0.01,
+    "front_tolerance": 0.02,
+    "double_precision_threshold": 0.008,
+    "bare_roof_samples": 750,
+    "bare_roof_tolerance": 0.005,
+    "max_secondary_ridge_bump": 3.9785202574194045e-05,
+    "ridge_bump_tolerance": 0.04,
+    "tip_face_area_before": {
+      "left": 68.1438098882645,
+      "right": 64.69544108640628
+    },
+    "tip_face_area_after": {
+      "left": 1.334708623667447,
+      "right": 1.2323720817321977
+    },
+    "method": "Saved-file comparisons with the original fittings/underside and v4 main front surfaces; tips are excluded from front-preservation samples because their rounding is intentional. Roof-plane probes and cross-sections inspect both sides of the ridge.",
+    "surface_measurements": {
+      "mounting_surfaces": {
+        "samples": 3038,
+        "max_distance": 0.002339237602427602,
+        "mean_distance": 0.001479823477051225
+      },
+      "functional_underside": {
+        "samples": 15000,
+        "max_distance": 0.007781472988426685,
+        "mean_distance": 0.001545896616926575
+      },
+      "main_front_snow_lip": {
+        "samples": 12000,
+        "max_distance": 0.0010708383051678538,
+        "mean_distance": 3.981806702142876e-06
+      },
+      "front_decor": {
+        "samples": 15000,
+        "max_distance": 0.0072008403949439526,
+        "mean_distance": 8.540709940204275e-06
+      }
+    },
+    "double_precision_rechecked_points": 50,
+    "max_bare_roof_deviation": 2.4123481466631347e-05,
+    "old_max_bare_roof_deviation": 0.00431389195350107
+  }
+]

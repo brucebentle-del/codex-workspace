@@ -1,0 +1,82 @@
+[
+  {
+    "file": "center_roof_rev31_front_seams_smooth_smooth_roof_rounded_tips_v5.stl",
+    "sha256": "41371b31440c03754977133ce84e07a2b9f82dabf39858096a922a4938a4026f",
+    "watertight": true,
+    "consistent_winding": true,
+    "material_parts": 1,
+    "triangles": 472384,
+    "bounds": [
+      [
+        -48.5,
+        -25.975513458251953,
+        -7.635976791381836
+      ],
+      [
+        196.60000610351562,
+        149.40113830566406,
+        118.48043060302734
+      ]
+    ],
+    "roof_plane_coefficients": [
+      [
+        0.7148391756874704,
+        56.78975977523255
+      ],
+      [
+        -0.7126359657436886,
+        162.3239470180685
+      ]
+    ],
+    "source_v4": "center_roof_rev31_front_seams_smooth_scalloped_snow_v4.stl",
+    "local_connectivity_vertices_separated": 0,
+    "separation_step_model_units": 0,
+    "repair_volume_change": 0.0,
+    "method": "Single smooth snow surface on planar roof patches, rounded rear taper, and rounded front tips. Original mounting geometry and the main front profile are protected.",
+    "roof_polish": {
+      "vertices_adjusted": 3146,
+      "max_z_adjustment": 0.05572817139082121,
+      "method": "Flatten the exposed roof plane and gently taper the lowest snow contact into it; source front and tips are excluded."
+    }
+  },
+  {
+    "file": "center_roof_rev30_smooth_top_planes_smooth_roof_rounded_tips_v5.stl",
+    "sha256": "c42866636f1cd4c067ae3bd064c2aaaade2f25e4185a801876dc18503e6c65b5",
+    "watertight": true,
+    "consistent_winding": true,
+    "material_parts": 1,
+    "triangles": 459996,
+    "bounds": [
+      [
+        -48.5,
+        -25.975513458251953,
+        -7.635973930358887
+      ],
+      [
+        196.60000610351562,
+        149.40113830566406,
+        118.48030090332031
+      ]
+    ],
+    "roof_plane_coefficients": [
+      [
+        0.7149664335007746,
+        56.70876914108031
+      ],
+      [
+        -0.712763210404,
+        162.26119486195373
+      ]
+    ],
+    "source_v4": "center_roof_rev30_smooth_top_planes_scalloped_snow_v4.stl",
+    "local_connectivity_vertices_separated": 0,
+    "separation_step_model_units": 0,
+    "repair_volume_change": -2.3283064365386963e-10,
+    "method": "Single smooth snow surface on planar roof patches, rounded rear taper, and rounded front tips. Original mounting geometry and the main front profile are protected.",
+    "roof_polish": {
+      "vertices_adjusted": 3071,
+      "max_z_adjustment": 0.05572839834944814,
+      "method": "Flatten the exposed roof plane and gently taper the lowest snow contact into it; source front and tips are excluded."
+    }
+  }
+]
