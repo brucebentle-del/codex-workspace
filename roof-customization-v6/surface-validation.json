@@ -1,0 +1,72 @@
+{
+  "file": "center_roof_rev31_smooth_snow_v6.stl",
+  "groups": {
+    "mounting_surfaces": [
+      0,
+      3038
+    ],
+    "functional_underside": [
+      3038,
+      18038
+    ],
+    "lower_front_snow_lip": [
+      18038,
+      30038
+    ],
+    "front_decor": [
+      30038,
+      45038
+    ]
+  },
+  "fitting_tolerance": 0.01,
+  "front_tolerance": 0.02,
+  "double_precision_threshold": 0.008,
+  "bare_roof_samples": 750,
+  "bare_roof_tolerance": 0.005,
+  "ridge_sides": {
+    "before": {
+      "max_ridge_side_difference": 4.919710575921343,
+      "mean_ridge_side_difference": 0.4614181757036109
+    },
+    "after": {
+      "max_ridge_side_difference": 0.05900195981297429,
+      "mean_ridge_side_difference": 0.002031737913135089
+    }
+  },
+  "front_join": {
+    "before": {
+      "max_front_join_second_difference": 33.289591471354164,
+      "mean_front_join_second_difference": 21.881750452588175
+    },
+    "after": {
+      "max_front_join_second_difference": 2.3142496744791665,
+      "mean_front_join_second_difference": 1.1645980745728253
+    }
+  },
+  "method": "Saved-file surface samples compare original fittings/underside and v5 lower front lip/decoration. Upper snow join and tips are intentionally reshaped. Independent vertical cross-sections measure ridge symmetry and the old front crease.",
+  "surface_measurements": {
+    "mounting_surfaces": {
+      "samples": 3038,
+      "max_distance": 0.002549318363890052,
+      "mean_distance": 0.0014768895817161892
+    },
+    "functional_underside": {
+      "samples": 15000,
+      "max_distance": 0.007710995618253946,
+      "mean_distance": 0.0015584491133535962
+    },
+    "lower_front_snow_lip": {
+      "samples": 12000,
+      "max_distance": 0.0022168250288814306,
+      "mean_distance": 1.4805449629610242e-05
+    },
+    "front_decor": {
+      "samples": 15000,
+      "max_distance": 0.006021598819643259,
+      "mean_distance": 1.5302841332898728e-05
+    }
+  },
+  "max_bare_roof_deviation": 0.0008074785782667959,
+  "double_precision_rechecked_points": 62,
+  "all_checks_passed": true
+}

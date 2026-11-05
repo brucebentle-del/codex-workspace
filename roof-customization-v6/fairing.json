@@ -1,0 +1,8 @@
+{
+  "tip_vertices": 66917,
+  "front_join_vertices": 84548,
+  "max_tip_displacement": 2.2000000000000077,
+  "max_front_join_displacement": 1.0347631198997504,
+  "method": "Match the ridge sides and soften the lower snow contacts; blend the front join as a continuous height field; fair both tips. Functional vertices remain fixed before the 0.001-unit export simplification.",
+  "ridge_smoothing_radius": 0.6
+}
