@@ -1,0 +1,66 @@
+{
+  "file": "center_roof_rev31_peppermint_smooth_snow_v7.stl",
+  "groups": {
+    "mounting_surfaces": [
+      0,
+      3038
+    ],
+    "functional_underside": [
+      3038,
+      18038
+    ],
+    "lower_front_snow_lip": [
+      18038,
+      29168
+    ],
+    "front_decor_outside_disc": [
+      29168,
+      44168
+    ]
+  },
+  "fitting_tolerance": 0.01,
+  "front_tolerance": 0.02,
+  "double_precision_threshold": 0.008,
+  "bare_roof_samples": 750,
+  "bare_roof_tolerance": 0.005,
+  "junction": {
+    "before": {
+      "max_whole_transition_second_difference": 28.572845458984368,
+      "mean_whole_transition_second_difference": 14.936218261718746,
+      "max_upper_shoulder_second_difference": 28.572845458984368,
+      "mean_upper_shoulder_second_difference": 8.11418533325195
+    },
+    "after": {
+      "max_whole_transition_second_difference": 36.93084716796874,
+      "mean_whole_transition_second_difference": 15.155773162841793,
+      "max_upper_shoulder_second_difference": 15.670776367187496,
+      "mean_upper_shoulder_second_difference": 2.905387878417968
+    }
+  },
+  "method": "Saved-file surface samples compare original fittings/underside and v6 lower front lip and decoration outside the new disc attachment. Independent vertical cross-sections measure the two circled snow shoulders.",
+  "surface_measurements": {
+    "mounting_surfaces": {
+      "samples": 3038,
+      "max_distance": 0.002539757639169693,
+      "mean_distance": 0.0014769800163327322
+    },
+    "functional_underside": {
+      "samples": 15000,
+      "max_distance": 0.007939275354146957,
+      "mean_distance": 0.001576386790838706
+    },
+    "lower_front_snow_lip": {
+      "samples": 11130,
+      "max_distance": 0.0022168250288814306,
+      "mean_distance": 3.796424288737812e-06
+    },
+    "front_decor_outside_disc": {
+      "samples": 15000,
+      "max_distance": 0.005331585183739662,
+      "mean_distance": 1.5391944064034154e-05
+    }
+  },
+  "max_bare_roof_deviation": 0.0008074785782667959,
+  "double_precision_rechecked_points": 165,
+  "all_checks_passed": true
+}

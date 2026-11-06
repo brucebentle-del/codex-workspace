@@ -1,0 +1,12 @@
+{
+  "diameter": 46.0,
+  "center_x": 73.93,
+  "center_z": 123.0,
+  "back_y": -20.0,
+  "front_base_y": -30.6,
+  "spiral_arms": 8,
+  "spiral_relief_height": 0.65,
+  "rounded_rim_radius": 2.5,
+  "orientation": "Disc faces forward, perpendicular to the front of the center gable.",
+  "color": "Single fused STL; red/white preview colors are a painting guide."
+}

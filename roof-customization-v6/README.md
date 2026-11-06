@@ -1,5 +1,7 @@
 # Center rev31 — snow touchup (v6)
 
+This is an earlier version. The current [rev31 v7](../roof-customization-v7/README.md) adds the fused peppermint and smooths the two snow-join creases.
+
 This revision contains **rev31 only**. It starts from the fused v5 center roof and touches up the cosmetic snow.
 
 - The uneven lower edge on the left side of the ridge snow now follows the smoother opposite side, while retaining the scallops.
