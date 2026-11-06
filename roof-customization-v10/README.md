@@ -1,5 +1,7 @@
 # Center rev31 — lowered peppermint, two-row holly, folded bow, and raised lettering (v10)
 
+This is an earlier version. The current [rev31 v11](../roof-customization-v11/README.md) adjusts the lettering spacing, adds mirrored side holly clusters, and projects the bow another 2 mm outward.
+
 The peppermint is lowered so the structural gable peak meets the center of the disc. The holly now has two full overlapping rows, a thicker backing, and a prominent bottom-center leaf-and-berry cluster. The bow has broad folded ribbon loops, a rectangular knot, and fishtail ends. The lettering is raised an additional 1 mm from the sign face.
 
 ## Download

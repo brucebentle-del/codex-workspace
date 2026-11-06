@@ -1,0 +1,53 @@
+{
+  "wording": [
+    "Merry Christmas",
+    "Reagan"
+  ],
+  "style": "Retained two-row garland and bottom rosette, two full-size mirrored side rosette copies, smaller Reagan, lower Merry Christmas, and a bow raised 2 mm outward at the same height.",
+  "frame_width": 131.68171296296293,
+  "frame_height": 80.0,
+  "leaf_count": 231,
+  "previous_leaf_count": 207,
+  "full_holly_rows": 2,
+  "backing_width_range": [
+    8.6,
+    9.6
+  ],
+  "backing_depth": 4.5,
+  "previous_backing_depth": 2.9,
+  "bottom_center_rosette_leaves": 12,
+  "bottom_center_berry_radii": [
+    2.42,
+    2.42,
+    2.68,
+    2.05,
+    1.5
+  ],
+  "bow_width": 28.73936157226563,
+  "bow_height": 18.64287109374999,
+  "bow_bounds": [
+    [
+      59.56098475038184,
+      -30.700000000000003,
+      72.9
+    ],
+    [
+      88.30034632264747,
+      -20.8,
+      91.54287109375
+    ]
+  ],
+  "bow_tail_length": 14.0,
+  "bow_tail_end_width": 5.0,
+  "text_construction_depth": 2.15,
+  "text_exposed_relief_above_sign": 2.0,
+  "previous_text_exposed_relief": 2.0,
+  "lettering_relief_increase": 0.0,
+  "lettering_positions_unchanged": false,
+  "font": "Berkshire Swash (SIL Open Font License)",
+  "side_rosette_copies": 2,
+  "name_scale": 0.9,
+  "greeting_downward_translation": 2.5,
+  "bow_outward_projection_increase": 2.0,
+  "bow_upward_translation": 0.0
+}

@@ -1,0 +1,10 @@
+{
+  "visible_old_holly_samples_checked": 2123,
+  "old_maximum_front_advance": 5.1897682596842465,
+  "remaining_samples_above_tolerance": 0,
+  "maximum_remaining_front_advance": 7.415771484886591e-06,
+  "tolerance": 0.03,
+  "method": "Find visible gray legacy relief in the v8 exported mesh, separately compare with the snow-only silhouette, and ray-check those locations on the cleaned bare gable before adding the new garland. The snow surface is allowed to remain; old holly projecting ahead of it is removed.",
+  "provenance": "This revision reuses the exact checked v9 bare gable before adding decoration. No legacy holly is restored.",
+  "bare_gable_input_sha256": "ce1539ecbb6060bbd2785b04a55111c1b6514279d93743db7657f837fbfd92bd"
+}
