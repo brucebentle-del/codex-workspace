@@ -1,8 +1,9 @@
 # Roof customization downloads
 
-The current center roof is **rev31 v12**. The peppermint has raised swirls on both faces, and mirrored holly fans extend into the lower outer facade areas. The v11 lettering and bow are retained.
+The side roofs are **v13**, with rounded scalloped snow, preserved inner landings, matching peppermint discs, and centered windows. The center stays at **rev31 v12**, unchanged and pending a test print.
 
-- [Download center rev31 STL](https://github.com/brucebentle-del/codex-workspace/raw/refs/heads/main/roof-customization-v12/center_roof_rev31_double_sided_peppermint_extended_holly_v12.stl)
-- [View front and rear previews, dimensions, and validation](roof-customization-v12/README.md)
-- [Left roof v4](https://github.com/brucebentle-del/codex-workspace/raw/refs/heads/main/roof-customization-v4/left_roof_rev10_inner_snow_flat_scalloped_snow_v4.stl)
-- [Right roof v4](https://github.com/brucebentle-del/codex-workspace/raw/refs/heads/main/roof-customization-v4/right_roof_rev10_inner_snow_flat_mirrored_scalloped_snow_v4.stl)
+- [Download left roof v13](https://github.com/brucebentle-del/codex-workspace/raw/refs/heads/main/roof-customization-v13/left_roof_rev10_center_style_snow_peppermint_v13.stl)
+- [Download right roof v13](https://github.com/brucebentle-del/codex-workspace/raw/refs/heads/main/roof-customization-v13/right_roof_rev10_center_style_snow_peppermint_v13.stl)
+- [Side roof previews, dimensions, and validation](roof-customization-v13/README.md)
+- [Download unchanged center rev31 v12](https://github.com/brucebentle-del/codex-workspace/raw/refs/heads/main/roof-customization-v12/center_roof_rev31_double_sided_peppermint_extended_holly_v12.stl)
+- [Center front and rear previews](roof-customization-v12/README.md)

@@ -1,5 +1,7 @@
 # Scalloped rear snow edges — revision 4
 
+These are earlier side roofs. The current [left and right v13 roofs](../roof-customization-v13/README.md) have matching snow, peppermint discs, and centered windows. The center remains [rev31 v12](../roof-customization-v12/README.md), pending a test print.
+
 This revision keeps the shallow front snow profile from v3 and gives the roof-facing edge of each front snow band a rounded scalloped outline. Both sides of the ridge snow running from front to back are scalloped as well. The narrow groove across the upper front snow band has been filled and the join rounded.
 
 The changes stay on the cosmetic snow and its contact with the roof. Scale, orientation, the forward snow lip, mounting positions, and the functional underside are preserved within the recorded export-cleanup tolerances. The right roof matches the left using the verified reflection in `right-source-match.json`.
