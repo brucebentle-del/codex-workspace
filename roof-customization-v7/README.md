@@ -1,5 +1,7 @@
 # Center rev31 — peppermint and snow-join touchup (v7)
 
+This is an earlier version. The current [rev31 v8](../roof-customization-v8/README.md) reduces the peppermint by 25% and restyles the sign to match the reference.
+
 This revision starts from rev31 v6. It smooths the two creases on the raised snow shoulders where the front drift meets the ridge, and adds the peppermint disc at the front gable peak. The snow scallops and the previously rounded front tips are retained.
 
 ## Download

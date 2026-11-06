@@ -1,0 +1,57 @@
+{
+  "file": "center_roof_rev31_small_peppermint_reference_sign_v8.stl",
+  "groups": {
+    "mounting_surfaces": [
+      0,
+      3038
+    ],
+    "functional_underside": [
+      3038,
+      18038
+    ],
+    "lower_front_snow_lip": [
+      18038,
+      29601
+    ],
+    "preserved_snow_outside_disc": [
+      29601,
+      47601
+    ]
+  },
+  "fitting_tolerance": 0.01,
+  "front_tolerance": 0.02,
+  "double_precision_threshold": 0.008,
+  "bare_roof_samples": 750,
+  "bare_roof_tolerance": 0.005,
+  "saved_peppermint_diameters": {
+    "x": 34.5,
+    "z": 34.5
+  },
+  "target_peppermint_diameter": 34.5,
+  "method": "Saved-file comparisons check original fittings and underside, plus v7 snow and lower front lip outside the resized peppermint. The old front sign relief is intentionally replaced. Peppermint dimensions are measured from the saved exported mesh.",
+  "surface_measurements": {
+    "mounting_surfaces": {
+      "samples": 3038,
+      "max_distance": 0.002549318363890052,
+      "mean_distance": 0.0014768689006736547
+    },
+    "functional_underside": {
+      "samples": 15000,
+      "max_distance": 0.007859744131565094,
+      "mean_distance": 0.0015670103289013848
+    },
+    "lower_front_snow_lip": {
+      "samples": 11563,
+      "max_distance": 0.0009175596060231328,
+      "mean_distance": 2.9192388885161247e-06
+    },
+    "preserved_snow_outside_disc": {
+      "samples": 18000,
+      "max_distance": 0.0010444470681250095,
+      "mean_distance": 2.1553562187790475e-06
+    }
+  },
+  "max_bare_roof_deviation": 0.0008074785782667959,
+  "double_precision_rechecked_points": 119,
+  "all_checks_passed": true
+}
