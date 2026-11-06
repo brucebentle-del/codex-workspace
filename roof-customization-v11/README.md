@@ -1,5 +1,7 @@
 # Center rev31 — spaced lettering, mirrored side holly, and deeper bow (v11)
 
+This is an earlier version. The current [rev31 v12](../roof-customization-v12/README.md) adds rear peppermint swirls and matched outer holly extensions.
+
 “Reagan” is 10% smaller and remains larger than “Merry Christmas.” The greeting is lowered 2.5 mm to give it more room below the bow. Full-size copies of the bottom-center holly cluster fill the marked left and right areas, mirrored to each other. The bow projects another 2 mm outward at its existing height.
 
 ## Download

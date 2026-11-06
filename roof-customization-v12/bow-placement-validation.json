@@ -1,0 +1,33 @@
+{
+  "outward_projection_increase": 2.0,
+  "upward_translation": 0.0,
+  "horizontal_translation": 0.0,
+  "visible_surface_vertices_checked": 6038,
+  "fixed_back_vertices_checked": 1428,
+  "max_xz_change": 0.0,
+  "before_bounds": [
+    [
+      59.56098475038184,
+      -28.700000000000003,
+      72.9
+    ],
+    [
+      88.30034632264747,
+      -20.8,
+      91.54287109375
+    ]
+  ],
+  "after_bounds": [
+    [
+      59.56098475038184,
+      -30.700000000000003,
+      72.9
+    ],
+    [
+      88.30034632264747,
+      -20.8,
+      91.54287109375
+    ]
+  ],
+  "method": "Move all front-facing ribbon surfaces, knot, and tails outward by 2 mm while keeping the buried attachment planes and every X/Z vertex position fixed."
+}

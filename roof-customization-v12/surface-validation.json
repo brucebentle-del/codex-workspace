@@ -1,0 +1,139 @@
+{
+  "file": "center_roof_rev31_double_sided_peppermint_extended_holly_v12.stl",
+  "groups": {
+    "mounting_surfaces": [
+      0,
+      3038
+    ],
+    "functional_underside": [
+      3038,
+      18038
+    ],
+    "lower_front_snow_lip": [
+      18038,
+      28747
+    ],
+    "preserved_snow_outside_attachments": [
+      28747,
+      46747
+    ],
+    "updated_lettering": [
+      46747,
+      56747
+    ],
+    "retained_peppermint_face": [
+      56747,
+      62747
+    ],
+    "left_rosette_berries": [
+      62747,
+      63647
+    ],
+    "right_rosette_berries": [
+      63647,
+      64547
+    ],
+    "projected_bow": [
+      64547,
+      66547
+    ],
+    "left_outer_holly": [
+      66547,
+      67747
+    ],
+    "right_outer_holly": [
+      67747,
+      68947
+    ],
+    "visible_rear_swirl": [
+      68947,
+      70747
+    ]
+  },
+  "fitting_tolerance": 0.01,
+  "front_tolerance": 0.02,
+  "double_precision_threshold": 0.008,
+  "bare_roof_samples": 750,
+  "bare_roof_tolerance": 0.005,
+  "saved_peppermint_diameters": {
+    "x": 34.5,
+    "z": 34.5
+  },
+  "target_peppermint_diameter": 34.5,
+  "saved_peppermint_center_xz": [
+    73.9306640625,
+    109.63829803466797
+  ],
+  "gable_peak_center_alignment_error": 2.6892400659367583e-06,
+  "lettering_front_y": -23.15,
+  "sign_front_y": -21.15,
+  "lettering_exposed_relief": 2.0,
+  "lettering_relief_increase": 0.0,
+  "rear_spiral_arms_checked": 8,
+  "method": "Compare the saved STL against original fittings and underside, retained snow, v11 lettering, peppermint front, corner berry clusters and bow, plus the mirrored outer holly fans and the new exposed rear swirls. Measure the disc center against the structural gable peak.",
+  "surface_measurements": {
+    "mounting_surfaces": {
+      "samples": 3038,
+      "max_distance": 0.002549318363890052,
+      "mean_distance": 0.0014768767172076169
+    },
+    "functional_underside": {
+      "samples": 15000,
+      "max_distance": 0.007859744131565094,
+      "mean_distance": 0.0015675487282432396
+    },
+    "lower_front_snow_lip": {
+      "samples": 10709,
+      "max_distance": 0.0009175596060231328,
+      "mean_distance": 2.9030893789004917e-06
+    },
+    "preserved_snow_outside_attachments": {
+      "samples": 18000,
+      "max_distance": 0.002165663056075573,
+      "mean_distance": 2.4489606721550293e-06
+    },
+    "updated_lettering": {
+      "samples": 10000,
+      "max_distance": 0.0037227068096399307,
+      "mean_distance": 4.406796845801182e-05
+    },
+    "retained_peppermint_face": {
+      "samples": 6000,
+      "max_distance": 1.1444091796875e-05,
+      "mean_distance": 9.618679892658596e-07
+    },
+    "left_rosette_berries": {
+      "samples": 900,
+      "max_distance": 2.86102294921875e-06,
+      "mean_distance": 6.35721454626845e-07
+    },
+    "right_rosette_berries": {
+      "samples": 900,
+      "max_distance": 1.6407633665949106e-05,
+      "mean_distance": 2.0736381629325884e-06
+    },
+    "projected_bow": {
+      "samples": 2000,
+      "max_distance": 0.0008963888976722956,
+      "mean_distance": 4.287858381985643e-06
+    },
+    "left_outer_holly": {
+      "samples": 1200,
+      "max_distance": 0.0020771368872374296,
+      "mean_distance": 2.35164731795597e-06
+    },
+    "right_outer_holly": {
+      "samples": 1200,
+      "max_distance": 0.0020791892893612385,
+      "mean_distance": 3.539665972122445e-06
+    },
+    "visible_rear_swirl": {
+      "samples": 1800,
+      "max_distance": 1.0956883670587558e-05,
+      "mean_distance": 7.888602812676658e-07
+    }
+  },
+  "max_bare_roof_deviation": 0.0008074785782667959,
+  "double_precision_rechecked_points": 120,
+  "all_checks_passed": true
+}

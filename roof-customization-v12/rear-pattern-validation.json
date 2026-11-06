@@ -1,0 +1,57 @@
+{
+  "rear_spiral_arms_checked": 8,
+  "target_relief": 0.4875,
+  "maximum_relief_error": 2.6702880859263978e-06,
+  "ray_samples": [
+    {
+      "arm": 1,
+      "peak_y": -19.512500762939453,
+      "valley_y": -20.0,
+      "relief": 0.4874992370605469
+    },
+    {
+      "arm": 2,
+      "peak_y": -19.51249885559082,
+      "valley_y": -19.999998092651367,
+      "relief": 0.4874992370605469
+    },
+    {
+      "arm": 3,
+      "peak_y": -19.512500762939453,
+      "valley_y": -20.0,
+      "relief": 0.4874992370605469
+    },
+    {
+      "arm": 4,
+      "peak_y": -19.51249885559082,
+      "valley_y": -19.999998092651367,
+      "relief": 0.4874992370605469
+    },
+    {
+      "arm": 5,
+      "peak_y": -19.512500762939453,
+      "valley_y": -19.999998092651367,
+      "relief": 0.48749732971191406
+    },
+    {
+      "arm": 6,
+      "peak_y": -19.512502670288086,
+      "valley_y": -20.000001907348633,
+      "relief": 0.4874992370605469
+    },
+    {
+      "arm": 7,
+      "peak_y": -19.512500762939453,
+      "valley_y": -20.0,
+      "relief": 0.4874992370605469
+    },
+    {
+      "arm": 8,
+      "peak_y": -19.512500762939453,
+      "valley_y": -20.000001907348633,
+      "relief": 0.4875011444091797
+    }
+  ],
+  "method": "Cast rays at the eight raised spiral peaks and intervening white valleys on the closed two-sided candy mesh. Separately compare 1,800 exposed rear-face points above the roof against the saved fused STL.",
+  "all_checks_passed": true
+}

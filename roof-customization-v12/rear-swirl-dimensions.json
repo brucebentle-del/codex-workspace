@@ -1,0 +1,16 @@
+{
+  "diameter": 34.5,
+  "center_x": 73.93066553651465,
+  "center_z": 109.63829578538076,
+  "front_spiral_arms": 8,
+  "rear_spiral_arms": 8,
+  "rear_relief_height": 0.4875,
+  "rear_flat_base_y": -20.0,
+  "rear_max_y": -19.5125,
+  "front_pattern_retained": true,
+  "front_vertices_unchanged": 58369,
+  "front_max_vertex_change": 0.0,
+  "front_disc_position_retained": true,
+  "rear_angle_transform": "pi - front_angle",
+  "method": "Retain every front and side vertex, displace only the original rear rim by the eight-arm swirl function, and replace the flat rear fan with a closed concentric relief surface. The roof naturally masks the lower portion from directly behind."
+}

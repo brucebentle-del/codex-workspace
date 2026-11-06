@@ -1,0 +1,121 @@
+{
+  "mirror_plane_x": 73.93066553651465,
+  "leaves_per_extension": 35,
+  "berries_per_extension": 9,
+  "matching_geometry": true,
+  "stem_controls_xz": [
+    [
+      [
+        9.5,
+        25.0
+      ],
+      [
+        3.0,
+        25.0
+      ],
+      [
+        -9.0,
+        18.0
+      ],
+      [
+        -18.0,
+        13.0
+      ]
+    ],
+    [
+      [
+        8.5,
+        27.0
+      ],
+      [
+        3.0,
+        31.0
+      ],
+      [
+        -8.0,
+        32.0
+      ],
+      [
+        -13.5,
+        29.0
+      ]
+    ],
+    [
+      [
+        9.0,
+        24.0
+      ],
+      [
+        0.0,
+        16.0
+      ],
+      [
+        -4.0,
+        11.0
+      ],
+      [
+        -11.0,
+        8.0
+      ]
+    ]
+  ],
+  "method": "Generate three leafy stems fanning outward and downward from the left corner rosette; reflect the entire stem, leaf, and berry geometry across the gable center plane for the right extension.",
+  "green": {
+    "left_bounds": [
+      [
+        -21.916852290772702,
+        -26.15,
+        3.50493860486369
+      ],
+      [
+        10.555859441054613,
+        -18.5,
+        35.07434422051263
+      ]
+    ],
+    "right_bounds": [
+      [
+        137.30547163197468,
+        -26.15,
+        3.50493860486369
+      ],
+      [
+        169.77818336380201,
+        -18.5,
+        35.07434422051263
+      ]
+    ],
+    "max_mirror_error": 0.0,
+    "left_volume": 4995.222386916629,
+    "right_volume": 4995.222386916629
+  },
+  "red": {
+    "left_bounds": [
+      [
+        -12.680991999999996,
+        -27.15,
+        8.429352000000002
+      ],
+      [
+        -3.1299840000000003,
+        -24.65,
+        32.491152
+      ]
+    ],
+    "right_bounds": [
+      [
+        150.9913150730293,
+        -27.15,
+        8.429352000000002
+      ],
+      [
+        160.5423230730293,
+        -24.65,
+        32.491152
+      ]
+    ],
+    "max_mirror_error": 0.0,
+    "left_volume": 79.10348345439711,
+    "right_volume": 79.10348345439714
+  }
+}
