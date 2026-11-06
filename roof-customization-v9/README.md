@@ -1,5 +1,7 @@
 # Center rev31 — clean gable, lush holly, and ribbon bow (v9)
 
+This is an earlier version. The current [rev31 v10](../roof-customization-v10/README.md) lowers the peppermint to the gable peak, adds two-row holly and a folded ribbon bow, and raises the lettering another 1 mm.
+
 This revision removes the visible old holly remnants near the snow edge and under the peppermint. The new holly is fuller and deeper, with a wider, thicker backing and overlapping clusters of larger folded leaves. The bow has broader ribbon loops, a raised knot, and longer fishtail ends.
 
 The v8 lettering, cream sign field, 34.5-unit peppermint, roof scale, and mounting geometry are retained. Rev31 is the only center version in current downloads.

@@ -1,0 +1,84 @@
+{
+  "file": "center_roof_rev31_lower_peppermint_double_holly_v10.stl",
+  "groups": {
+    "mounting_surfaces": [
+      0,
+      3038
+    ],
+    "functional_underside": [
+      3038,
+      18038
+    ],
+    "lower_front_snow_lip": [
+      18038,
+      28747
+    ],
+    "preserved_snow_outside_attachments": [
+      28747,
+      46747
+    ],
+    "raised_lettering": [
+      46747,
+      56747
+    ],
+    "lowered_peppermint_face": [
+      56747,
+      62747
+    ]
+  },
+  "fitting_tolerance": 0.01,
+  "front_tolerance": 0.02,
+  "double_precision_threshold": 0.008,
+  "bare_roof_samples": 750,
+  "bare_roof_tolerance": 0.005,
+  "saved_peppermint_diameters": {
+    "x": 34.5,
+    "z": 34.5
+  },
+  "target_peppermint_diameter": 34.5,
+  "saved_peppermint_center_xz": [
+    73.9306640625,
+    109.63829803466797
+  ],
+  "gable_peak_center_alignment_error": 2.6892400659367583e-06,
+  "lettering_front_y": -23.15,
+  "sign_front_y": -21.15,
+  "lettering_exposed_relief": 2.0,
+  "lettering_relief_increase": 1.0,
+  "method": "Compare the saved STL against the original fittings and underside, v7 snow outside the lowered disc and bow attachment, the 1 mm deeper letter construction, and the translated peppermint front. Measure the disc center against the intersection of the structural roof planes.",
+  "surface_measurements": {
+    "mounting_surfaces": {
+      "samples": 3038,
+      "max_distance": 0.002549318363890052,
+      "mean_distance": 0.0014768767172076169
+    },
+    "functional_underside": {
+      "samples": 15000,
+      "max_distance": 0.007859744131565094,
+      "mean_distance": 0.0015675487282432396
+    },
+    "lower_front_snow_lip": {
+      "samples": 10709,
+      "max_distance": 0.0009175596060231328,
+      "mean_distance": 2.9030893789004917e-06
+    },
+    "preserved_snow_outside_attachments": {
+      "samples": 18000,
+      "max_distance": 0.002165663056075573,
+      "mean_distance": 2.4489606721550293e-06
+    },
+    "raised_lettering": {
+      "samples": 10000,
+      "max_distance": 0.0037227068096399307,
+      "mean_distance": 4.44924983114106e-05
+    },
+    "lowered_peppermint_face": {
+      "samples": 6000,
+      "max_distance": 1.0956883670587558e-05,
+      "mean_distance": 9.342832038328197e-07
+    }
+  },
+  "max_bare_roof_deviation": 0.0008074785782667959,
+  "double_precision_rechecked_points": 120,
+  "all_checks_passed": true
+}
