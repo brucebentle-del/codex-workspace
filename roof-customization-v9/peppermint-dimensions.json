@@ -1,0 +1,18 @@
+{
+  "scale_factor": 0.75,
+  "previous_diameter": 46.0,
+  "diameter": 34.5,
+  "center_x": 73.93,
+  "center_z": 121.85824394226074,
+  "back_y": -20.0,
+  "front_base_y": -27.95,
+  "spiral_arms": 8,
+  "spiral_relief_height": 0.4875,
+  "rounded_rim_radius": 1.875,
+  "scaling_anchor": [
+    73.93,
+    -20.0,
+    118.43297576904297
+  ],
+  "method": "Uniform 75% scaling about the gable attachment, preserving the disc back plane and its connection to the snow."
+}

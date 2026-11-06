@@ -1,0 +1,27 @@
+{
+  "wording": [
+    "Merry Christmas",
+    "Reagan"
+  ],
+  "style": "Retained v8 lettering and sign field; layered holly clusters with a broad backing, larger folded leaves and berries; a prominent folded-ribbon bow and longer fishtail ends.",
+  "frame_width": 131.68171296296293,
+  "frame_height": 80.0,
+  "leaf_count": 161,
+  "previous_leaf_count": 116,
+  "backing_width_range": [
+    4.4,
+    6.8
+  ],
+  "backing_depth": 2.9,
+  "previous_backing_depth": 2.4,
+  "maximum_leaf_front_y": -24.05,
+  "bow_width": 23.28452494286436,
+  "bow_height": 22.676965010533465,
+  "bow_loop_ribbon_width": 2.3,
+  "bow_tail_length": 16.5,
+  "bow_tail_end_width": 4.2,
+  "greeting_width_before_arch": 94.0,
+  "name_width": 80.0,
+  "text_relief_depth": 1.15,
+  "font": "Berkshire Swash (SIL Open Font License)"
+}

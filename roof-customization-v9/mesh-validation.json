@@ -1,0 +1,49 @@
+{
+  "file": "center_roof_rev31_lush_holly_ribbon_bow_v9.stl",
+  "sha256": "c470ba933538f495827f459f3ab0ba4bba76f6eea7e9b13d51f29d467414ac11",
+  "watertight": true,
+  "consistent_winding": true,
+  "material_parts": 1,
+  "triangles": 1560650,
+  "bounds": [
+    [
+      -48.29340362548828,
+      -28.436786651611328,
+      -7.635976791381836
+    ],
+    [
+      196.39340209960938,
+      149.40113830566406,
+      139.10824584960938
+    ]
+  ],
+  "roof_plane_coefficients": [
+    [
+      0.7148391756874704,
+      56.78975977523255
+    ],
+    [
+      -0.7126359657436886,
+      162.3239470180685
+    ]
+  ],
+  "peppermint_diameter": 34.5,
+  "peppermint_overlap_volume": 840.4208805939812,
+  "sign_overlap_volume": 3318.5084761892504,
+  "old_front_relief_removed_volume": 4944.433202514106,
+  "front_relief_clearing_y": -18.924,
+  "snow_protection_margin": 0.065,
+  "leaf_count": 161,
+  "previous_leaf_count": 116,
+  "green_volume_ratio_to_v8": 2.962824112129809,
+  "backing_width_range": [
+    4.4,
+    6.8
+  ],
+  "local_connectivity_vertices_separated": 2,
+  "repair_volume_change": 3.087567165493965e-06,
+  "method": "Remove all old raised holly near the front snow edge using a snow-only protection solid. Retain the v8 sign field, lettering, and 34.5-unit peppermint. Replace the previous garland and bow with fuller layered holly, a wider backing, larger berries, broad folded ribbon loops, and long fishtail ends. Keep the structural roof and fittings behind the facade intact.",
+  "plaque_plane_edge_target": 3.0,
+  "plaque_refinement_volume_change": 7.462222129106522e-07,
+  "plaque_refinement_vertices_separated": 0
+}

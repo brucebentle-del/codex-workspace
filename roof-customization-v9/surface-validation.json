@@ -1,0 +1,75 @@
+{
+  "file": "center_roof_rev31_lush_holly_ribbon_bow_v9.stl",
+  "groups": {
+    "mounting_surfaces": [
+      0,
+      3038
+    ],
+    "functional_underside": [
+      3038,
+      18038
+    ],
+    "lower_front_snow_lip": [
+      18038,
+      28929
+    ],
+    "preserved_snow_outside_attachments": [
+      28929,
+      46929
+    ],
+    "retained_lettering": [
+      46929,
+      52474
+    ],
+    "retained_peppermint": [
+      52474,
+      58474
+    ]
+  },
+  "fitting_tolerance": 0.01,
+  "front_tolerance": 0.02,
+  "double_precision_threshold": 0.008,
+  "bare_roof_samples": 750,
+  "bare_roof_tolerance": 0.005,
+  "saved_peppermint_diameters": {
+    "x": 34.5,
+    "z": 34.5
+  },
+  "target_peppermint_diameter": 34.5,
+  "method": "Saved-file comparisons check original fittings and underside, v7 snow outside the peppermint and enlarged bow attachment, and v8 front lettering and peppermint surfaces. The old holly is intentionally removed and new decoration is fused to the sign.",
+  "surface_measurements": {
+    "mounting_surfaces": {
+      "samples": 3038,
+      "max_distance": 0.002549318363890052,
+      "mean_distance": 0.0014768689006736547
+    },
+    "functional_underside": {
+      "samples": 15000,
+      "max_distance": 0.007859744131565094,
+      "mean_distance": 0.0015670103289013848
+    },
+    "lower_front_snow_lip": {
+      "samples": 10891,
+      "max_distance": 0.0009175596060231328,
+      "mean_distance": 2.906445827952542e-06
+    },
+    "preserved_snow_outside_attachments": {
+      "samples": 18000,
+      "max_distance": 0.0009252115269191563,
+      "mean_distance": 2.1529248827189603e-06
+    },
+    "retained_lettering": {
+      "samples": 5545,
+      "max_distance": 0.004321902059018612,
+      "mean_distance": 1.509628065145411e-05
+    },
+    "retained_peppermint": {
+      "samples": 6000,
+      "max_distance": 0.001138621591962874,
+      "mean_distance": 1.5046316971165651e-06
+    }
+  },
+  "max_bare_roof_deviation": 0.0008074785782667959,
+  "double_precision_rechecked_points": 119,
+  "all_checks_passed": true
+}

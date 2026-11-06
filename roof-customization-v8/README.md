@@ -1,5 +1,7 @@
 # Center rev31 — smaller peppermint and reference-style sign (v8)
 
+This is an earlier version. The current [rev31 v9](../roof-customization-v9/README.md) removes the old holly remnants and adds fuller holly and a broader ribbon bow.
+
 The peppermint is **25% smaller**: its diameter changes from 46 to **34.5 model units** (34.5 mm at the original millimeter scale). All disc dimensions are scaled uniformly to 75% about its attachment at the gable peak, so it remains fused to the snow.
 
 The old rough sign lettering and double outline are replaced with a smooth cream sign field, arched decorative “Merry Christmas” lettering, a larger “Reagan,” and a pointed holly-and-berry frame with a small bow beneath the peppermint. The wording is unchanged. The snow scallops, rounded roof tips, mounting geometry, and roof scale/orientation are retained.
