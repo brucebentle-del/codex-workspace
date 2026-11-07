@@ -1,0 +1,182 @@
+{
+  "source": "base_rev32.stl",
+  "source_sha256": "ff9b5399160d4499e61a9f210eb67479ad168258ceb0ddf27800913ec4449bf8",
+  "validation_scope": "Three printable modules, exact mounting geometry, exact butt seams, and four recessed underside keys",
+  "assembled_dimensions_mm": [
+    516.0,
+    183.88249969482422,
+    14.0
+  ],
+  "printer_bed_checked_mm": [
+    256.0,
+    256.0
+  ],
+  "original_pin_centers_per_module_xy_mm": [
+    [
+      8.0,
+      40.0
+    ],
+    [
+      8.0,
+      140.0
+    ],
+    [
+      163.0,
+      40.0
+    ],
+    [
+      163.0,
+      140.0
+    ]
+  ],
+  "original_pin_z_range_mm": [
+    6.0,
+    14.0
+  ],
+  "original_front_decoration_max_z_mm": 7.995719909667969,
+  "modules": [
+    {
+      "name": "left",
+      "sha256": "14d15d5d804b6f882c627613148f3758718346b349b8eb61c80297671d4e79c9",
+      "triangles": 52452,
+      "bounds_mm": [
+        [
+          0.0,
+          -15.882499694824219,
+          0.0
+        ],
+        [
+          172.0,
+          168.0,
+          14.0
+        ]
+      ],
+      "extents_mm": [
+        172.0,
+        183.88249969482422,
+        14.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "positive_volume": true,
+      "connected_printable_components": 1,
+      "fits_256_mm_square_bed": true,
+      "front_decoration_max_z_mm": 7.980000019073486,
+      "within_original_front_height_envelope": true,
+      "protected_source_to_output_max_deviation_mm": 1.2012100407010588e-14,
+      "protected_output_to_source_max_deviation_mm": 1.2012100407010588e-14,
+      "all_four_original_mounting_pins_retained": true
+    },
+    {
+      "name": "center",
+      "sha256": "37b1df2b2903e054954a84de087ac3b380c9f5e5dc3d433f242fd006787911dd",
+      "triangles": 52322,
+      "bounds_mm": [
+        [
+          0.0,
+          -15.882499694824219,
+          0.0
+        ],
+        [
+          172.0,
+          168.0,
+          14.0
+        ]
+      ],
+      "extents_mm": [
+        172.0,
+        183.88249969482422,
+        14.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "positive_volume": true,
+      "connected_printable_components": 1,
+      "fits_256_mm_square_bed": true,
+      "front_decoration_max_z_mm": 7.980000019073486,
+      "within_original_front_height_envelope": true,
+      "protected_source_to_output_max_deviation_mm": 1.2012100407010588e-14,
+      "protected_output_to_source_max_deviation_mm": 1.2012100407010588e-14,
+      "all_four_original_mounting_pins_retained": true
+    },
+    {
+      "name": "right",
+      "sha256": "f6b3d0623da5c13eefebb5786d96f3f0bfc56506bc6d3e96ac8393c5aed70e5a",
+      "triangles": 52410,
+      "bounds_mm": [
+        [
+          0.0,
+          -15.882499694824219,
+          0.0
+        ],
+        [
+          172.0,
+          168.0,
+          14.0
+        ]
+      ],
+      "extents_mm": [
+        172.0,
+        183.88249969482422,
+        14.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "positive_volume": true,
+      "connected_printable_components": 1,
+      "fits_256_mm_square_bed": true,
+      "front_decoration_max_z_mm": 7.980000019073486,
+      "within_original_front_height_envelope": true,
+      "protected_source_to_output_max_deviation_mm": 1.2012100407010588e-14,
+      "protected_output_to_source_max_deviation_mm": 1.2012100407010588e-14,
+      "all_four_original_mounting_pins_retained": true
+    }
+  ],
+  "seams": [
+    {
+      "seam": "left_to_center",
+      "left_face_triangles": 23,
+      "right_face_triangles": 23,
+      "left_face_area_mm2": 1024.0861634520213,
+      "right_face_area_mm2": 1024.0861634520213,
+      "left_minus_right_area_mm2": 0.0,
+      "right_minus_left_area_mm2": 0.0,
+      "exact_complementary_butt_faces": true
+    },
+    {
+      "seam": "center_to_right",
+      "left_face_triangles": 23,
+      "right_face_triangles": 24,
+      "left_face_area_mm2": 1024.0861634520213,
+      "right_face_area_mm2": 1024.0861634520213,
+      "left_minus_right_area_mm2": 0.0,
+      "right_minus_left_area_mm2": 0.0,
+      "exact_complementary_butt_faces": true
+    }
+  ],
+  "assembled_boolean_status": "Error.NoError",
+  "assembled_connected_components": 1,
+  "assembled_volume_delta_vs_module_sum_mm3": 0.0,
+  "connector": {
+    "file": "base_connector_key_print_4.stl",
+    "sha256": "1c22df140356a666e45db8bb9085d7cd1b2059f884b60d80dbe015338e735ddf",
+    "copies_to_print": 4,
+    "extents_mm": [
+      18.0,
+      11.199999809265137,
+      3.5999999046325684
+    ],
+    "watertight": true,
+    "consistent_winding": true,
+    "connected_printable_components": 1,
+    "pocket_xy_clearance_per_side_mm": 0.25,
+    "pocket_depth_mm": 4.2,
+    "key_height_mm": 3.6,
+    "vertical_fit_clearance_mm": 0.6,
+    "positions_per_seam_y_mm": [
+      55.0,
+      115.0
+    ]
+  },
+  "overall_pass": true
+}
