@@ -1,0 +1,77 @@
+{
+  "files": [
+    {
+      "side": "left",
+      "file": "left_roof_rev10_center_style_snow_peppermint_v15.stl",
+      "sha256": "93e2f0463e7e6481776148e5fc48c53fad45196333f7813c5d614279b298d409",
+      "watertight": true,
+      "consistent_winding": true,
+      "material_parts": 1,
+      "triangles": 863686,
+      "bounds": [
+        [
+          -13.656683921813965,
+          -16.171268463134766,
+          -7.501136779785156
+        ],
+        [
+          153.25,
+          157.78634643554688,
+          68.4124755859375
+        ]
+      ],
+      "local_connectivity_vertices_separated": 11,
+      "repair_volume_change": -0.0005997459520585835,
+      "source": "Protected original side rev10 structure; retained centered window and double-sided peppermint; v15 snow underside backing and entirely new holly. Right roof reflected using X_right = 148 - X_left.",
+      "peppermint_diameter": 29.325,
+      "peppermint_faces_with_swirls": 2,
+      "peppermint_center_x": 69.49995645245802,
+      "window_center_x": 69.49995645245802,
+      "inner_snow_stop_x": 136.0
+    },
+    {
+      "side": "right",
+      "file": "right_roof_rev10_center_style_snow_peppermint_v15.stl",
+      "sha256": "847cd35670e031603f25877a18e78bcebfdb7ee29dac5641a0bdc93cfd4acfb4",
+      "watertight": true,
+      "consistent_winding": true,
+      "material_parts": 1,
+      "triangles": 863686,
+      "bounds": [
+        [
+          -5.25,
+          -16.171268463134766,
+          -7.501136779785156
+        ],
+        [
+          161.65667724609375,
+          157.78634643554688,
+          68.4124755859375
+        ]
+      ],
+      "local_connectivity_vertices_separated": 0,
+      "repair_volume_change": 0.0,
+      "source": "Protected original side rev10 structure; retained centered window and double-sided peppermint; v15 snow underside backing and entirely new holly. Right roof reflected using X_right = 148 - X_left.",
+      "peppermint_diameter": 29.325,
+      "peppermint_faces_with_swirls": 2,
+      "peppermint_center_x": 78.50004354754198,
+      "window_center_x": 78.50004354754198,
+      "inner_snow_stop_x": 12.0
+    }
+  ],
+  "max_reflected_vertex_distance": 7.62939453125e-06,
+  "reflection_x_sum": 148.0,
+  "planar_tessellation_edge_target": 2.5,
+  "simplification_tolerance": 0.001,
+  "simplification_volume_change": -0.3592226867331192,
+  "original_inner_landing_restored_after_simplification": true,
+  "old_outer_cosmetic_spur_removed": true,
+  "old_holly_removed": true,
+  "front_snow_gap_filled": true,
+  "holly_rows": 2,
+  "unified_front_eave_ridge_snow": true,
+  "outer_side_visible_scallops": true,
+  "inner_tip_finish": "Rounded snow only",
+  "new_holly_at_tips": false,
+  "center_v12_modified": false
+}

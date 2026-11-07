@@ -1,0 +1,16 @@
+{
+  "old_holly_removed": true,
+  "style": "Two overlapping rows of domed, softly serrated holly leaves with visible midribs, round three-berry clusters, small paired berries, a fuller lower border and central fan.",
+  "leaf_count": 138,
+  "berry_count": 54,
+  "rows": 2,
+  "face_plane_y": -7.0,
+  "leaf_buried_back_plane_y": -6.72,
+  "mirror_plane_x": 69.49995645245802,
+  "garland_width": 131.89826598663282,
+  "garland_min_z": 1.8981409706965464,
+  "window_keepout_margin": 0.85,
+  "tip_holly_added": false,
+  "new_holly_below_snow_and_on_facade": true,
+  "method": "Build one half of the new garland and reflect its leaves and berries about the centered window; mirror the complete finished roof for the opposite building side."
+}

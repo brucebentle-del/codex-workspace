@@ -1,0 +1,7 @@
+{
+  "reference": "v14 rounded outer and front snow",
+  "sampled_vertices": 657113,
+  "region": "left X < 120 mm; mirrored on the right",
+  "max_vertex_distance": 1.7169881003333686e-05,
+  "all_checks_passed": true
+}

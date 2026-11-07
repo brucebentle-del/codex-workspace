@@ -1,6 +1,6 @@
 # Scalloped rear snow edges — revision 4
 
-The current side roofs are [v14](../roof-customization-v14/README.md), with scalloped outer-side snow, rounded ends, and smooth roof contacts.
+The current side roofs are [v15](../roof-customization-v15/README.md), with the snow contact filled and entirely new layered holly.
 
 These are earlier side roofs. The center remains [rev31 v12](../roof-customization-v12/README.md), pending a test print.
 

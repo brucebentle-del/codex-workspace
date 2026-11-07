@@ -1,5 +1,7 @@
 # Side roofs — scalloped side snow and smooth joins (v14)
 
+The current side roofs are [v15](../roof-customization-v15/README.md), with the snow contact filled and entirely new layered holly.
+
 The exposed long side drifts now have rounded lower scallops like the front. The front, outer eave, and ridge snow form one continuous surface, with rounded corner ends and smoothly tapered roof-facing edges. The recessed strips and remnants beneath the old snow footprint are removed.
 
 The left and right roofs mirror each other. Their shortened inner snow tips retain a rounded **snow-only** finish and preserve the original landing areas for the center roof. The centered windows and two-sided peppermint discs from v13 are retained. Center **rev31 v12 is unchanged**, pending your test print.

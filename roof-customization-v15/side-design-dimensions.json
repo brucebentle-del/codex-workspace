@@ -1,0 +1,48 @@
+{
+  "source_left": "left_roof_rev10_inner_snow_flat (1).stl",
+  "roof_plane_coefficients": [
+    [
+      0.5159236733691647,
+      17.89330240005129
+    ],
+    [
+      -0.5159234765638837,
+      89.60663438599109
+    ]
+  ],
+  "left_gable_center_x": 69.49995645245802,
+  "left_gable_peak_z": 53.74997523200041,
+  "right_gable_center_x": 78.50004354754198,
+  "inner_snow_stop_left_x": 136.0,
+  "inner_snow_stop_right_x": 12.0,
+  "window_original_center_x": 74.0,
+  "window_translation_x": -4.500043547541978,
+  "window_top_z": 34.4,
+  "window_bottom_z": 12.0,
+  "peppermint_diameter": 29.325,
+  "peppermint_scale_from_center": 0.85,
+  "peppermint_front_back_swirl_arms": 8,
+  "peppermint_relief_each_face": 0.414375,
+  "peppermint_back_plane_y": -9.0,
+  "method": "Retain the rounded v14 snow profile, fill the hidden underside at the inner tip back to the roof and facade, remove original front holly to the facade plane, and add a new layered holly garland. Mirror the finished left model using the verified original transform.",
+  "inner_tip_finish": "Rounded snow only",
+  "new_holly_at_tips": false,
+  "front_snow_profile": "Center-style domed icing with scalloped lower and roof-facing edges",
+  "version": 15,
+  "snow_method": "One continuous implicit snow surface with rounded front and outer-side scallops, smoothly fused branch junctions, rounded terminal caps, and filleted roof contacts.",
+  "snow_surface_grid_mm": 0.24,
+  "snow_surface_simplification_mm": 0.005,
+  "front_old_snow_cleanup_height": -6.45,
+  "center_v12_modified": false,
+  "old_holly_removed": true,
+  "new_holly_component_file": "holly-dimensions.json",
+  "snow_front_underside_buried_at_facade": true,
+  "rounded_inner_snow_end_lands_on_roof": true,
+  "snow_backing_region": "Left X >= 126.2 mm, mirrored on right; outer snow remains unchanged.",
+  "snow_hidden_backing_bottom_relative_to_roof": -0.45,
+  "snow_front_return_curve": "Backs into the original facade plane at roof contact; transitions outward by up to 1.4 mm under the visible snow cap.",
+  "new_holly_leaf_count": 138,
+  "new_holly_berry_count": 54,
+  "window_arch_and_panes_preserved": true,
+  "window_sill": "Clean rounded sill replacing the old decorative sill mesh"
+}
