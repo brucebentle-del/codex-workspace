@@ -1,6 +1,6 @@
 # Side roofs with draping holly (v16)
 
-The current side roofs are [v18](../roof-customization-v18/README.md), with lusher holly, curved lower edges and windows reduced by 12.5%.
+The current side roofs are [v19](../roof-customization-v19/README.md), with a filled top holly gap, a larger bottom-center cluster and less upper drape.
 
 The lower holly now hangs in two curved swags that meet at a bolder center tie below the window. The top cluster is approximately 4.8 mm lower and sits visibly beneath the peppermint disc. Leaf fans extend toward both roof ends to fill the former bare areas, with softer leaf shapes closer to the reference.
 

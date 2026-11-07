@@ -1,0 +1,26 @@
+{
+  "reference": "v18",
+  "components": {
+    "left-unified-snow.npz": {
+      "sha256": "ec55c7ff88e719c04554b5608184862efed561329242f54ed675046cf9797b0d",
+      "unchanged": true
+    },
+    "left-peppermint-construction.npz": {
+      "sha256": "3918cf756bada9656c46ce22a930e8bce2ada2bccec3a87aa56e067d728a5d11",
+      "unchanged": true
+    },
+    "left-window-construction.npz": {
+      "sha256": "681d13cf8950892e794134e8b7fa4530d542a034a37af25d426b4c16529e6340",
+      "unchanged": true
+    },
+    "left-window-sill.npz": {
+      "sha256": "1344d9dc26e6c7b9a439e44d9839d635054b7433c7d068c8c01a7fa25b5c3dbb",
+      "unchanged": true
+    },
+    "holly-path.npz": {
+      "sha256": "d41510e75b52b05d47b529f9de5a610a0368c63a08fe6aeb526d07104710fc5c",
+      "unchanged": true
+    }
+  },
+  "all_checks_passed": true
+}

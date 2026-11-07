@@ -1,0 +1,202 @@
+{
+  "style": "Roof-hugging outer edges with upper drape reduced by approximately one third; a filled holly fan above the window and a 20 percent larger lower-center leaf and berry cluster.",
+  "mirror_plane_x": 69.49995645245802,
+  "window_scale_xz": 0.875,
+  "window_scale_pivot_z": 22.35,
+  "retained_leaf_count": 277,
+  "added_leaf_count": 228,
+  "leaf_count": 505,
+  "retained_berry_count": 63,
+  "added_berry_count": 38,
+  "berry_count": 101,
+  "additional_slope_rows": [
+    {
+      "row": 1,
+      "additional_leaves": 46,
+      "inside_fraction": 0.0
+    },
+    {
+      "row": 2,
+      "additional_leaves": 46,
+      "inside_fraction": 0.3333333333333333
+    },
+    {
+      "row": 3,
+      "additional_leaves": 46,
+      "inside_fraction": 0.6666666666666666
+    },
+    {
+      "row": 4,
+      "additional_leaves": 46,
+      "inside_fraction": 1.0
+    }
+  ],
+  "lower_border_additional_row": true,
+  "existing_holly_relief_scale": 1.22,
+  "green_front_y_before": -12.25,
+  "green_front_y_after": -13.405000000000001,
+  "green_volume_in_front_of_face_before_mm3": 7265.875074357456,
+  "green_volume_in_front_of_face_after_mm3": 12226.946238005212,
+  "green_volume_increase_percent": 68.27905947841361,
+  "green_bounds": [
+    [
+      -11.735043547541977,
+      -13.405000000000001,
+      1.4967841367442238
+    ],
+    [
+      150.73495645245802,
+      -5.8999999999999995,
+      39.10366616103824
+    ]
+  ],
+  "red_bounds": [
+    [
+      -8.200043547541975,
+      -15.54,
+      2.292469536935382
+    ],
+    [
+      147.19995645245803,
+      -6.6499999999999995,
+      38.25
+    ]
+  ],
+  "draped_profile_samples": [
+    {
+      "distance_from_center": 15.0,
+      "straight_center_z": 33.7,
+      "draped_inner_edge_target_z": 25.966666666666665,
+      "drop_below_straight_center_mm": 7.733333333333338
+    },
+    {
+      "distance_from_center": 25.0,
+      "straight_center_z": 29.2,
+      "draped_inner_edge_target_z": 21.066666666666666,
+      "drop_below_straight_center_mm": 8.133333333333333
+    },
+    {
+      "distance_from_center": 37.0,
+      "straight_center_z": 23.917466866566716,
+      "draped_inner_edge_target_z": 15.772488955522238,
+      "drop_below_straight_center_mm": 8.144977911044478
+    },
+    {
+      "distance_from_center": 48.0,
+      "straight_center_z": 19.03564106891702,
+      "draped_inner_edge_target_z": 12.811880356305673,
+      "drop_below_straight_center_mm": 6.223760712611346
+    },
+    {
+      "distance_from_center": 58.0,
+      "straight_center_z": 14.779530287020465,
+      "draped_inner_edge_target_z": 11.659843429006822,
+      "drop_below_straight_center_mm": 3.119686858013644
+    }
+  ],
+  "draped_profile_control_distance": [
+    3.0,
+    8.0,
+    15.0,
+    25.0,
+    37.0,
+    48.0,
+    58.0,
+    66.0,
+    71.0
+  ],
+  "draped_profile_control_z": [
+    36.2,
+    30.8,
+    25.966666666666665,
+    21.066666666666666,
+    15.772488955522238,
+    12.811880356305673,
+    11.659843429006822,
+    10.1,
+    8.6
+  ],
+  "straight_profile_control_distance": [
+    4.0,
+    8.0,
+    15.0,
+    25.0,
+    40.0,
+    55.0,
+    65.0,
+    71.0
+  ],
+  "straight_profile_control_z": [
+    36.9,
+    37.0,
+    33.7,
+    29.2,
+    22.6,
+    16.0,
+    12.0,
+    9.5
+  ],
+  "old_holly_removed": true,
+  "leaves_buried_back_plane_y": -6.72,
+  "leaf_window_keepout_margin": 0.7,
+  "sill_keepout_margin": 0.55,
+  "end_sprays_forward_of_face_y": -7.5,
+  "original_inner_snow_finish_retained": true,
+  "center_v12_modified": false,
+  "requested_upper_sag_reduction": 0.3333333333333333,
+  "center_cluster_scale_xz": 1.2,
+  "center_cluster_berry_measurements": [
+    {
+      "before_bounds": [
+        [
+          66.19995645245803,
+          -14.0,
+          3.9
+        ],
+        [
+          72.79995645245802,
+          -6.65,
+          9.850000000000001
+        ]
+      ],
+      "after_bounds": [
+        [
+          65.53995645245803,
+          -14.0,
+          3.32
+        ],
+        [
+          73.45995645245802,
+          -6.65,
+          10.46
+        ]
+      ],
+      "scale_xz": 1.2
+    }
+  ],
+  "above_window_fill_leaves": 7,
+  "above_window_fill_bounds": [
+    [
+      59.173503369811826,
+      -12.55,
+      33.750029449620904
+    ],
+    [
+      79.82640953510422,
+      -6.72,
+      38.3499705503791
+    ]
+  ],
+  "window_unchanged_from_v18": true,
+  "previous_draped_profile_control_z": [
+    36.2,
+    29.0,
+    23.4,
+    18.3,
+    13.0,
+    11.0,
+    11.4,
+    10.1,
+    8.6
+  ]
+}

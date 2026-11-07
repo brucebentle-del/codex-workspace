@@ -1,0 +1,70 @@
+{
+  "straight_outer_edge_max_upward_change_mm": 0.0,
+  "draped_inside_edge_measurements": [
+    {
+      "distance_from_center": 18.0,
+      "previous_inside_edge_z": 20.9410040076465,
+      "new_inside_edge_z": 23.65484583780265,
+      "previous_sag_mm": 8.33985007675918,
+      "new_sag_mm": 5.626008246603032,
+      "sag_reduction_fraction": 0.3254065487003014
+    },
+    {
+      "distance_from_center": 25.0,
+      "previous_inside_edge_z": 17.634621333024096,
+      "new_inside_edge_z": 20.39583628016822,
+      "previous_sag_mm": 8.298829194734534,
+      "new_sag_mm": 5.537614247590412,
+      "sag_reduction_fraction": 0.3327234339147582
+    },
+    {
+      "distance_from_center": 35.0,
+      "previous_inside_edge_z": 13.006337643369026,
+      "new_inside_edge_z": 15.85583870764124,
+      "previous_sag_mm": 8.161161849279782,
+      "new_sag_mm": 5.311660785007568,
+      "sag_reduction_fraction": 0.3491538480545734
+    }
+  ],
+  "mean_upper_sag_reduction_fraction": 0.33576127688987767,
+  "above_window_gap_old_area_mm2": 21.183305163207095,
+  "above_window_gap_new_area_mm2": 1.803944329831447,
+  "above_window_gap_fill_fraction": 0.914841224448549,
+  "center_berry_projected_area_ratio": 1.4400000005799267,
+  "center_berry_scale_xz": 1.2,
+  "center_green_old_projected_area_mm2": 175.39991272496346,
+  "center_green_new_projected_area_mm2": 197.79926588426818,
+  "projected_clearance_checks": {
+    "green": {
+      "disc_projected_overlap_area": 0.0,
+      "window_projected_overlap_area": 0.0
+    },
+    "red": {
+      "disc_projected_overlap_area": 0.0,
+      "window_projected_overlap_area": 0.0
+    }
+  },
+  "roots_outside_original_body_volume_mm3": {
+    "green": 0.0,
+    "red": 0.0
+  },
+  "retained_components": {
+    "left-unified-snow.npz": {
+      "sha256": "ec55c7ff88e719c04554b5608184862efed561329242f54ed675046cf9797b0d",
+      "unchanged": true
+    },
+    "left-peppermint-construction.npz": {
+      "sha256": "3918cf756bada9656c46ce22a930e8bce2ada2bccec3a87aa56e067d728a5d11",
+      "unchanged": true
+    },
+    "left-window-construction.npz": {
+      "sha256": "681d13cf8950892e794134e8b7fa4530d542a034a37af25d426b4c16529e6340",
+      "unchanged": true
+    },
+    "left-window-sill.npz": {
+      "sha256": "1344d9dc26e6c7b9a439e44d9839d635054b7433c7d068c8c01a7fa25b5c3dbb",
+      "unchanged": true
+    }
+  },
+  "all_checks_passed": true
+}

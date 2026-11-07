@@ -1,6 +1,6 @@
 # Side roofs — filled snow contact and new holly (v15)
 
-The current side roofs are [v18](../roof-customization-v18/README.md), with lusher holly, curved lower edges and windows reduced by 12.5%.
+The current side roofs are [v19](../roof-customization-v19/README.md), with a filled top holly gap, a larger bottom-center cluster and less upper drape.
 
 The gap beneath the shortened inner snow end is filled back into the roof and gable face. The rounded front profile and scalloped side drifts are retained. Both side roofs receive the same mirrored repair.
 

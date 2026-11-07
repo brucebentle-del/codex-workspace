@@ -1,6 +1,6 @@
 # Side roofs with thicker lower holly (v17)
 
-The current side roofs are [v18](../roof-customization-v18/README.md), with lusher holly, curved lower edges and windows reduced by 12.5%.
+The current side roofs are [v19](../roof-customization-v19/README.md), with a filled top holly gap, a larger bottom-center cluster and less upper drape.
 
 Two additional overlapping rows of holly run across the **entire lower garland**, from one roof end to the other, including the draped valleys and center tie. The new rows add 100 wider, domed leaves per roof, while preserving the curved drape and existing end clusters.
 

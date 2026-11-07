@@ -1,5 +1,7 @@
 # Side roofs with lush draped holly and smaller windows (v18)
 
+The current side roofs are [v19](../roof-customization-v19/README.md), with a filled top holly gap, a larger bottom-center cluster and less upper drape.
+
 The upper holly edges still follow the straight roof slopes. Their lower edges now curve downward into fuller drapes, following the red sketch. Four new overlapping rows fill this wider band with broader domed leaves. An additional staggered row and fuller center fan enrich the bottom border.
 
 The holly projects farther outward and has more berry clusters. Each roof has **498 leaves and 101 berries**, including 221 new leaves and 38 new berries. Green foliage volume in front of the facade increased by about 80% from v17. Its maximum outward relief increased by about 1.16 mm.
