@@ -1,5 +1,7 @@
 # Side roofs — filled snow contact and new holly (v15)
 
+The current side roofs are [v16](../roof-customization-v16/README.md), with draping holly, a lower top cluster, and fuller roof ends.
+
 The gap beneath the shortened inner snow end is filled back into the roof and gable face. The rounded front profile and scalloped side drifts are retained. Both side roofs receive the same mirrored repair.
 
 The old front holly and its remnants are removed to the original facade plane. A new triangular garland frames the centered window: two overlapping rows of domed, softly serrated leaves with midribs, round berry clusters, and a fuller border and leaf fan beneath the window. Each gable has 138 leaves and 54 berries. The original arch, panes, and mullions remain centered; a clean rounded sill replaces the old decorative sill shape.
