@@ -1,5 +1,7 @@
 # Left and right roofs — rounded snow, matching peppermint, centered windows (v13)
 
+The current side roofs are [v14](../roof-customization-v14/README.md), with scalloped outer-side snow, rounded ends, and smooth roof contacts.
+
 These side roofs use rounded, scalloped snow in the center roof's style, matching two-sided peppermint discs, and windows centered on their gable peaks. The rounded inner snow ends stop short to preserve the original landing areas for the center roof. No new holly is added at the tips. The complete right model mirrors the left using the verified original transform.
 
 The center remains **rev31 v12**, unchanged and pending your test print.
