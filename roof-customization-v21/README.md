@@ -1,5 +1,7 @@
 # Side roof window and snow-tip cleanup (v21)
 
+The current side roofs are [v22](../roof-customization-v22/README.md), with the separate oval snow-tip cap removed and the existing ridge locally smoothed into one continuous rounded end.
+
 This revision cleans the two remaining areas on both side roofs. The window keeps its intended raised arch and sill, while the stepped backing behind the arch has been replaced with one smooth, continuous return into the facade. The shortened inner snow ridge now ends in a rounded ellipsoidal cap instead of a flat clipped face. The cap stays inside the protected center-roof clearance.
 
 The holly, berries, centered window layout, peppermint discs, snow profiles away from the inner tip, and original mounting geometry are retained from v20. The left and right roofs are mirrored. Center **rev31 v12 remains unchanged**, pending a test print.
