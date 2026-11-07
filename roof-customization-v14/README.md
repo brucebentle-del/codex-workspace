@@ -1,6 +1,6 @@
 # Side roofs — scalloped side snow and smooth joins (v14)
 
-The current side roofs are [v16](../roof-customization-v16/README.md), with draping holly, a lower top cluster, and fuller roof ends.
+The current side roofs are [v17](../roof-customization-v17/README.md), with thicker lower holly and two added rows spanning the full bottom garland.
 
 The exposed long side drifts now have rounded lower scallops like the front. The front, outer eave, and ridge snow form one continuous surface, with rounded corner ends and smoothly tapered roof-facing edges. The recessed strips and remnants beneath the old snow footprint are removed.
 

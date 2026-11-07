@@ -1,6 +1,6 @@
 # Scalloped rear snow edges — revision 4
 
-The current side roofs are [v16](../roof-customization-v16/README.md), with draping holly, a lower top cluster, and fuller roof ends.
+The current side roofs are [v17](../roof-customization-v17/README.md), with thicker lower holly and two added rows spanning the full bottom garland.
 
 These are earlier side roofs. The center remains [rev31 v12](../roof-customization-v12/README.md), pending a test print.
 

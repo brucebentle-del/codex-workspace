@@ -1,0 +1,96 @@
+{
+  "lower_swags": 2,
+  "additional_bottom_rows": 2,
+  "added_bottom_leaf_count": 100,
+  "added_row_coverage": [
+    {
+      "row": 1,
+      "leaf_count": 49,
+      "x_limits": [
+        -11.735043547541979,
+        150.73495645245802
+      ],
+      "largest_x_gap": 0.0,
+      "leaf_front_y": -11.399999999999999
+    },
+    {
+      "row": 2,
+      "leaf_count": 51,
+      "x_limits": [
+        -11.735043547541977,
+        150.73495645245802
+      ],
+      "largest_x_gap": 0.0,
+      "leaf_front_y": -12.25
+    }
+  ],
+  "lower_green_volume_increase_percent": 76.80766435091601,
+  "green_front_y_before": -11.5,
+  "green_front_y_after": -12.25,
+  "upper_holly_changed_volume_mm3": {
+    "green": 0.0,
+    "red": 0.0
+  },
+  "swag_valleys_xz": [
+    [
+      33.06101233762902,
+      3.7316152320717872
+    ],
+    [
+      105.93890056728705,
+      3.731615232071787
+    ]
+  ],
+  "center_tie_path_xz": [
+    69.49995645245802,
+    7.8
+  ],
+  "swag_drop_below_center": [
+    4.068384767928213,
+    4.0683847679282135
+  ],
+  "green_bounds": [
+    [
+      -11.735043547541979,
+      -12.25,
+      1.4967841367442234
+    ],
+    [
+      150.73495645245802,
+      -5.8999999999999995,
+      39.10366616103824
+    ]
+  ],
+  "projected_clearance_checks": {
+    "green": {
+      "disc_projected_overlap_area": 0.0,
+      "window_projected_overlap_area": 0.0
+    },
+    "red": {
+      "disc_projected_overlap_area": 0.0,
+      "window_projected_overlap_area": 0.0
+    }
+  },
+  "added_holly_roots_behind_face_outside_body_volume": 0.0,
+  "berry_roots_behind_face_outside_body_volume": 0.0,
+  "end_leaf_sprays_forward_of_face_y": -7.5,
+  "retained_components": {
+    "left-unified-snow.npz": {
+      "sha256": "ec55c7ff88e719c04554b5608184862efed561329242f54ed675046cf9797b0d",
+      "unchanged": true
+    },
+    "left-window-sill.npz": {
+      "sha256": "c5d3a7acad0d0c97a64a889442c713acf149c2c5ddbef86f79a0976355cbc186",
+      "unchanged": true
+    },
+    "left-window-construction.npz": {
+      "sha256": "9e5d4c7473a02515e953a69e7d56ff4694a0080802219911149d196f1e32b142",
+      "unchanged": true
+    },
+    "left-peppermint-construction.npz": {
+      "sha256": "3918cf756bada9656c46ce22a930e8bce2ada2bccec3a87aa56e067d728a5d11",
+      "unchanged": true
+    }
+  },
+  "all_checks_passed": true
+}

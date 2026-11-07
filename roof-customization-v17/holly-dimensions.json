@@ -1,0 +1,156 @@
+{
+  "style": "Retained draped v16 garland with two additional full-width overlapping rows of wider domed holly leaves, rounded buried backing, and outward-raised lower berries.",
+  "rows": 2,
+  "leaf_count": 277,
+  "berry_count": 63,
+  "mirror_plane_x": 69.49995645245802,
+  "top_cluster_center_z": 36.9,
+  "previous_top_path_z": 41.7,
+  "top_cluster_downward_change": 4.8,
+  "top_disc_projected_clearance": 0.25,
+  "window_keepout_margin": 0.85,
+  "gable_face_x_limits": [
+    -9.0,
+    148.0
+  ],
+  "decorative_x_limits": [
+    -11.750043547541978,
+    150.74995645245804
+  ],
+  "eave_spray_back_plane_outside_wall_y": -7.5,
+  "green_bounds": [
+    [
+      -11.735043547541979,
+      -12.25,
+      1.4967841367442234
+    ],
+    [
+      150.73495645245802,
+      -5.8999999999999995,
+      39.10366616103824
+    ]
+  ],
+  "lower_swags": 2,
+  "left_swag_low_point_xz": [
+    32.96974318664316,
+    3.7315771660887016
+  ],
+  "right_swag_low_point_xz": [
+    106.03016971827289,
+    3.7315771660887016
+  ],
+  "center_path_xz": [
+    69.49995645245802,
+    7.8
+  ],
+  "leaves_buried_back_plane_y": -6.72,
+  "old_holly_removed": true,
+  "new_holly_on_front_face_only": true,
+  "snow_window_disc_and_mounting_geometry_retained": true,
+  "previous_leaf_count": 177,
+  "additional_bottom_rows": 2,
+  "added_bottom_leaf_count": 100,
+  "added_row_coverage": [
+    {
+      "row": 1,
+      "leaf_count": 49,
+      "x_limits": [
+        -11.735043547541979,
+        150.73495645245802
+      ],
+      "largest_x_gap": 0.0,
+      "leaf_front_y": -11.399999999999999
+    },
+    {
+      "row": 2,
+      "leaf_count": 51,
+      "x_limits": [
+        -11.735043547541977,
+        150.73495645245802
+      ],
+      "largest_x_gap": 0.0,
+      "leaf_front_y": -12.25
+    }
+  ],
+  "lower_green_volume_before_mm3": 2884.4991249302957,
+  "lower_green_volume_after_mm3": 5100.015531011867,
+  "lower_green_volume_increase_percent": 76.80766435091601,
+  "lower_green_front_y_before": -11.5,
+  "lower_green_front_y_after": -12.25,
+  "lower_berry_outward_shift_mm": 1.2,
+  "moved_lower_berry_clusters_xz": [
+    [
+      4.470314938507173,
+      11.952477613949439
+    ],
+    [
+      19.03204438469891,
+      5.112444899565587
+    ],
+    [
+      47.24881633923317,
+      4.632469536935382
+    ],
+    [
+      5.703407437583498,
+      7.419555116672648
+    ],
+    [
+      33.85088063979295,
+      3.7383685469293644
+    ],
+    [
+      60.58124004930993,
+      6.8675432016334765
+    ],
+    [
+      -5.800043547541975,
+      8.07
+    ],
+    [
+      134.52959796640886,
+      11.952477613949439
+    ],
+    [
+      119.96786852021714,
+      5.112444899565587
+    ],
+    [
+      91.75109656568287,
+      4.632469536935382
+    ],
+    [
+      133.29650546733257,
+      7.419555116672648
+    ],
+    [
+      105.1490322651231,
+      3.7383685469293644
+    ],
+    [
+      78.41867285560612,
+      6.8675432016334765
+    ],
+    [
+      144.79995645245802,
+      8.07
+    ],
+    [
+      69.49995645245802,
+      6.875000000000001
+    ]
+  ],
+  "red_bounds": [
+    [
+      -8.200043547541975,
+      -14.0,
+      2.292469536935382
+    ],
+    [
+      147.19995645245803,
+      -6.65,
+      38.25
+    ]
+  ],
+  "upper_holly_retained": true
+}
