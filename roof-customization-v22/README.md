@@ -1,5 +1,7 @@
 # Rounded side-roof snow ends (v22)
 
+> Archived revision. The current side roofs are [v23](../roof-customization-v23/README.md).
+
 This revision cleans the circled inner end of the snow ridge on both side roofs. The separate oval cap has been removed. The original snow surface is drawn inward within the protected center-roof clearance and locally smoothed into one continuous rounded end, without a blade, block, gap, or visible Boolean seam.
 
 The left and right roofs are exact mirrors. The v21 window cleanup and the existing holly, berries, centered windows, peppermint discs, snow profiles away from the inner end, and mounting geometry are retained. Center **rev31 v12 remains unchanged**, pending a test print.

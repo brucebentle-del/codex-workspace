@@ -1,0 +1,424 @@
+{
+  "style": "Oversized leaves curve closely around the window arch. The enlarged three-berry lower-center accent and its six-leaf fan remain in place, with matching three-berry leaf fans added to the left and right gaps beside the window.",
+  "mirror_plane_x": 69.49995645245802,
+  "window_scale_xz": 0.875,
+  "window_scale_pivot_z": 22.35,
+  "retained_leaf_count": 277,
+  "added_leaf_count": 236,
+  "leaf_count": 513,
+  "retained_berry_count": 60,
+  "added_berry_count": 47,
+  "berry_count": 107,
+  "additional_slope_rows": [
+    {
+      "row": 1,
+      "additional_leaves": 46,
+      "inside_fraction": 0.0
+    },
+    {
+      "row": 2,
+      "additional_leaves": 46,
+      "inside_fraction": 0.3333333333333333
+    },
+    {
+      "row": 3,
+      "additional_leaves": 46,
+      "inside_fraction": 0.6666666666666666
+    },
+    {
+      "row": 4,
+      "additional_leaves": 46,
+      "inside_fraction": 1.0
+    }
+  ],
+  "lower_border_additional_row": true,
+  "existing_holly_relief_scale": 1.22,
+  "green_front_y_before": -12.25,
+  "green_front_y_after": -13.405000000000001,
+  "green_volume_in_front_of_face_before_mm3": 7265.875074357456,
+  "green_volume_in_front_of_face_after_mm3": 13048.387614424628,
+  "green_volume_increase_percent": 79.5845301617512,
+  "green_bounds": [
+    [
+      -11.735043547541979,
+      -13.405000000000001,
+      1.4967841367442234
+    ],
+    [
+      150.73495645245802,
+      -5.8999999999999995,
+      39.10366616103824
+    ]
+  ],
+  "red_bounds": [
+    [
+      -8.200043547541975,
+      -15.540000000000001,
+      2.292469536935382
+    ],
+    [
+      147.19995645245803,
+      -6.6499999999999995,
+      38.71
+    ]
+  ],
+  "draped_profile_samples": [
+    {
+      "distance_from_center": 15.0,
+      "straight_center_z": 33.7,
+      "draped_inner_edge_target_z": 25.966666666666665,
+      "drop_below_straight_center_mm": 7.733333333333338
+    },
+    {
+      "distance_from_center": 25.0,
+      "straight_center_z": 29.2,
+      "draped_inner_edge_target_z": 21.066666666666666,
+      "drop_below_straight_center_mm": 8.133333333333333
+    },
+    {
+      "distance_from_center": 37.0,
+      "straight_center_z": 23.917466866566716,
+      "draped_inner_edge_target_z": 15.772488955522238,
+      "drop_below_straight_center_mm": 8.144977911044478
+    },
+    {
+      "distance_from_center": 48.0,
+      "straight_center_z": 19.03564106891702,
+      "draped_inner_edge_target_z": 12.811880356305673,
+      "drop_below_straight_center_mm": 6.223760712611346
+    },
+    {
+      "distance_from_center": 58.0,
+      "straight_center_z": 14.779530287020465,
+      "draped_inner_edge_target_z": 11.659843429006822,
+      "drop_below_straight_center_mm": 3.119686858013644
+    }
+  ],
+  "draped_profile_control_distance": [
+    3.0,
+    8.0,
+    15.0,
+    25.0,
+    37.0,
+    48.0,
+    58.0,
+    66.0,
+    71.0
+  ],
+  "draped_profile_control_z": [
+    36.2,
+    30.8,
+    25.966666666666665,
+    21.066666666666666,
+    15.772488955522238,
+    12.811880356305673,
+    11.659843429006822,
+    10.1,
+    8.6
+  ],
+  "straight_profile_control_distance": [
+    4.0,
+    8.0,
+    15.0,
+    25.0,
+    40.0,
+    55.0,
+    65.0,
+    71.0
+  ],
+  "straight_profile_control_z": [
+    36.9,
+    37.0,
+    33.7,
+    29.2,
+    22.6,
+    16.0,
+    12.0,
+    9.5
+  ],
+  "old_holly_removed": true,
+  "leaves_buried_back_plane_y": -6.72,
+  "leaf_window_keepout_margin": 0.7,
+  "sill_keepout_margin": 0.55,
+  "end_sprays_forward_of_face_y": -7.5,
+  "original_inner_snow_finish_retained": true,
+  "center_v12_modified": false,
+  "requested_upper_sag_reduction": 0.3333333333333333,
+  "center_cluster_scale_xz": 1.2,
+  "center_cluster_berry_measurements": [
+    {
+      "before_bounds": [
+        [
+          66.19995645245803,
+          -14.0,
+          3.9
+        ],
+        [
+          72.79995645245802,
+          -6.65,
+          9.850000000000001
+        ]
+      ],
+      "after_bounds": [
+        [
+          65.53995645245803,
+          -14.0,
+          3.32
+        ],
+        [
+          73.45995645245802,
+          -6.65,
+          10.46
+        ]
+      ],
+      "scale_xz": 1.2
+    }
+  ],
+  "added_side_berry_clusters": [
+    {
+      "side": "left",
+      "center_xz": [
+        52.49995645245802,
+        13.3
+      ],
+      "translation_xz": [
+        -17.0,
+        6.5
+      ],
+      "berry_count": 3,
+      "bounds": [
+        [
+          48.53995645245803,
+          -14.0,
+          9.82
+        ],
+        [
+          56.459956452458016,
+          -6.65,
+          16.96
+        ]
+      ]
+    },
+    {
+      "side": "right",
+      "center_xz": [
+        86.49995645245802,
+        13.3
+      ],
+      "translation_xz": [
+        17.0,
+        6.5
+      ],
+      "berry_count": 3,
+      "bounds": [
+        [
+          82.53995645245803,
+          -14.0,
+          9.82
+        ],
+        [
+          90.45995645245802,
+          -6.65,
+          16.96
+        ]
+      ]
+    }
+  ],
+  "added_side_leaf_fans": [
+    {
+      "side": "left",
+      "center_xz": [
+        50.099956452458024,
+        12.0
+      ],
+      "length": 10.44,
+      "width": 5.58,
+      "angle": -0.32
+    },
+    {
+      "side": "right",
+      "center_xz": [
+        88.89995645245801,
+        12.0
+      ],
+      "length": 10.44,
+      "width": 5.58,
+      "angle": 0.32
+    },
+    {
+      "side": "left",
+      "center_xz": [
+        52.49995645245802,
+        14.2
+      ],
+      "length": 10.44,
+      "width": 5.58,
+      "angle": 0.08
+    },
+    {
+      "side": "right",
+      "center_xz": [
+        86.49995645245802,
+        14.2
+      ],
+      "length": 10.44,
+      "width": 5.58,
+      "angle": -0.08
+    },
+    {
+      "side": "left",
+      "center_xz": [
+        54.699956452458025,
+        11.8
+      ],
+      "length": 10.44,
+      "width": 5.58,
+      "angle": 0.48
+    },
+    {
+      "side": "right",
+      "center_xz": [
+        84.29995645245802,
+        11.8
+      ],
+      "length": 10.44,
+      "width": 5.58,
+      "angle": -0.48
+    }
+  ],
+  "lower_center_oversized_cluster_retained": true,
+  "side_cluster_berry_count_each": 3,
+  "side_cluster_leaf_count_each": 3,
+  "above_window_fill_leaves": 9,
+  "above_window_fill_bounds": [
+    [
+      56.233472921498276,
+      -13.25,
+      26.36905837467885
+    ],
+    [
+      82.76643998341777,
+      -6.72,
+      38.42425732044199
+    ]
+  ],
+  "window_unchanged_from_v19": true,
+  "previous_draped_profile_control_z": [
+    36.2,
+    29.0,
+    23.4,
+    18.3,
+    13.0,
+    11.0,
+    11.4,
+    10.1,
+    8.6
+  ],
+  "arch_leaf_records": [
+    {
+      "angle_degrees": 35.0,
+      "center_xz": [
+        79.33387674414737,
+        30.679535118394305
+      ],
+      "path_radius": 12.005,
+      "length": 10.44,
+      "width": 5.58,
+      "base_y": -10.2,
+      "relief": 3.05
+    },
+    {
+      "angle_degrees": 48.75,
+      "center_xz": [
+        77.41540296273435,
+        32.819586888785125
+      ],
+      "path_radius": 12.005,
+      "length": 10.44,
+      "width": 5.58,
+      "base_y": -10.2,
+      "relief": 3.05
+    },
+    {
+      "angle_degrees": 62.5,
+      "center_xz": [
+        75.0432485543446,
+        34.44231505230455
+      ],
+      "path_radius": 12.005,
+      "length": 10.44,
+      "width": 5.58,
+      "base_y": -10.2,
+      "relief": 3.05
+    },
+    {
+      "angle_degrees": 76.25,
+      "center_xz": [
+        72.35337558983373,
+        35.45471154810821
+      ],
+      "path_radius": 12.005,
+      "length": 10.44,
+      "width": 5.58,
+      "base_y": -10.2,
+      "relief": 3.05
+    },
+    {
+      "angle_degrees": 90.0,
+      "center_xz": [
+        69.49995645245802,
+        35.79875
+      ],
+      "path_radius": 12.005,
+      "length": 10.44,
+      "width": 5.58,
+      "base_y": -10.2,
+      "relief": 3.05
+    }
+  ],
+  "top_berry_records": [
+    {
+      "center": [
+        67.39995645245803,
+        -13.71,
+        36.85
+      ],
+      "radii": [
+        1.86,
+        1.83,
+        1.86
+      ]
+    },
+    {
+      "center": [
+        71.59995645245802,
+        -13.71,
+        36.85
+      ],
+      "radii": [
+        1.86,
+        1.83,
+        1.86
+      ]
+    },
+    {
+      "center": [
+        69.49995645245802,
+        -13.71,
+        35.2
+      ],
+      "radii": [
+        1.98,
+        1.83,
+        1.98
+      ]
+    }
+  ],
+  "arch_leaf_window_margin": 0.3,
+  "arch_center_z": 23.79375,
+  "arch_radius": 9.1,
+  "top_leaf_length": 10.44,
+  "top_leaf_width": 5.58,
+  "top_leaf_relief": 3.05,
+  "top_berry_count": 3
+}

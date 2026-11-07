@@ -1,0 +1,51 @@
+{
+  "window_return_profiles": [
+    {
+      "y": -7.2,
+      "previous_profile_difference_area_mm2": 137.7520851058854,
+      "new_profile_difference_area_mm2": 4.92349333525155e-09
+    },
+    {
+      "y": -7.6,
+      "previous_profile_difference_area_mm2": 19.82200107856288,
+      "new_profile_difference_area_mm2": 1.5217643589693353e-08
+    },
+    {
+      "y": -8.4,
+      "previous_profile_difference_area_mm2": 26.698836258836213,
+      "new_profile_difference_area_mm2": 8.043464005957901e-09
+    },
+    {
+      "y": -9.15,
+      "previous_profile_difference_area_mm2": 26.936967453498507,
+      "new_profile_difference_area_mm2": 8.618355390455079e-09
+    },
+    {
+      "y": -10.0,
+      "previous_profile_difference_area_mm2": 27.161346653809666,
+      "new_profile_difference_area_mm2": 1.530916493575063e-08
+    },
+    {
+      "y": -10.54,
+      "previous_profile_difference_area_mm2": 27.631104683540503,
+      "new_profile_difference_area_mm2": 7.511071875576647e-09
+    }
+  ],
+  "retained_window_front_samples": 67,
+  "maximum_retained_window_front_error_mm": 2.534209879436686e-11,
+  "unchanged_snow_surface_samples_before_x127_5": 13,
+  "maximum_unchanged_snow_surface_error_mm": 9.894650471074577e-15,
+  "rounded_terminal_profile": {
+    "former_planar_faces_removed": 509,
+    "shared_boundary_vertices": 79,
+    "integrated_dome_rings": 7,
+    "integrated_dome_faces_added": 1185,
+    "largest_remaining_near_planar_component_faces": 172,
+    "separate_solid_added": false,
+    "mirrored_on_right": true
+  },
+  "rounded_snow_maximum_x": 134.2,
+  "snow_clip_boundary_x": 135.98,
+  "protected_center_roof_landing_x": 136.0,
+  "all_checks_passed": true
+}

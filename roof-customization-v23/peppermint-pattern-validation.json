@@ -1,0 +1,90 @@
+{
+  "diameter": 29.325,
+  "arms_per_face": 8,
+  "faces": 2,
+  "target_relief": 0.414375,
+  "max_relief_error": 2.5558471679620887e-06,
+  "ray_measurements": [
+    {
+      "face": "front",
+      "arm": 1,
+      "relief": 0.41437435150146484
+    },
+    {
+      "face": "front",
+      "arm": 2,
+      "relief": 0.41437435150146484
+    },
+    {
+      "face": "front",
+      "arm": 3,
+      "relief": 0.41437435150146484
+    },
+    {
+      "face": "front",
+      "arm": 4,
+      "relief": 0.41437244415283203
+    },
+    {
+      "face": "front",
+      "arm": 5,
+      "relief": 0.41437435150146484
+    },
+    {
+      "face": "front",
+      "arm": 6,
+      "relief": 0.41437625885009766
+    },
+    {
+      "face": "front",
+      "arm": 7,
+      "relief": 0.41437435150146484
+    },
+    {
+      "face": "front",
+      "arm": 8,
+      "relief": 0.41437244415283203
+    },
+    {
+      "face": "rear",
+      "arm": 1,
+      "relief": 0.41437435150146484
+    },
+    {
+      "face": "rear",
+      "arm": 2,
+      "relief": 0.41437625885009766
+    },
+    {
+      "face": "rear",
+      "arm": 3,
+      "relief": 0.41437435150146484
+    },
+    {
+      "face": "rear",
+      "arm": 4,
+      "relief": 0.41437625885009766
+    },
+    {
+      "face": "rear",
+      "arm": 5,
+      "relief": 0.41437435150146484
+    },
+    {
+      "face": "rear",
+      "arm": 6,
+      "relief": 0.41437435150146484
+    },
+    {
+      "face": "rear",
+      "arm": 7,
+      "relief": 0.41437435150146484
+    },
+    {
+      "face": "rear",
+      "arm": 8,
+      "relief": 0.41437625885009766
+    }
+  ],
+  "all_checks_passed": true
+}
