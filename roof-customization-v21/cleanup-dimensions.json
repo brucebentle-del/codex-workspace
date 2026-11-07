@@ -1,0 +1,130 @@
+{
+  "window_cleanup": "Retain original front details and use their exact convex outer outline for a smooth constant-profile return to the facade. Remove the stepped backing and outer burrs.",
+  "window_front_plane_y": -12.55,
+  "window_backing_front_y": -10.55,
+  "window_back_plane_y": -6.8,
+  "window_outline": [
+    [
+      60.39995511731398,
+      13.29375
+    ],
+    [
+      78.59995778760207,
+      13.29375
+    ],
+    [
+      78.59995778760207,
+      23.79375
+    ],
+    [
+      78.42513402661574,
+      25.569037628173827
+    ],
+    [
+      77.90721830090773,
+      27.276162815093993
+    ],
+    [
+      77.06634458264601,
+      28.849413108825683
+    ],
+    [
+      75.93461641034376,
+      30.22841329574585
+    ],
+    [
+      74.5556195612837,
+      31.360138130187988
+    ],
+    [
+      72.98236592969191,
+      32.20101184844971
+    ],
+    [
+      71.27524408063185,
+      32.71892423629761
+    ],
+    [
+      69.49995645245802,
+      32.893751335144046
+    ],
+    [
+      67.7246688242842,
+      32.71892423629761
+    ],
+    [
+      66.01754697522414,
+      32.20101184844971
+    ],
+    [
+      64.44429334363234,
+      31.360138130187988
+    ],
+    [
+      63.06529649457228,
+      30.22841329574585
+    ],
+    [
+      61.933568322270034,
+      28.849413108825683
+    ],
+    [
+      61.092694604008315,
+      27.276162815093993
+    ],
+    [
+      60.574782216160415,
+      25.569037628173827
+    ],
+    [
+      60.39995511731398,
+      23.79375
+    ]
+  ],
+  "window_before_bounds": [
+    [
+      60.36933145245803,
+      -12.550000190734863,
+      13.263125
+    ],
+    [
+      78.63058145245802,
+      -6.9,
+      32.9243657775
+    ]
+  ],
+  "window_after_bounds": [
+    [
+      60.39995511621237,
+      -12.550000190734863,
+      13.293750002980232
+    ],
+    [
+      78.59995778650045,
+      -6.8,
+      32.893751338124275
+    ]
+  ],
+  "snow_tip_method": "Move the shortened terminal section inward in roof-relative height, bury its inherited planar terminal face, and replace the visible local ridge end with a matched ellipsoidal cap following the roof slope.",
+  "snow_tip_transition_start_x": 128.0,
+  "snow_unclipped_tip_x_before": 137.61602783203125,
+  "snow_unclipped_tip_x_after": 135.75,
+  "snow_safety_clip_x": 135.98,
+  "protected_inner_landing_start_x": 136.0,
+  "snow_max_inward_shift_mm": 1.86602783203125,
+  "snow_minimum_longitudinal_scale": 0.7089191299214848,
+  "snow_vertices_before_transition_exactly_retained_before_local_cap_boolean": true,
+  "snow_roof_relative_heights_retained_before_cap": true,
+  "snow_rounded_cap_center": [
+    132.5,
+    -5.96,
+    24.525
+  ],
+  "snow_rounded_cap_radii": [
+    3.15,
+    1.5,
+    3.85
+  ],
+  "snow_planar_face_buried_by_rounded_cap": true,
+  "holly_and_peppermint_modified": false
+}

@@ -1,5 +1,7 @@
 # Side roofs with holly hugging the window arch (v20)
 
+The current side roofs are [v21](../roof-customization-v21/README.md), with a clean window return and rounded inner snow ends.
+
 The holly above the window now follows the curve of the arch closely. Nine larger leaves use the **same dimensions and outward relief as the oversized lower-center leaves**. Three bold upper berries use the same radii and front relief as the main berries below the window, arranged to fit between the arch and peppermint disc.
 
 The top leaf fan and berries are centered on the window, and both side roofs mirror each other. The lower garland and side drapes retain their v19 profiles. Each roof has 507 leaves and 101 berries.

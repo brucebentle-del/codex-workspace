@@ -1,0 +1,216 @@
+{
+  "before_v14": {
+    "sections": 2717,
+    "open_gap_sections": 58,
+    "largest_gap": 4.825935363769531,
+    "examples": [
+      {
+        "x_on_left": 131.24999999999991,
+        "y": 3.1500000000000004,
+        "lower_height": 0.24480033709087934,
+        "upper_height": 0.44234443499126996,
+        "gap": 0.19754409790039062
+      },
+      {
+        "x_on_left": 131.5999999999999,
+        "y": 2.1500000000000004,
+        "lower_height": 0.12454271282378215,
+        "upper_height": 0.4886708256167509,
+        "gap": 0.36412811279296875
+      },
+      {
+        "x_on_left": 131.9499999999999,
+        "y": 1.1500000000000004,
+        "lower_height": 0.07546352483598184,
+        "upper_height": 0.5681736383613725,
+        "gap": 0.4927101135253906
+      },
+      {
+        "x_on_left": 131.9499999999999,
+        "y": 2.1500000000000004,
+        "lower_height": 0.0018818292793412184,
+        "upper_height": 1.2298977289375443,
+        "gap": 1.2280158996582031
+      },
+      {
+        "x_on_left": 132.2999999999999,
+        "y": 0.15000000000000036,
+        "lower_height": 0.06295583953372841,
+        "upper_height": 0.6352310012768925,
+        "gap": 0.5722751617431641
+      },
+      {
+        "x_on_left": 132.2999999999999,
+        "y": 1.1500000000000004,
+        "lower_height": 0.0032806228589237207,
+        "upper_height": 1.0976104568432987,
+        "gap": 1.094329833984375
+      },
+      {
+        "x_on_left": 132.2999999999999,
+        "y": 2.1500000000000004,
+        "lower_height": 9.519953650283242e-06,
+        "upper_height": 2.3487834762524784,
+        "gap": 2.348773956298828
+      },
+      {
+        "x_on_left": 132.6499999999999,
+        "y": -0.8499999999999996,
+        "lower_height": 0.027971957942412473,
+        "upper_height": 0.7563159215654593,
+        "gap": 0.7283439636230469
+      }
+    ]
+  },
+  "files": [
+    {
+      "sections": 2717,
+      "open_gap_sections": 9,
+      "largest_gap": 2.1407604217529297,
+      "examples": [
+        {
+          "x_on_left": 134.04999999999987,
+          "y": -6.85,
+          "lower_height": -2.963281247048144e-07,
+          "upper_height": 0.8292443173193362,
+          "gap": 0.8292446136474609
+        },
+        {
+          "x_on_left": 134.04999999999987,
+          "y": -4.85,
+          "lower_height": 0.00361985137695342,
+          "upper_height": 1.5236489193701175,
+          "gap": 1.520029067993164
+        },
+        {
+          "x_on_left": 134.39999999999986,
+          "y": -6.85,
+          "lower_height": 4.225400871860074e-06,
+          "upper_height": 1.2314400011577078,
+          "gap": 1.231435775756836
+        },
+        {
+          "x_on_left": 134.39999999999986,
+          "y": -5.85,
+          "lower_height": 0.0022720629252859226,
+          "upper_height": 0.22140544000048124,
+          "gap": 0.2191333770751953
+        },
+        {
+          "x_on_left": 134.39999999999986,
+          "y": -4.85,
+          "lower_height": 0.0007423693217702976,
+          "upper_height": 2.1415027910747,
+          "gap": 2.1407604217529297
+        },
+        {
+          "x_on_left": 134.74999999999986,
+          "y": -6.85,
+          "lower_height": 3.025083969987463e-06,
+          "upper_height": 1.8611938209824075,
+          "gap": 1.8611907958984375
+        },
+        {
+          "x_on_left": 134.74999999999986,
+          "y": -5.85,
+          "lower_height": 0.001412555723618425,
+          "upper_height": 0.5994235725693215,
+          "gap": 0.5980110168457031
+        },
+        {
+          "x_on_left": 135.09999999999985,
+          "y": -5.85,
+          "lower_height": 0.0005568632192165524,
+          "upper_height": 1.1237372526235134,
+          "gap": 1.1231803894042969
+        }
+      ],
+      "side": "left",
+      "file": "left_roof_rev10_center_style_snow_peppermint_v21.stl",
+      "rounded_tip_overhang_sections": 9,
+      "all_other_snow_sections_fused": true,
+      "old_front_projection_faces": 0,
+      "retained_window_faces_excluded": 0,
+      "verified_new_holly_faces_excluded": 0,
+      "new_holly_surface_distances": [],
+      "all_checks_passed": true
+    },
+    {
+      "sections": 2717,
+      "open_gap_sections": 9,
+      "largest_gap": 2.140777587890625,
+      "examples": [
+        {
+          "x_on_left": 134.04999999999987,
+          "y": -6.85,
+          "lower_height": 1.6110205081076856e-06,
+          "upper_height": 0.8292443173193362,
+          "gap": 0.8292427062988281
+        },
+        {
+          "x_on_left": 134.04999999999987,
+          "y": -4.85,
+          "lower_height": 0.0036217587255862327,
+          "upper_height": 1.5236470120214847,
+          "gap": 1.5200252532958984
+        },
+        {
+          "x_on_left": 134.39999999999986,
+          "y": -6.85,
+          "lower_height": 2.3180522390475744e-06,
+          "upper_height": 1.2314457232036062,
+          "gap": 1.2314434051513672
+        },
+        {
+          "x_on_left": 134.39999999999986,
+          "y": -5.85,
+          "lower_height": 0.0022682482280202976,
+          "upper_height": 0.22140925469774686,
+          "gap": 0.21914100646972656
+        },
+        {
+          "x_on_left": 134.39999999999986,
+          "y": -4.85,
+          "lower_height": 0.0007385546245046726,
+          "upper_height": 2.1415161425151297,
+          "gap": 2.140777587890625
+        },
+        {
+          "x_on_left": 134.74999999999986,
+          "y": -6.85,
+          "lower_height": 3.025083969987463e-06,
+          "upper_height": 1.8611938209824075,
+          "gap": 1.8611907958984375
+        },
+        {
+          "x_on_left": 134.74999999999986,
+          "y": -5.85,
+          "lower_height": 0.0014144630722512375,
+          "upper_height": 0.5994235725693215,
+          "gap": 0.5980091094970703
+        },
+        {
+          "x_on_left": 135.09999999999985,
+          "y": -5.85,
+          "lower_height": 0.0005587705678493649,
+          "upper_height": 1.1237296232289822,
+          "gap": 1.1231708526611328
+        }
+      ],
+      "side": "right",
+      "file": "right_roof_rev10_center_style_snow_peppermint_v21.stl",
+      "rounded_tip_overhang_sections": 9,
+      "all_other_snow_sections_fused": true,
+      "old_front_projection_faces": 0,
+      "retained_window_faces_excluded": 0,
+      "verified_new_holly_faces_excluded": 0,
+      "new_holly_surface_distances": [],
+      "all_checks_passed": true
+    }
+  ],
+  "gap_threshold": 0.03,
+  "clean_body_front_plane_y": -7.0,
+  "old_holly_removed_before_new_decoration": true,
+  "method": "Scan vertical sections behind the front facade across both roof slopes and densely around the shortened inner tip. Reject air intervals everywhere except the small exposed underside of the intentionally rounded terminal dome, which remains part of the same watertight solid. Check the clean structural body has no original front decorations, and the saved mesh has no unlabelled old front projections.",
+  "all_checks_passed": true
+}
