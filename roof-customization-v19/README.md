@@ -1,5 +1,7 @@
 # Side roof holly refinements (v19)
 
+The current side roofs are [v20](../roof-customization-v20/README.md), with larger holly hugging the window arch and bold upper berries matching the lower cluster.
+
 The three marked areas are updated on both mirrored side roofs:
 
 - A seven-leaf fan fills the space above the window in the white circle, with clearance around the arch and peppermint disc.

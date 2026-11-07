@@ -1,0 +1,168 @@
+{
+  "files": [
+    {
+      "side": "left",
+      "file": "left_roof_rev10_center_style_snow_peppermint_v20.stl",
+      "groups": {
+        "mounting_surfaces": [
+          0,
+          2344
+        ],
+        "functional_underside": [
+          2344,
+          5129
+        ],
+        "centered_window_front": [
+          5129,
+          5205
+        ],
+        "original_inner_landing": [
+          5205,
+          5452
+        ]
+      },
+      "fitting_tolerance": 0.01,
+      "window_tolerance": 0.02,
+      "double_precision_threshold": 0.008,
+      "bare_roof_tolerance": 0.005,
+      "bare_roof_samples": 100,
+      "inner_landing_samples": 247,
+      "saved_window_center_x": 69.49995803833008,
+      "gable_center_x": 69.49995645245802,
+      "window_center_error": 1.5858720558981076e-06,
+      "saved_peppermint_diameters": {
+        "x": 29.324996948242188,
+        "z": 29.325000762939453
+      },
+      "saved_peppermint_center_xz": [
+        69.49995422363281,
+        53.74997520446777
+      ],
+      "method": "Saved-file comparisons check original mounting and underside surfaces, the original inner landing, the centered window front after 12.5 percent X/Z reduction, exact bare roof probes, and candy bounds.",
+      "berry_front_y_measurements": {
+        "above_window": [
+          -15.539999961853027,
+          -15.540000915527344,
+          -15.539999961853027
+        ],
+        "below_window": [
+          -15.539999961853027,
+          -15.539999961853027,
+          -15.540000915527344
+        ]
+      },
+      "matched_top_and_bottom_berry_relief": true,
+      "surface_measurements": {
+        "mounting_surfaces": {
+          "samples": 2344,
+          "max_distance": 0.001976599218323827,
+          "mean_distance": 0.0008165046934804205
+        },
+        "functional_underside": {
+          "samples": 2785,
+          "max_distance": 0.004932963289320469,
+          "mean_distance": 0.0007100795180487139
+        },
+        "centered_window_front": {
+          "samples": 76,
+          "max_distance": 3.057712456211448e-05,
+          "mean_distance": 9.449990174241401e-07
+        },
+        "original_inner_landing": {
+          "samples": 247,
+          "max_distance": 0.0008550731581635773,
+          "mean_distance": 1.3141880516067531e-05
+        }
+      },
+      "max_bare_roof_error": 6.583388768177656e-05,
+      "double_precision_rechecked_points": 19,
+      "inner_landing_added_material_volume": 0.0009798400130884724,
+      "inner_landing_volume_tolerance": 0.03,
+      "all_checks_passed": true
+    },
+    {
+      "side": "right",
+      "file": "right_roof_rev10_center_style_snow_peppermint_v20.stl",
+      "groups": {
+        "mounting_surfaces": [
+          0,
+          2344
+        ],
+        "functional_underside": [
+          2344,
+          5129
+        ],
+        "centered_window_front": [
+          5129,
+          5205
+        ],
+        "original_inner_landing": [
+          5205,
+          5452
+        ]
+      },
+      "fitting_tolerance": 0.01,
+      "window_tolerance": 0.02,
+      "double_precision_threshold": 0.008,
+      "bare_roof_tolerance": 0.005,
+      "bare_roof_samples": 100,
+      "inner_landing_samples": 247,
+      "saved_window_center_x": 78.50004196166992,
+      "gable_center_x": 78.50004354754198,
+      "window_center_error": 1.5858720558981076e-06,
+      "saved_peppermint_diameters": {
+        "x": 29.324996948242188,
+        "z": 29.325000762939453
+      },
+      "saved_peppermint_center_xz": [
+        78.50004577636719,
+        53.74997520446777
+      ],
+      "method": "Saved-file comparisons check original mounting and underside surfaces, the original inner landing, the centered window front after 12.5 percent X/Z reduction, exact bare roof probes, and candy bounds.",
+      "berry_front_y_measurements": {
+        "above_window": [
+          -15.539999961853027,
+          -15.539999961853027,
+          -15.539999961853027
+        ],
+        "below_window": [
+          -15.539999961853027,
+          -15.539999961853027,
+          -15.540000915527344
+        ]
+      },
+      "matched_top_and_bottom_berry_relief": true,
+      "surface_measurements": {
+        "mounting_surfaces": {
+          "samples": 2344,
+          "max_distance": 0.0019827657379209995,
+          "mean_distance": 0.0008159979566483694
+        },
+        "functional_underside": {
+          "samples": 2785,
+          "max_distance": 0.007897380739450455,
+          "mean_distance": 0.000718230219108991
+        },
+        "centered_window_front": {
+          "samples": 76,
+          "max_distance": 3.075507265748456e-05,
+          "mean_distance": 8.845987083891248e-07
+        },
+        "original_inner_landing": {
+          "samples": 247,
+          "max_distance": 0.0004277332918718457,
+          "mean_distance": 2.803303378670888e-05
+        }
+      },
+      "max_bare_roof_error": 7.346328221302656e-05,
+      "double_precision_rechecked_points": 21,
+      "inner_landing_added_material_volume": 0.000979840016866012,
+      "inner_landing_volume_tolerance": 0.03,
+      "all_checks_passed": true
+    }
+  ],
+  "peppermint_pattern_checks_passed": true,
+  "center_v12_sha256_unchanged": "f15dc230506083709daee129315e82eeb3de1720a4b16ec75804e779a5ef2f26",
+  "center_v12_pending_test_print": true,
+  "all_checks_passed": true
+}

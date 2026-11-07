@@ -1,0 +1,120 @@
+{
+  "arch_gap_measurements": [
+    {
+      "angle_degrees": 40.0,
+      "previous_gap_mm": 1.127933504938131,
+      "new_gap_mm": 0.3259942622131309
+    },
+    {
+      "angle_degrees": 50.0,
+      "previous_gap_mm": 0.9666474206798377,
+      "new_gap_mm": 0.4157068606004408
+    },
+    {
+      "angle_degrees": 60.0,
+      "previous_gap_mm": 2.1656794498705008,
+      "new_gap_mm": 0.38635521241020143
+    },
+    {
+      "angle_degrees": 70.0,
+      "previous_gap_mm": 1.6852664784557643,
+      "new_gap_mm": 0.3640895912265627
+    },
+    {
+      "angle_degrees": 80.0,
+      "previous_gap_mm": 1.3819598460717675,
+      "new_gap_mm": 0.35427589121846204
+    },
+    {
+      "angle_degrees": 90.0,
+      "previous_gap_mm": 1.0622500001080617,
+      "new_gap_mm": 0.4497999964215129
+    },
+    {
+      "angle_degrees": 100.0,
+      "previous_gap_mm": 1.3819598458195443,
+      "new_gap_mm": 0.3542758911931525
+    },
+    {
+      "angle_degrees": 110.0,
+      "previous_gap_mm": 1.6852664785121796,
+      "new_gap_mm": 0.3640895916728617
+    },
+    {
+      "angle_degrees": 120.0,
+      "previous_gap_mm": 2.165679452274473,
+      "new_gap_mm": 0.3863552091935407
+    },
+    {
+      "angle_degrees": 130.0,
+      "previous_gap_mm": 0.9666474227916009,
+      "new_gap_mm": 0.41570686175885463
+    },
+    {
+      "angle_degrees": 140.0,
+      "previous_gap_mm": 1.1279335063070395,
+      "new_gap_mm": 0.32599425919671177
+    }
+  ],
+  "mean_arch_gap_mm": 0.37660396610049385,
+  "previous_mean_arch_gap_mm": 1.4288384914389909,
+  "top_leaf_size_matches_lower_fan": true,
+  "top_leaf_dimensions": [
+    10.44,
+    5.58,
+    3.05
+  ],
+  "top_berry_radii_xz": [
+    1.86,
+    1.86,
+    1.98
+  ],
+  "top_berry_depth_radius": 1.83,
+  "central_berry_group_widths": {
+    "above": 7.920000001788139,
+    "below": 7.920000001788139
+  },
+  "other_holly_preserved": {
+    "green": {
+      "lower_garland_projection_changed_area": 0.0,
+      "side_drapes_projection_changed_area": 0.0
+    },
+    "red": {
+      "lower_garland_projection_changed_area": 0.0,
+      "side_drapes_projection_changed_area": 0.0
+    }
+  },
+  "projected_clearance_checks": {
+    "green": {
+      "disc_projected_overlap_area": 0.0,
+      "window_projected_overlap_area": 0.0
+    },
+    "red": {
+      "disc_projected_overlap_area": 0.0,
+      "window_projected_overlap_area": 0.0
+    }
+  },
+  "roots_outside_original_body_volume_mm3": {
+    "green": 0.0,
+    "red": 0.0
+  },
+  "retained_components": {
+    "left-unified-snow.npz": {
+      "sha256": "ec55c7ff88e719c04554b5608184862efed561329242f54ed675046cf9797b0d",
+      "unchanged": true
+    },
+    "left-peppermint-construction.npz": {
+      "sha256": "3918cf756bada9656c46ce22a930e8bce2ada2bccec3a87aa56e067d728a5d11",
+      "unchanged": true
+    },
+    "left-window-construction.npz": {
+      "sha256": "681d13cf8950892e794134e8b7fa4530d542a034a37af25d426b4c16529e6340",
+      "unchanged": true
+    },
+    "left-window-sill.npz": {
+      "sha256": "1344d9dc26e6c7b9a439e44d9839d635054b7433c7d068c8c01a7fa25b5c3dbb",
+      "unchanged": true
+    }
+  },
+  "all_checks_passed": true
+}

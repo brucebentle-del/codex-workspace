@@ -1,6 +1,6 @@
 # Side roofs with lush draped holly and smaller windows (v18)
 
-The current side roofs are [v19](../roof-customization-v19/README.md), with a filled top holly gap, a larger bottom-center cluster and less upper drape.
+The current side roofs are [v20](../roof-customization-v20/README.md), with larger holly hugging the window arch and bold upper berries matching the lower cluster.
 
 The upper holly edges still follow the straight roof slopes. Their lower edges now curve downward into fuller drapes, following the red sketch. Four new overlapping rows fill this wider band with broader domed leaves. An additional staggered row and fuller center fan enrich the bottom border.
 

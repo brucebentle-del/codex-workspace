@@ -1,0 +1,193 @@
+{
+  "files": [
+    {
+      "side": "left",
+      "visible_side_lower_edge_samples": 271,
+      "visible_side_lower_edge_height_range": 2.738330841064453,
+      "roof_toe_profiles": {
+        "front": [
+          {
+            "x_on_left": 24.0,
+            "max_unwanted_rise": 1.52587890625e-05,
+            "last_relief": 3.987428602414411e-06
+          },
+          {
+            "x_on_left": 32.0,
+            "max_unwanted_rise": 2.288818359375e-05,
+            "last_relief": 1.0230358100216108e-05
+          },
+          {
+            "x_on_left": 40.0,
+            "max_unwanted_rise": 2.288818359375e-05,
+            "last_relief": 1.214498524859664e-06
+          },
+          {
+            "x_on_left": 48.0,
+            "max_unwanted_rise": 2.288818359375e-05,
+            "last_relief": 1.5086822557464075e-05
+          },
+          {
+            "x_on_left": 92.0,
+            "max_unwanted_rise": 7.62939453125e-05,
+            "last_relief": 0.000117755249497975
+          },
+          {
+            "x_on_left": 100.0,
+            "max_unwanted_rise": 0.000213623046875,
+            "last_relief": 1.0755748846236202e-05
+          },
+          {
+            "x_on_left": 110.0,
+            "max_unwanted_rise": 0.00051116943359375,
+            "last_relief": 4.7987314317765595e-06
+          },
+          {
+            "x_on_left": 120.0,
+            "max_unwanted_rise": 1.52587890625e-05,
+            "last_relief": 2.1729897618172345e-05
+          }
+        ],
+        "outer_eave": [
+          {
+            "y": 25.0,
+            "max_unwanted_rise": 2.4513786616608968e-05,
+            "last_relief": -4.768948375755144e-06
+          },
+          {
+            "y": 40.0,
+            "max_unwanted_rise": 2.4513786613056254e-05,
+            "last_relief": 2.8604461554948557e-06
+          },
+          {
+            "y": 56.0,
+            "max_unwanted_rise": 6.266075927285897e-05,
+            "last_relief": 1.0489840686744856e-05
+          },
+          {
+            "y": 72.0,
+            "max_unwanted_rise": 2.4513786613056254e-05,
+            "last_relief": 2.8604461554948557e-06
+          },
+          {
+            "y": 90.0,
+            "max_unwanted_rise": 0.00027628380614430625,
+            "last_relief": 2.8604461554948557e-06
+          },
+          {
+            "y": 105.0,
+            "max_unwanted_rise": 2.4513786616608968e-05,
+            "last_relief": 2.8604461554948557e-06
+          },
+          {
+            "y": 122.0,
+            "max_unwanted_rise": 2.4513786613056254e-05,
+            "last_relief": 2.8604461554948557e-06
+          },
+          {
+            "y": 139.0,
+            "max_unwanted_rise": 3.2143181144306254e-05,
+            "last_relief": 2.5748629749244856e-05
+          }
+        ]
+      },
+      "max_unwanted_toe_rise": 0.00051116943359375,
+      "all_checks_passed": true
+    },
+    {
+      "side": "right",
+      "visible_side_lower_edge_samples": 271,
+      "visible_side_lower_edge_height_range": 2.7383346557617188,
+      "roof_toe_profiles": {
+        "front": [
+          {
+            "x_on_left": 24.0,
+            "max_unwanted_rise": 2.288818359375e-05,
+            "last_relief": 3.987428602414411e-06
+          },
+          {
+            "x_on_left": 32.0,
+            "max_unwanted_rise": 2.288818359375e-05,
+            "last_relief": 1.0230358100216108e-05
+          },
+          {
+            "x_on_left": 40.0,
+            "max_unwanted_rise": 2.288818359375e-05,
+            "last_relief": 1.6473287587359664e-05
+          },
+          {
+            "x_on_left": 48.0,
+            "max_unwanted_rise": 2.288818359375e-05,
+            "last_relief": 3.0345611619964075e-05
+          },
+          {
+            "x_on_left": 92.0,
+            "max_unwanted_rise": 7.62939453125e-05,
+            "last_relief": 0.000102496460435475
+          },
+          {
+            "x_on_left": 100.0,
+            "max_unwanted_rise": 0.00022125244140625,
+            "last_relief": -4.503040216263798e-06
+          },
+          {
+            "x_on_left": 110.0,
+            "max_unwanted_rise": 0.00051116943359375,
+            "last_relief": -1.046005763072344e-05
+          },
+          {
+            "x_on_left": 120.0,
+            "max_unwanted_rise": 2.288818359375e-05,
+            "last_relief": 2.1729897618172345e-05
+          }
+        ],
+        "outer_eave": [
+          {
+            "y": 25.0,
+            "max_unwanted_rise": 1.6884392085358968e-05,
+            "last_relief": -4.768948375755144e-06
+          },
+          {
+            "y": 40.0,
+            "max_unwanted_rise": 1.6884392085358968e-05,
+            "last_relief": 1.0489840686744856e-05
+          },
+          {
+            "y": 56.0,
+            "max_unwanted_rise": 7.791954833535897e-05,
+            "last_relief": 1.0489840686744856e-05
+          },
+          {
+            "y": 72.0,
+            "max_unwanted_rise": 3.2143181144306254e-05,
+            "last_relief": 2.8604461554948557e-06
+          },
+          {
+            "y": 90.0,
+            "max_unwanted_rise": 0.00026102501708180625,
+            "last_relief": 1.8119235217994856e-05
+          },
+          {
+            "y": 105.0,
+            "max_unwanted_rise": 2.4513786613056254e-05,
+            "last_relief": -4.768948375755144e-06
+          },
+          {
+            "y": 122.0,
+            "max_unwanted_rise": 1.6884392085358968e-05,
+            "last_relief": 2.8604461554948557e-06
+          },
+          {
+            "y": 139.0,
+            "max_unwanted_rise": 2.4513786616608968e-05,
+            "last_relief": 1.8119235217994856e-05
+          }
+        ]
+      },
+      "max_unwanted_toe_rise": 0.00051116943359375,
+      "all_checks_passed": true
+    }
+  ],
+  "method": "Ray probes of the saved meshes measure the lower silhouette outside the original side wall and check that the front and outer-eave roof-facing toes descend smoothly onto the exact roof planes.",
+  "toe_rise_tolerance": 0.03,
+  "all_checks_passed": true
+}
