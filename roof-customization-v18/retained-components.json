@@ -1,0 +1,86 @@
+{
+  "reference": "v17",
+  "components": {
+    "left-unified-snow.npz": {
+      "sha256": "ec55c7ff88e719c04554b5608184862efed561329242f54ed675046cf9797b0d",
+      "unchanged": true
+    },
+    "left-peppermint-construction.npz": {
+      "sha256": "3918cf756bada9656c46ce22a930e8bce2ada2bccec3a87aa56e067d728a5d11",
+      "unchanged": true
+    },
+    "holly-path.npz": {
+      "sha256": "d41510e75b52b05d47b529f9de5a610a0368c63a08fe6aeb526d07104710fc5c",
+      "unchanged": true
+    }
+  },
+  "window_changes": {
+    "left-window-construction.npz": {
+      "scale_x": 0.875,
+      "scale_z": 0.875,
+      "scale_y": 1.0,
+      "pivot_xz": [
+        69.49995645245802,
+        22.35
+      ],
+      "source_bounds": [
+        [
+          59.06495645245803,
+          -12.550000190734863,
+          11.965
+        ],
+        [
+          79.93495645245802,
+          -6.9,
+          34.434989460000004
+        ]
+      ],
+      "new_bounds": [
+        [
+          60.36933145245803,
+          -12.550000190734863,
+          13.263125
+        ],
+        [
+          78.63058145245802,
+          -6.9,
+          32.9243657775
+        ]
+      ]
+    },
+    "left-window-sill.npz": {
+      "scale_x": 0.875,
+      "scale_z": 0.875,
+      "scale_y": 1.0,
+      "pivot_xz": [
+        69.49995645245802,
+        22.35
+      ],
+      "source_bounds": [
+        [
+          56.54995645245802,
+          -12.86,
+          10.3
+        ],
+        [
+          82.44995645245803,
+          -6.76,
+          12.0
+        ]
+      ],
+      "new_bounds": [
+        [
+          58.16870645245802,
+          -12.86,
+          11.80625
+        ],
+        [
+          80.83120645245802,
+          -6.76,
+          13.29375
+        ]
+      ]
+    }
+  },
+  "all_checks_passed": true
+}

@@ -1,0 +1,85 @@
+{
+  "files": [
+    {
+      "side": "left",
+      "file": "left_roof_rev10_center_style_snow_peppermint_v18.stl",
+      "sha256": "1d07b3fd2936e76e84ff5a81a6190fded33ec9b6073f760d879a2ede05578578",
+      "watertight": true,
+      "consistent_winding": true,
+      "material_parts": 1,
+      "triangles": 967428,
+      "bounds": [
+        [
+          -13.656683921813965,
+          -16.171268463134766,
+          -7.501136779785156
+        ],
+        [
+          153.25,
+          157.78634643554688,
+          68.4124755859375
+        ]
+      ],
+      "local_connectivity_vertices_separated": 17,
+      "repair_volume_change": -0.00038004491943866014,
+      "source": "Retained v17 snow and peppermint, original roof structure and mounting geometry; lusher holly with straight outer edges and curved lower drapes; centered window and sill reduced 12.5 percent in X/Z. Right roof reflected using X_right = 148 - X_left.",
+      "peppermint_diameter": 29.325,
+      "peppermint_faces_with_swirls": 2,
+      "peppermint_center_x": 69.49995645245802,
+      "window_center_x": 69.49995645245802,
+      "inner_snow_stop_x": 136.0
+    },
+    {
+      "side": "right",
+      "file": "right_roof_rev10_center_style_snow_peppermint_v18.stl",
+      "sha256": "11a8d42eb64ce5c7f4c3d9297b71d02219494ed5c7efd2897c279aa1fcf692d5",
+      "watertight": true,
+      "consistent_winding": true,
+      "material_parts": 1,
+      "triangles": 967428,
+      "bounds": [
+        [
+          -5.25,
+          -16.171268463134766,
+          -7.501136779785156
+        ],
+        [
+          161.65667724609375,
+          157.78634643554688,
+          68.4124755859375
+        ]
+      ],
+      "local_connectivity_vertices_separated": 0,
+      "repair_volume_change": 0.0,
+      "source": "Retained v17 snow and peppermint, original roof structure and mounting geometry; lusher holly with straight outer edges and curved lower drapes; centered window and sill reduced 12.5 percent in X/Z. Right roof reflected using X_right = 148 - X_left.",
+      "peppermint_diameter": 29.325,
+      "peppermint_faces_with_swirls": 2,
+      "peppermint_center_x": 78.50004354754198,
+      "window_center_x": 78.50004354754198,
+      "inner_snow_stop_x": 12.0
+    }
+  ],
+  "max_reflected_vertex_distance": 7.62939453125e-06,
+  "reflection_x_sum": 148.0,
+  "planar_tessellation_edge_target": 2.5,
+  "simplification_tolerance": 0.001,
+  "simplification_volume_change": -0.34669283987022936,
+  "original_inner_landing_restored_after_simplification": true,
+  "old_outer_cosmetic_spur_removed": true,
+  "old_holly_removed": true,
+  "front_snow_gap_filled": true,
+  "unified_front_eave_ridge_snow": true,
+  "outer_side_visible_scallops": true,
+  "inner_tip_finish": "Rounded snow only",
+  "new_holly_at_tips": false,
+  "center_v12_modified": false,
+  "v15_snow_components_retained": true,
+  "lower_holly_swags": 2,
+  "holly_leaf_count": 498,
+  "holly_berry_count": 101,
+  "curved_inner_holly_edges": true,
+  "straight_outer_holly_edges_retained": true,
+  "window_scale_xz": 0.875,
+  "window_relief_depth_unchanged": true,
+  "green_foliage_volume_increase_percent": 80.12596618446459
+}

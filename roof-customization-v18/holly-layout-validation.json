@@ -1,0 +1,65 @@
+{
+  "straight_outer_edge_max_upward_change_mm": 0.0,
+  "draped_inside_edge_measurements": [
+    {
+      "distance_from_center": 18.0,
+      "previous_inside_edge_z": 29.280854084405682,
+      "new_inside_edge_z": 20.9410040076465,
+      "additional_sag_mm": 8.33985007675918
+    },
+    {
+      "distance_from_center": 25.0,
+      "previous_inside_edge_z": 25.93345052775863,
+      "new_inside_edge_z": 17.634621333024096,
+      "additional_sag_mm": 8.298829194734534
+    },
+    {
+      "distance_from_center": 35.0,
+      "previous_inside_edge_z": 21.16749949264881,
+      "new_inside_edge_z": 13.006337643369026,
+      "additional_sag_mm": 8.161161849279782
+    }
+  ],
+  "added_leaves": 221,
+  "added_berries": 38,
+  "foliage_volume_increase_percent": 80.12596618446459,
+  "green_front_y_before": -12.25,
+  "green_front_y_after": -13.405000000000001,
+  "projected_clearance_checks": {
+    "green": {
+      "disc_projected_overlap_area": 0.0,
+      "window_projected_overlap_area": 0.0
+    },
+    "red": {
+      "disc_projected_overlap_area": 0.0,
+      "window_projected_overlap_area": 0.0
+    }
+  },
+  "roots_outside_original_body_volume_mm3": {
+    "green": 0.0,
+    "red": 0.0
+  },
+  "window_changes": {
+    "left-window-construction.npz": {
+      "scale_xz": 0.875,
+      "maximum_expected_transform_error": 0.0,
+      "relief_depth_unchanged": true
+    },
+    "left-window-sill.npz": {
+      "scale_xz": 0.875,
+      "maximum_expected_transform_error": 0.0,
+      "relief_depth_unchanged": true
+    }
+  },
+  "retained_components": {
+    "left-unified-snow.npz": {
+      "sha256": "ec55c7ff88e719c04554b5608184862efed561329242f54ed675046cf9797b0d",
+      "unchanged": true
+    },
+    "left-peppermint-construction.npz": {
+      "sha256": "3918cf756bada9656c46ce22a930e8bce2ada2bccec3a87aa56e067d728a5d11",
+      "unchanged": true
+    }
+  },
+  "all_checks_passed": true
+}

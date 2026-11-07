@@ -1,5 +1,7 @@
 # Side roofs with thicker lower holly (v17)
 
+The current side roofs are [v18](../roof-customization-v18/README.md), with lusher holly, curved lower edges and windows reduced by 12.5%.
+
 Two additional overlapping rows of holly run across the **entire lower garland**, from one roof end to the other, including the draped valleys and center tie. The new rows add 100 wider, domed leaves per roof, while preserving the curved drape and existing end clusters.
 
 The lower green foliage has about 77% more volume in front of the facade below Z = 15 mm. The fuller row projects 0.75 mm farther outward than the previous green foliage. Lower berry clusters project 1.2 mm farther outward to remain visible above the denser leaves; buried supports fuse them into the gable.
