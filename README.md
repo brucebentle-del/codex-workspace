@@ -1,12 +1,12 @@
 # Snowy base downloads
 
-The current **v2** base uses three separate focal holly-and-berry sprigs, each flanked by compact snowball piles. Its three 172 × 183.88 mm sections print independently and align with four recessed underside bow-tie keys. The new decorations remain inside the uploaded base's original front height envelope for drawer clearance.
+The current **v3** base raises the unchanged mounting geometry by 6 mm to make room for taller, fuller reference-style holly. A single snowball mound crosses each internal joint and is divided exactly between the adjoining STLs. The three 172 × 184.90 mm sections print independently and align with four recessed underside bow-tie keys.
 
-- [Download left snowy base v2](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v2/left_snowy_base_v2.stl)
-- [Download center snowy base v2](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v2/center_snowy_base_v2.stl)
-- [Download right snowy base v2](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v2/right_snowy_base_v2.stl)
-- [Download connector key and print four copies](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v2/base_connector_key_print_4.stl)
-- [Base v2 previews, assembly guide, and validation](base-customization-v2/README.md)
+- [Download left snowy base v3](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v3/left_snowy_base_v3.stl)
+- [Download center snowy base v3](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v3/center_snowy_base_v3.stl)
+- [Download right snowy base v3](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v3/right_snowy_base_v3.stl)
+- [Download connector key and print four copies](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v3/base_connector_key_print_4.stl)
+- [Base v3 previews, assembly guide, and validation](base-customization-v3/README.md)
 
 # Roof customization downloads
 

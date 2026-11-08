@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+  <rect width="1100" height="650" fill="#f4f5f7"/>
+  <style>
+    text { font-family: Arial, sans-serif; fill: #20242a; }
+    .title { font-size: 30px; font-weight: 700; }
+    .label { font-size: 21px; font-weight: 700; }
+    .small { font-size: 17px; }
+    .dim { font-size: 18px; fill: #50555c; }
+  </style>
+  <text x="550" y="45" text-anchor="middle" class="title">Raised three-piece snowy base assembly</text>
+
+  <g transform="translate(32,85)">
+    <rect x="0" y="0" width="334" height="182" rx="7" fill="#ffffff" stroke="#444a52" stroke-width="3"/>
+    <rect x="334" y="0" width="334" height="182" fill="#ffffff" stroke="#444a52" stroke-width="3"/>
+    <rect x="668" y="0" width="334" height="182" rx="7" fill="#ffffff" stroke="#444a52" stroke-width="3"/>
+    <g fill="none" stroke="#187b35" stroke-width="14" stroke-linecap="round">
+      <path d="M75 160 C115 150 145 169 167 156 S220 168 259 158"/>
+      <path d="M409 160 C449 150 479 169 501 156 S554 168 593 158"/>
+      <path d="M743 160 C783 150 813 169 835 156 S888 168 927 158"/>
+    </g>
+    <g fill="#c42027">
+      <circle cx="112" cy="157" r="7"/><circle cx="167" cy="157" r="10"/><circle cx="222" cy="157" r="7"/>
+      <circle cx="446" cy="157" r="7"/><circle cx="501" cy="157" r="10"/><circle cx="556" cy="157" r="7"/>
+      <circle cx="780" cy="157" r="7"/><circle cx="835" cy="157" r="10"/><circle cx="890" cy="157" r="7"/>
+    </g>
+    <g fill="#f8fbff" stroke="#aeb5bf" stroke-width="2">
+      <circle cx="7" cy="167" r="8"/><circle cx="18" cy="160" r="11"/><circle cx="29" cy="167" r="9"/><circle cx="18" cy="146" r="8"/>
+      <circle cx="316" cy="167" r="8"/><circle cx="327" cy="160" r="11"/><circle cx="339" cy="162" r="11"/><circle cx="350" cy="167" r="8"/><circle cx="334" cy="145" r="9"/>
+      <circle cx="650" cy="167" r="8"/><circle cx="661" cy="160" r="11"/><circle cx="673" cy="162" r="11"/><circle cx="684" cy="167" r="8"/><circle cx="668" cy="145" r="9"/>
+      <circle cx="973" cy="167" r="9"/><circle cx="984" cy="160" r="11"/><circle cx="995" cy="167" r="8"/><circle cx="984" cy="146" r="8"/>
+    </g>
+    <text x="167" y="82" text-anchor="middle" class="label">LEFT</text>
+    <text x="501" y="82" text-anchor="middle" class="label">CENTER</text>
+    <text x="835" y="82" text-anchor="middle" class="label">RIGHT</text>
+    <text x="334" y="-12" text-anchor="middle" class="small">exact butt joint</text>
+    <text x="668" y="-12" text-anchor="middle" class="small">exact butt joint</text>
+    <path d="M0 210 H1002" stroke="#596069" stroke-width="2"/>
+    <path d="M0 202 V218 M1002 202 V218" stroke="#596069" stroke-width="2"/>
+    <text x="501" y="238" text-anchor="middle" class="dim">516 mm assembled width · each section 172 × 184.90 × 20 mm</text>
+  </g>
+
+  <text x="550" y="370" text-anchor="middle" class="title">Underside connector layout</text>
+  <g transform="translate(145,400)">
+    <rect x="0" y="0" width="405" height="180" rx="6" fill="#e7e9ed" stroke="#444a52" stroke-width="3"/>
+    <rect x="405" y="0" width="405" height="180" rx="6" fill="#e7e9ed" stroke="#444a52" stroke-width="3"/>
+    <line x1="405" y1="0" x2="405" y2="180" stroke="#11151a" stroke-width="4"/>
+    <g fill="#e8a43b" stroke="#8e5712" stroke-width="3">
+      <path d="M373 35 L386 35 L396 47 L414 47 L424 35 L437 35 L437 75 L424 75 L414 63 L396 63 L386 75 L373 75 Z"/>
+      <path d="M373 105 L386 105 L396 117 L414 117 L424 105 L437 105 L437 145 L424 145 L414 133 L396 133 L386 145 L373 145 Z"/>
+    </g>
+    <text x="202" y="92" text-anchor="middle" class="label">BASE SECTION</text>
+    <text x="608" y="92" text-anchor="middle" class="label">NEXT SECTION</text>
+    <text x="405" y="168" text-anchor="middle" class="small">two recessed keys per joint</text>
+  </g>
+  <text x="550" y="618" text-anchor="middle" class="dim">Print the connector STL four times and install the keys from underneath.</text>
+</svg>
