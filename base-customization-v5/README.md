@@ -1,5 +1,7 @@
 # Taller snowball mounds and clean front face (v5)
 
+This is an earlier version. [Base v6](../base-customization-v6/README.md) incorporates the four connector tabs directly into the center plate and removes the need to print separate keys.
+
 The horizontal line visible in v4 was a cylindrical trim rail added across the front of the base. It was model geometry rather than a slicer seam. V5 removes that rail completely, leaving a clean flat front face between the snowball piles.
 
 The piles are now substantially larger and taller. Every snowball is 55% larger than the original v3 size and about 21% larger than v4. The lower row remains at the plate bottom, while the upper row is stacked higher. The finished pile reaches Z=10.527 mm, compared with 7.179 mm in v4, and remains below the 12 mm building-support plane.

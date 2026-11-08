@@ -1,12 +1,11 @@
 # Snowy base downloads
 
-The current **v5** base removes the cylindrical front trim line and uses taller snowball piles. Every ball is 55% larger than the original v3 size, the bottom row reaches the plate bottom, and the upper row rises to 10.527 mm while remaining below the building-support plane. Each internal mound is still divided exactly between adjoining STLs, and four recessed underside bow-tie keys align the three printable sections.
+The current **v6** base incorporates all four bow-tie connectors into the center plate. The left and right plates slide onto two fixed tabs per side, so there are no loose connector pieces to print. The taller v5 snowball piles, split joint piles, clean front face, holly, mounting pins, and drawer clearance are retained.
 
-- [Download left snowy base v5](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v5/left_snowy_base_v5.stl)
-- [Download center snowy base v5](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v5/center_snowy_base_v5.stl)
-- [Download right snowy base v5](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v5/right_snowy_base_v5.stl)
-- [Download connector key and print four copies](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v5/base_connector_key_print_4.stl)
-- [Base v5 previews, assembly guide, and validation](base-customization-v5/README.md)
+- [Download left snowy base v6](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v6/left_snowy_base_v6.stl)
+- [Download center snowy base v6 with integrated tabs](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v6/center_snowy_base_v6.stl)
+- [Download right snowy base v6](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v6/right_snowy_base_v6.stl)
+- [Base v6 previews, assembly guide, and validation](base-customization-v6/README.md)
 
 # Roof customization downloads
 
