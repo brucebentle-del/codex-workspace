@@ -1,0 +1,10 @@
+{
+  "holly_backing_overlap_with_saved_v12_body": 13194.544648716423,
+  "holly_backing_overlap_with_green_construction": 12227.02181572732,
+  "tail_support_overlap_with_saved_v12_body": 839.471148884326,
+  "tail_support_overlap_with_original_bow": 732.8747877484519,
+  "tail_support_max_z": 86.98,
+  "recessed_loop_reference_zone_above_z": 87.0,
+  "tail_support_intrudes_above_loop_reference_zone": false,
+  "all_contact_checks_passed": true
+}

@@ -1,5 +1,7 @@
 # Center rev31 — rear peppermint swirls and mirrored outer holly (v12)
 
+This is an earlier version. The current [rev31 v25](../roof-customization-v25/README.md) reinforces the two hanging ribbon tails and connects the holly to the facade after the v12 test print.
+
 The peppermint now has raised swirls on both faces. New holly fans extend outward and downward into the marked bare areas beside the lower corner clusters. The complete left extension is mirrored for the right side, including every leaf, stem, and berry.
 
 ## Download

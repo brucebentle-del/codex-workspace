@@ -4,13 +4,13 @@ This revision keeps the oversized three-berry holly cluster beneath the window a
 
 The shortened inner snow ridge on each roof now finishes as a continuous rounded roll. The former vertical tongue and oval cap are removed. The existing one-piece snow topology is drawn inward and locally blended, leaving no separate end disk, cap, or added Boolean seam.
 
-The centered windows, double-sided peppermint discs, lush roof-hugging holly, lower garland, outer snow scallops, mounting geometry, and protected center-roof landing are retained. Center **rev31 v12 remains unchanged**, pending a test print.
+The centered windows, double-sided peppermint discs, lush roof-hugging holly, lower garland, outer snow scallops, mounting geometry, and protected center-roof landing are retained. The side roofs remain unchanged. The current center is **rev31 v25**, with reinforced ribbon tails and attached holly following its test print.
 
 ## Downloads
 
 - [Left roof STL](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/roof-customization-v24/left_roof_rev10_center_style_snow_peppermint_v24.stl)
 - [Right roof STL](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/roof-customization-v24/right_roof_rev10_center_style_snow_peppermint_v24.stl)
-- [Unchanged center rev31 v12 STL](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/roof-customization-v12/center_roof_rev31_double_sided_peppermint_extended_holly_v12.stl)
+- [Center rev31 v25 STL](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/roof-customization-v25/center_roof_rev31_solid_ribbon_tails_anchored_holly_v25.stl)
 
 Each side STL is one fused, watertight material part. Keep the original orientation and millimeter units.
 

@@ -1,0 +1,11 @@
+{
+  "bow_back_y": -19.35,
+  "bow_loops_modified": false,
+  "bow_tail_core_front_y": -27.45,
+  "holly_contact_back_y": -19.1,
+  "holly_contact_front_y": -22.2,
+  "holly_contact_depth": 3.1,
+  "holly_footprint_area": 4980.000417572587,
+  "holly_footprint_contours": 5,
+  "method": "Retain both recessed bow loops unchanged. Add concealed solid support behind both downward ribbon tails with subtly rounded support edges at their terminal points, and add a concealed continuous contact layer beneath the complete v12 holly footprint. All additions overlap the existing facade and are unioned into one saved solid."
+}
