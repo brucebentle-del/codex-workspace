@@ -1,0 +1,132 @@
+{
+  "source_file": "base_rev32.stl",
+  "source_sha256": "ff9b5399160d4499e61a9f210eb67479ad168258ceb0ddf27800913ec4449bf8",
+  "source_bounds": [
+    [
+      -0.5880100131034851,
+      0.0,
+      0.0
+    ],
+    [
+      172.0,
+      168.0,
+      14.0
+    ]
+  ],
+  "source_watertight": true,
+  "assembled_width_mm": 516.0,
+  "module_width_mm": 172.0,
+  "original_depth_mm": 168.0,
+  "front_extension_mm": 12.0,
+  "base_height_raise_mm": 6.0,
+  "raised_building_support_plane_z_mm": 12.0,
+  "seam_planes_global_x_mm": [
+    172.0,
+    344.0
+  ],
+  "module_count": 3,
+  "connector_style": "Separate recessed underside bow-tie alignment key",
+  "connector_count_to_print": 4,
+  "connector_file": "base_connector_key_print_4.stl",
+  "connector_clearance_xy_mm": 0.25,
+  "connector_vertical_clearance_mm": 0.6000000000000001,
+  "connector_slot_y_mm": [
+    55.0,
+    115.0
+  ],
+  "peppermint_discs_added": false,
+  "old_front_snow_beads_removed": true,
+  "new_continuous_snow_bank": false,
+  "three_independent_holly_sprigs": true,
+  "snowball_piles": 4,
+  "snowball_radius_scale_from_v3": 1.28,
+  "snowball_minimum_bottom_z_mm": 0.04249999999999998,
+  "outermost_ball_inward_shift_mm": 2.0,
+  "joint_centered_split_snowball_piles": 2,
+  "berry_clusters": 15,
+  "leaf_count": 105,
+  "mounting_pins_retained_per_module": 4,
+  "modules": [
+    {
+      "name": "left",
+      "file": "left_snowy_base_v4.stl",
+      "sha256": "8ff7ad351c4b03b9ca491ce70744035836875f69d7c7baff8a96517d89cd1f15",
+      "triangles": 53390,
+      "bounds": [
+        [
+          0.0,
+          -16.904399871826172,
+          0.0
+        ],
+        [
+          172.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents": [
+        172.0,
+        184.90439987182617,
+        20.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "fits_256_mm_square_bed": true,
+      "original_pin_pattern_retained": true
+    },
+    {
+      "name": "center",
+      "file": "center_snowy_base_v4.stl",
+      "sha256": "722b1a9e022c04245efd132a63a151282194bc71b3803ad6f4a6a65d288c9683",
+      "triangles": 50486,
+      "bounds": [
+        [
+          0.0,
+          -16.904399871826172,
+          0.0
+        ],
+        [
+          172.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents": [
+        172.0,
+        184.90439987182617,
+        20.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "fits_256_mm_square_bed": true,
+      "original_pin_pattern_retained": true
+    },
+    {
+      "name": "right",
+      "file": "right_snowy_base_v4.stl",
+      "sha256": "0b91fc2909eafab2c8bec555cb4a38d5fddbe952b00b181bc5df214a4640d49c",
+      "triangles": 53502,
+      "bounds": [
+        [
+          0.0,
+          -16.904399871826172,
+          0.0
+        ],
+        [
+          172.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents": [
+        172.0,
+        184.90439987182617,
+        20.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "fits_256_mm_square_bed": true,
+      "original_pin_pattern_retained": true
+    }
+  ]
+}

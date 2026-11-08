@@ -1,5 +1,7 @@
 # Raised reference-style snowy base v3
 
+This is an earlier version. The current [v4 base](../base-customization-v4/README.md) lowers and enlarges the snowball mounds and moves the extreme outside balls inward.
+
 This revision follows the supplied reference more closely with taller, fuller two-layer holly, a bold four-berry center, medium three-berry clusters, and smaller paired berry accents. Four snowball mounds replace the peppermint-disc locations. The two internal mounds are modeled whole and split exactly at the base joints, placing one complementary half on each adjoining STL.
 
 The original mounting plate and all four pins are translated upward together by 6 mm. Their dimensions and relative fit remain unchanged. This creates a 12 mm-high front face for the larger decoration while keeping every leaf, berry, and snowball below the building-support plane.
