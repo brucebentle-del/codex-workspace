@@ -1,5 +1,7 @@
 # Lowered and enlarged snowy-base mounds (v4)
 
+This is an earlier version. The current [v5 base](../base-customization-v5/README.md) removes the cylindrical front trim rail and makes the snowball piles substantially taller.
+
 This revision lowers the snowball mounds to the bottom of the plate and enlarges every snowball by 28%. The lowest row now finishes 0.04–0.18 mm above Z=0 instead of beginning around the middle of the front face. The extreme outside ball on the left base moves 2 mm to the right, placing its complete enlarged sphere inside the plate; the right outer pile receives the mirrored correction.
 
 The two internal mounds were rebuilt as complete piles before splitting the assembly. Their left/center and center/right halves therefore retain exact complementary joint faces. The holly, raised mounting plate, pins, connector pockets, drawer clearance, and overall base dimensions are unchanged.

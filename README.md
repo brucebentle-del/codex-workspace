@@ -1,12 +1,12 @@
 # Snowy base downloads
 
-The current **v4** base keeps the raised mounting geometry and fuller reference-style holly from v3. Every snowball is 28% larger and lowered to the bottom of the plate; the extreme outside balls move inward so their complete spheres sit on the base. Each internal mound is still divided exactly between adjoining STLs. The three 172 × 184.90 mm sections print independently and align with four recessed underside bow-tie keys.
+The current **v5** base removes the cylindrical front trim line and uses taller snowball piles. Every ball is 55% larger than the original v3 size, the bottom row reaches the plate bottom, and the upper row rises to 10.527 mm while remaining below the building-support plane. Each internal mound is still divided exactly between adjoining STLs, and four recessed underside bow-tie keys align the three printable sections.
 
-- [Download left snowy base v4](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v4/left_snowy_base_v4.stl)
-- [Download center snowy base v4](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v4/center_snowy_base_v4.stl)
-- [Download right snowy base v4](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v4/right_snowy_base_v4.stl)
-- [Download connector key and print four copies](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v4/base_connector_key_print_4.stl)
-- [Base v4 previews, assembly guide, and validation](base-customization-v4/README.md)
+- [Download left snowy base v5](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v5/left_snowy_base_v5.stl)
+- [Download center snowy base v5](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v5/center_snowy_base_v5.stl)
+- [Download right snowy base v5](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v5/right_snowy_base_v5.stl)
+- [Download connector key and print four copies](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v5/base_connector_key_print_4.stl)
+- [Base v5 previews, assembly guide, and validation](base-customization-v5/README.md)
 
 # Roof customization downloads
 
