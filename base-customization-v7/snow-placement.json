@@ -1,0 +1,650 @@
+[
+  {
+    "pile": 1,
+    "role": "outer",
+    "ball_index": 1,
+    "center": [
+      3.3,
+      -13.25,
+      2.5825000000000005
+    ],
+    "radii": [
+      2.4025000000000003,
+      3.1232500000000005,
+      2.4025000000000003
+    ],
+    "bottom_z": 0.18000000000000016,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 2.5
+  },
+  {
+    "pile": 1,
+    "role": "outer",
+    "ball_index": 2,
+    "center": [
+      4.1,
+      -13.39,
+      3.065
+    ],
+    "radii": [
+      3.0225,
+      3.92925,
+      3.0225
+    ],
+    "bottom_z": 0.04249999999999998,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 1,
+    "role": "outer",
+    "ball_index": 3,
+    "center": [
+      8.0,
+      -13.25,
+      3.4575
+    ],
+    "radii": [
+      3.3325,
+      4.33225,
+      3.3325
+    ],
+    "bottom_z": 0.125,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 1,
+    "role": "outer",
+    "ball_index": 4,
+    "center": [
+      11.9,
+      -13.39,
+      3.0185
+    ],
+    "radii": [
+      2.976,
+      3.8688000000000002,
+      2.976
+    ],
+    "bottom_z": 0.04249999999999998,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 1,
+    "role": "outer",
+    "ball_index": 5,
+    "center": [
+      15.2,
+      -13.25,
+      2.5360000000000005
+    ],
+    "radii": [
+      2.3560000000000003,
+      3.0628000000000006,
+      2.3560000000000003
+    ],
+    "bottom_z": 0.18000000000000016,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 1,
+    "role": "outer",
+    "ball_index": 6,
+    "center": [
+      3.2,
+      -13.39,
+      6.469
+    ],
+    "radii": [
+      2.294,
+      2.9822,
+      2.294
+    ],
+    "bottom_z": 4.175000000000001,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 1,
+    "role": "outer",
+    "ball_index": 7,
+    "center": [
+      6.6,
+      -13.25,
+      7.861000000000001
+    ],
+    "radii": [
+      2.666,
+      3.4658,
+      2.666
+    ],
+    "bottom_z": 5.195,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 1,
+    "role": "outer",
+    "ball_index": 8,
+    "center": [
+      10.3,
+      -13.39,
+      7.281000000000001
+    ],
+    "radii": [
+      2.511,
+      3.2643000000000004,
+      2.511
+    ],
+    "bottom_z": 4.7700000000000005,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 1,
+    "role": "outer",
+    "ball_index": 9,
+    "center": [
+      13.2,
+      -13.25,
+      5.974
+    ],
+    "radii": [
+      2.139,
+      2.7807,
+      2.139
+    ],
+    "bottom_z": 3.8350000000000004,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 2,
+    "role": "split_joint",
+    "ball_index": 1,
+    "center": [
+      164.8,
+      -13.25,
+      2.5825000000000005
+    ],
+    "radii": [
+      2.4025000000000003,
+      3.1232500000000005,
+      2.4025000000000003
+    ],
+    "bottom_z": 0.18000000000000016,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 2,
+    "role": "split_joint",
+    "ball_index": 2,
+    "center": [
+      168.1,
+      -13.39,
+      3.065
+    ],
+    "radii": [
+      3.0225,
+      3.92925,
+      3.0225
+    ],
+    "bottom_z": 0.04249999999999998,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 2,
+    "role": "split_joint",
+    "ball_index": 3,
+    "center": [
+      172.0,
+      -13.25,
+      3.4575
+    ],
+    "radii": [
+      3.3325,
+      4.33225,
+      3.3325
+    ],
+    "bottom_z": 0.125,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 2,
+    "role": "split_joint",
+    "ball_index": 4,
+    "center": [
+      175.9,
+      -13.39,
+      3.0185
+    ],
+    "radii": [
+      2.976,
+      3.8688000000000002,
+      2.976
+    ],
+    "bottom_z": 0.04249999999999998,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 2,
+    "role": "split_joint",
+    "ball_index": 5,
+    "center": [
+      179.2,
+      -13.25,
+      2.5360000000000005
+    ],
+    "radii": [
+      2.3560000000000003,
+      3.0628000000000006,
+      2.3560000000000003
+    ],
+    "bottom_z": 0.18000000000000016,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 2,
+    "role": "split_joint",
+    "ball_index": 6,
+    "center": [
+      167.2,
+      -13.39,
+      6.469
+    ],
+    "radii": [
+      2.294,
+      2.9822,
+      2.294
+    ],
+    "bottom_z": 4.175000000000001,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 2,
+    "role": "split_joint",
+    "ball_index": 7,
+    "center": [
+      170.6,
+      -13.25,
+      7.861000000000001
+    ],
+    "radii": [
+      2.666,
+      3.4658,
+      2.666
+    ],
+    "bottom_z": 5.195,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 2,
+    "role": "split_joint",
+    "ball_index": 8,
+    "center": [
+      174.3,
+      -13.39,
+      7.281000000000001
+    ],
+    "radii": [
+      2.511,
+      3.2643000000000004,
+      2.511
+    ],
+    "bottom_z": 4.7700000000000005,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 2,
+    "role": "split_joint",
+    "ball_index": 9,
+    "center": [
+      177.2,
+      -13.25,
+      5.974
+    ],
+    "radii": [
+      2.139,
+      2.7807,
+      2.139
+    ],
+    "bottom_z": 3.8350000000000004,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 3,
+    "role": "split_joint",
+    "ball_index": 1,
+    "center": [
+      336.8,
+      -13.25,
+      2.5825000000000005
+    ],
+    "radii": [
+      2.4025000000000003,
+      3.1232500000000005,
+      2.4025000000000003
+    ],
+    "bottom_z": 0.18000000000000016,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 3,
+    "role": "split_joint",
+    "ball_index": 2,
+    "center": [
+      340.1,
+      -13.39,
+      3.065
+    ],
+    "radii": [
+      3.0225,
+      3.92925,
+      3.0225
+    ],
+    "bottom_z": 0.04249999999999998,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 3,
+    "role": "split_joint",
+    "ball_index": 3,
+    "center": [
+      344.0,
+      -13.25,
+      3.4575
+    ],
+    "radii": [
+      3.3325,
+      4.33225,
+      3.3325
+    ],
+    "bottom_z": 0.125,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 3,
+    "role": "split_joint",
+    "ball_index": 4,
+    "center": [
+      347.9,
+      -13.39,
+      3.0185
+    ],
+    "radii": [
+      2.976,
+      3.8688000000000002,
+      2.976
+    ],
+    "bottom_z": 0.04249999999999998,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 3,
+    "role": "split_joint",
+    "ball_index": 5,
+    "center": [
+      351.2,
+      -13.25,
+      2.5360000000000005
+    ],
+    "radii": [
+      2.3560000000000003,
+      3.0628000000000006,
+      2.3560000000000003
+    ],
+    "bottom_z": 0.18000000000000016,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 3,
+    "role": "split_joint",
+    "ball_index": 6,
+    "center": [
+      339.2,
+      -13.39,
+      6.469
+    ],
+    "radii": [
+      2.294,
+      2.9822,
+      2.294
+    ],
+    "bottom_z": 4.175000000000001,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 3,
+    "role": "split_joint",
+    "ball_index": 7,
+    "center": [
+      342.6,
+      -13.25,
+      7.861000000000001
+    ],
+    "radii": [
+      2.666,
+      3.4658,
+      2.666
+    ],
+    "bottom_z": 5.195,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 3,
+    "role": "split_joint",
+    "ball_index": 8,
+    "center": [
+      346.3,
+      -13.39,
+      7.281000000000001
+    ],
+    "radii": [
+      2.511,
+      3.2643000000000004,
+      2.511
+    ],
+    "bottom_z": 4.7700000000000005,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 3,
+    "role": "split_joint",
+    "ball_index": 9,
+    "center": [
+      349.2,
+      -13.25,
+      5.974
+    ],
+    "radii": [
+      2.139,
+      2.7807,
+      2.139
+    ],
+    "bottom_z": 3.8350000000000004,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 4,
+    "role": "outer",
+    "ball_index": 1,
+    "center": [
+      512.7,
+      -13.25,
+      2.5825000000000005
+    ],
+    "radii": [
+      2.4025000000000003,
+      3.1232500000000005,
+      2.4025000000000003
+    ],
+    "bottom_z": 0.18000000000000016,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 2.5
+  },
+  {
+    "pile": 4,
+    "role": "outer",
+    "ball_index": 2,
+    "center": [
+      511.9,
+      -13.39,
+      3.065
+    ],
+    "radii": [
+      3.0225,
+      3.92925,
+      3.0225
+    ],
+    "bottom_z": 0.04249999999999998,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 4,
+    "role": "outer",
+    "ball_index": 3,
+    "center": [
+      508.0,
+      -13.25,
+      3.4575
+    ],
+    "radii": [
+      3.3325,
+      4.33225,
+      3.3325
+    ],
+    "bottom_z": 0.125,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 4,
+    "role": "outer",
+    "ball_index": 4,
+    "center": [
+      504.1,
+      -13.39,
+      3.0185
+    ],
+    "radii": [
+      2.976,
+      3.8688000000000002,
+      2.976
+    ],
+    "bottom_z": 0.04249999999999998,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 4,
+    "role": "outer",
+    "ball_index": 5,
+    "center": [
+      500.8,
+      -13.25,
+      2.5360000000000005
+    ],
+    "radii": [
+      2.3560000000000003,
+      3.0628000000000006,
+      2.3560000000000003
+    ],
+    "bottom_z": 0.18000000000000016,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 4,
+    "role": "outer",
+    "ball_index": 6,
+    "center": [
+      512.8,
+      -13.39,
+      6.469
+    ],
+    "radii": [
+      2.294,
+      2.9822,
+      2.294
+    ],
+    "bottom_z": 4.175000000000001,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 4,
+    "role": "outer",
+    "ball_index": 7,
+    "center": [
+      509.4,
+      -13.25,
+      7.861000000000001
+    ],
+    "radii": [
+      2.666,
+      3.4658,
+      2.666
+    ],
+    "bottom_z": 5.195,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 4,
+    "role": "outer",
+    "ball_index": 8,
+    "center": [
+      505.7,
+      -13.39,
+      7.281000000000001
+    ],
+    "radii": [
+      2.511,
+      3.2643000000000004,
+      2.511
+    ],
+    "bottom_z": 4.7700000000000005,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  },
+  {
+    "pile": 4,
+    "role": "outer",
+    "ball_index": 9,
+    "center": [
+      502.8,
+      -13.25,
+      5.974
+    ],
+    "radii": [
+      2.139,
+      2.7807,
+      2.139
+    ],
+    "bottom_z": 3.8350000000000004,
+    "radius_scale_from_v3": 1.55,
+    "outer_inward_shift_mm": 0.0
+  }
+]

@@ -1,0 +1,423 @@
+{
+  "validation_scope": "Correct v7 snowy-base mounting patterns against rev91 left/right and rev66 center housing meshes",
+  "mounting_pattern": {
+    "peg_centers_xy_mm": [
+      [
+        8.0,
+        22.0
+      ],
+      [
+        8.0,
+        140.0
+      ],
+      [
+        163.0,
+        22.0
+      ],
+      [
+        163.0,
+        140.0
+      ]
+    ],
+    "front_to_back_spacing_mm": 118.0,
+    "side_to_side_spacing_mm": 155.0,
+    "peg_diameter_mm": 5.45,
+    "housing_nominal_hole_diameter_mm": 5.55,
+    "housing_placement_on_base_mm": [
+      11.5,
+      9.0,
+      12.0
+    ]
+  },
+  "modules": [
+    {
+      "name": "left",
+      "base_file": "left_snowy_base_rev91_mount_v7.stl",
+      "base_sha256": "c35d0fe7d6c2878e42da6432b6abc068135175eba9b1994e2e439aa5f16bea13",
+      "housing_file": "CandyCane_Lower_Left_Rev91.stl",
+      "housing_sha256": "7ff10b31366f99a99bd32ec423658615cd6c1fdfc07b40d6cb728495a5010355",
+      "base_watertight": true,
+      "base_consistent_winding": true,
+      "base_connected_components": 1,
+      "base_extents_mm": [
+        172.0,
+        185.58225059509277,
+        20.0
+      ],
+      "housing_bounds_mm": [
+        [
+          -7.25,
+          0.0,
+          0.0
+        ],
+        [
+          155.0,
+          150.5,
+          157.10000610351562
+        ]
+      ],
+      "housing_translation_onto_base_mm": [
+        11.5,
+        9.0,
+        12.0
+      ],
+      "measured_peg_centers_xy_mm": [
+        [
+          8.000000238418579,
+          22.0
+        ],
+        [
+          8.000000238418579,
+          140.0
+        ],
+        [
+          163.0,
+          22.0
+        ],
+        [
+          163.0,
+          140.0
+        ]
+      ],
+      "measured_hole_centers_local_xy_mm": [
+        [
+          -3.5006179809570312,
+          13.0
+        ],
+        [
+          -3.5006179809570312,
+          131.0
+        ],
+        [
+          151.49938201904297,
+          13.0
+        ],
+        [
+          151.49938201904297,
+          131.0
+        ]
+      ],
+      "measured_hole_centers_on_base_xy_mm": [
+        [
+          7.999382019042969,
+          22.0
+        ],
+        [
+          7.999382019042969,
+          140.0
+        ],
+        [
+          162.99938201904297,
+          22.0
+        ],
+        [
+          162.99938201904297,
+          140.0
+        ]
+      ],
+      "maximum_center_alignment_error_mm": 0.0006182193756103516,
+      "peg_diameters_xy_mm": [
+        [
+          5.450000286102295,
+          5.450000762939453
+        ],
+        [
+          5.450000286102295,
+          5.45001220703125
+        ],
+        [
+          5.45001220703125,
+          5.450000762939453
+        ],
+        [
+          5.45001220703125,
+          5.45001220703125
+        ]
+      ],
+      "hole_diameters_xy_mm": [
+        [
+          5.5487518310546875,
+          5.549379348754883
+        ],
+        [
+          5.5487518310546875,
+          5.54937744140625
+        ],
+        [
+          5.5487518310546875,
+          5.549379348754883
+        ],
+        [
+          5.5487518310546875,
+          5.54937744140625
+        ]
+      ],
+      "minimum_radial_clearance_mm": 0.04936981201171875,
+      "v6_housing_interference_volume_mm3": 186.09406230616278,
+      "v7_housing_interference_volume_mm3": 0.0,
+      "fits_256_mm_square_bed": true
+    },
+    {
+      "name": "center",
+      "base_file": "center_snowy_base_rev66_mount_v7.stl",
+      "base_sha256": "6175e554a9356ebadf95840e598ef6fa74e98e5492a8dda0625ae9e379b6c872",
+      "housing_file": "lower_housing_rev66 (2).stl",
+      "housing_sha256": "aaa378a6ca106c2e0f0de272bd73df799bcc9f063330dd1cf07799ff9a5e139b",
+      "base_watertight": true,
+      "base_consistent_winding": true,
+      "base_connected_components": 1,
+      "base_extents_mm": [
+        190.0,
+        185.58225059509277,
+        20.0
+      ],
+      "housing_bounds_mm": [
+        [
+          -7.0,
+          0.0,
+          0.0
+        ],
+        [
+          155.0,
+          150.5,
+          157.1
+        ]
+      ],
+      "housing_translation_onto_base_mm": [
+        11.5,
+        9.0,
+        12.0
+      ],
+      "measured_peg_centers_xy_mm": [
+        [
+          8.000000238418579,
+          22.0
+        ],
+        [
+          8.000000238418579,
+          140.0
+        ],
+        [
+          163.0,
+          22.0
+        ],
+        [
+          163.0,
+          140.0
+        ]
+      ],
+      "measured_hole_centers_local_xy_mm": [
+        [
+          -3.4999995000000004,
+          13.0
+        ],
+        [
+          -3.4999995000000004,
+          131.0
+        ],
+        [
+          151.5,
+          13.0
+        ],
+        [
+          151.5,
+          131.0
+        ]
+      ],
+      "measured_hole_centers_on_base_xy_mm": [
+        [
+          8.000000499999999,
+          22.0
+        ],
+        [
+          8.000000499999999,
+          140.0
+        ],
+        [
+          163.0,
+          22.0
+        ],
+        [
+          163.0,
+          140.0
+        ]
+      ],
+      "maximum_center_alignment_error_mm": 2.6158141963605885e-07,
+      "peg_diameters_xy_mm": [
+        [
+          5.450000286102295,
+          5.450000762939453
+        ],
+        [
+          5.450000286102295,
+          5.45001220703125
+        ],
+        [
+          5.45001220703125,
+          5.450000762939453
+        ],
+        [
+          5.45001220703125,
+          5.45001220703125
+        ]
+      ],
+      "hole_diameters_xy_mm": [
+        [
+          5.550001,
+          5.550000000000001
+        ],
+        [
+          5.550001,
+          5.550000000000011
+        ],
+        [
+          5.550000000000011,
+          5.550000000000001
+        ],
+        [
+          5.550000000000011,
+          5.550000000000011
+        ]
+      ],
+      "minimum_radial_clearance_mm": 0.049993896484380684,
+      "v6_housing_interference_volume_mm3": 1.977169967191158e-12,
+      "v7_housing_interference_volume_mm3": 0.0,
+      "fits_256_mm_square_bed": true
+    },
+    {
+      "name": "right",
+      "base_file": "right_snowy_base_rev91_mount_v7.stl",
+      "base_sha256": "7377638e61ea6ab234ce6ccdd985cafa821330e862d193a22e0d1263287cc9bd",
+      "housing_file": "lower_right_rev91_verified (1).stl",
+      "housing_sha256": "ac92dd8f105a818d06c963161955a16ca76419542c1b653d6f23c5268423046a",
+      "base_watertight": true,
+      "base_consistent_winding": true,
+      "base_connected_components": 1,
+      "base_extents_mm": [
+        172.0,
+        185.58225059509277,
+        20.0
+      ],
+      "housing_bounds_mm": [
+        [
+          -7.0,
+          0.0,
+          0.0
+        ],
+        [
+          155.25,
+          150.5,
+          157.10000610351562
+        ]
+      ],
+      "housing_translation_onto_base_mm": [
+        11.5,
+        9.0,
+        12.0
+      ],
+      "measured_peg_centers_xy_mm": [
+        [
+          8.000000238418579,
+          22.0
+        ],
+        [
+          8.000000238418579,
+          140.0
+        ],
+        [
+          163.0,
+          22.0
+        ],
+        [
+          163.0,
+          140.0
+        ]
+      ],
+      "measured_hole_centers_local_xy_mm": [
+        [
+          -3.499378979206085,
+          13.0
+        ],
+        [
+          -3.499378979206085,
+          131.0
+        ],
+        [
+          151.50061798095703,
+          13.0
+        ],
+        [
+          151.50061798095703,
+          131.0
+        ]
+      ],
+      "measured_hole_centers_on_base_xy_mm": [
+        [
+          8.000621020793915,
+          22.0
+        ],
+        [
+          8.000621020793915,
+          140.0
+        ],
+        [
+          163.00061798095703,
+          22.0
+        ],
+        [
+          163.00061798095703,
+          140.0
+        ]
+      ],
+      "maximum_center_alignment_error_mm": 0.0006207823753356934,
+      "peg_diameters_xy_mm": [
+        [
+          5.450000286102295,
+          5.450000762939453
+        ],
+        [
+          5.450000286102295,
+          5.45001220703125
+        ],
+        [
+          5.45001220703125,
+          5.450000762939453
+        ],
+        [
+          5.45001220703125,
+          5.45001220703125
+        ]
+      ],
+      "hole_diameters_xy_mm": [
+        [
+          5.548757910728455,
+          5.549379348754883
+        ],
+        [
+          5.548757910728455,
+          5.54937744140625
+        ],
+        [
+          5.5487518310546875,
+          5.549379348754883
+        ],
+        [
+          5.5487518310546875,
+          5.54937744140625
+        ]
+      ],
+      "minimum_radial_clearance_mm": 0.04936981201171875,
+      "v6_housing_interference_volume_mm3": 186.1077074734613,
+      "v7_housing_interference_volume_mm3": 1.1631174368877584e-11,
+      "fits_256_mm_square_bed": true
+    }
+  ],
+  "connector_assembly": {
+    "left_center_interference_volume_mm3": 0.0,
+    "center_right_interference_volume_mm3": 1.6325607532508002e-11,
+    "assembled_boolean_status": "Error.NoError",
+    "assembled_connected_components": 1,
+    "center_integrated_tabs_retained": true
+  },
+  "overall_pass": true
+}

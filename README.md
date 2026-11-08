@@ -1,11 +1,11 @@
 # Snowy base downloads
 
-The current **v6** base incorporates all four bow-tie connectors into the center plate. The left and right plates slide onto two fixed tabs per side, so there are no loose connector pieces to print. The taller v5 snowball piles, split joint piles, clean front face, holly, mounting pins, and drawer clearance are retained.
+The current **v7** bases use mounting patterns measured directly from the rev91 lower-left and lower-right housings and the rev66 center lower housing. The front peg pair moves 18 mm forward, correcting the 100 mm front-to-back spacing inherited from `base_rev32.stl` to the housings' actual 118 mm spacing. The center plate retains all four integrated bow-tie connectors, so there are no loose connector pieces to print.
 
-- [Download left snowy base v6](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v6/left_snowy_base_v6.stl)
-- [Download center snowy base v6 with integrated tabs](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v6/center_snowy_base_v6.stl)
-- [Download right snowy base v6](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v6/right_snowy_base_v6.stl)
-- [Base v6 previews, assembly guide, and validation](base-customization-v6/README.md)
+- [Download left snowy base v7 for rev91](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v7/left_snowy_base_rev91_mount_v7.stl)
+- [Download center snowy base v7 for rev66](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v7/center_snowy_base_rev66_mount_v7.stl)
+- [Download right snowy base v7 for rev91](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v7/right_snowy_base_rev91_mount_v7.stl)
+- [Base v7 measurements, preview, and validation](base-customization-v7/README.md)
 
 # Roof customization downloads
 

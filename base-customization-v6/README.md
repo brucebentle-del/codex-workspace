@@ -1,5 +1,7 @@
 # Center-integrated base connectors (v6)
 
+This is an earlier version. [Base v7](../base-customization-v7/README.md) retains the center-integrated connectors and corrects the mounting pegs to match the rev91 side housings and rev66 center housing.
+
 V6 incorporates all four bow-tie connectors into the center snowy base. Two fixed tabs project from each side of the center plate and slide into the recessed pockets in the left and right plates. There is no separate connector STL to print or install.
 
 The tabs overlap 9 mm into solid center-plate material and project 9 mm beyond each side. Each mating pocket provides 0.25 mm lateral clearance per side and 0.6 mm vertical clearance. The decorative snowball piles, clean front face, holly, mounting pins, and drawer clearance from v5 are retained.

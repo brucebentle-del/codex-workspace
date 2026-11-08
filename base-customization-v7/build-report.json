@@ -1,0 +1,112 @@
+{
+  "revision": "v7",
+  "change": "Move only the front mounting-peg row 18 mm forward to match rev91 side housings and rev66 center housing",
+  "peg_centers_xy_mm": [
+    [
+      8.0,
+      22.0
+    ],
+    [
+      8.0,
+      140.0
+    ],
+    [
+      163.0,
+      22.0
+    ],
+    [
+      163.0,
+      140.0
+    ]
+  ],
+  "front_to_back_spacing_mm": 118.0,
+  "side_to_side_spacing_mm": 155.0,
+  "peg_diameter_mm": 5.45,
+  "peg_height_mm": 8.0,
+  "modules": [
+    {
+      "name": "left",
+      "source_file": "left_snowy_base_v6.stl",
+      "source_sha256": "f6f655dfdf0194774d14f32575bf89a160031d84c4ab58a385d8cb9c76de8662",
+      "output_file": "left_snowy_base_rev91_mount_v7.stl",
+      "output_sha256": "c35d0fe7d6c2878e42da6432b6abc068135175eba9b1994e2e439aa5f16bea13",
+      "triangles": 55708,
+      "bounds_mm": [
+        [
+          0.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          172.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents_mm": [
+        172.0,
+        185.58225059509277,
+        20.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1
+    },
+    {
+      "name": "center",
+      "source_file": "center_snowy_base_v6.stl",
+      "source_sha256": "cc6d377a7228a9b2880a336acea1050f723344c218067aa7103760ca1349ab69",
+      "output_file": "center_snowy_base_rev66_mount_v7.stl",
+      "output_sha256": "6175e554a9356ebadf95840e598ef6fa74e98e5492a8dda0625ae9e379b6c872",
+      "triangles": 52832,
+      "bounds_mm": [
+        [
+          -9.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          181.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents_mm": [
+        190.0,
+        185.58225059509277,
+        20.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1
+    },
+    {
+      "name": "right",
+      "source_file": "right_snowy_base_v6.stl",
+      "source_sha256": "c434bf379257ebb1d075e0866ba655751836acd5c6cfb90df8120bc68a1b7a98",
+      "output_file": "right_snowy_base_rev91_mount_v7.stl",
+      "output_sha256": "7377638e61ea6ab234ce6ccdd985cafa821330e862d193a22e0d1263287cc9bd",
+      "triangles": 55786,
+      "bounds_mm": [
+        [
+          0.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          172.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents_mm": [
+        172.0,
+        185.58225059509277,
+        20.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1
+    }
+  ]
+}
