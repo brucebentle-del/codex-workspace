@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto-start-reverse">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#4b5563"/>
+    </marker>
+  </defs>
+  <rect width="1100" height="760" fill="#f4f5f7"/>
+  <style>
+    text { font-family: Arial, sans-serif; fill: #1f2937; }
+    .title { font-size: 30px; font-weight: 700; }
+    .label { font-size: 20px; font-weight: 700; }
+    .small { font-size: 17px; }
+    .dim { font-size: 18px; fill: #4b5563; }
+  </style>
+  <text x="550" y="45" text-anchor="middle" class="title">Two diagonal housing posts — v8</text>
+  <text x="550" y="75" text-anchor="middle" class="small">Same front-left / rear-right pattern on the rev91 left and right bases and rev66 center base</text>
+
+  <rect x="225" y="100" width="602" height="588" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="4"/>
+  <rect x="240.75" y="129.75" width="568.75" height="526.75" fill="#dbeafe" fill-opacity="0.34" stroke="#2563eb" stroke-width="3" stroke-dasharray="10 7"/>
+  <text x="535" y="122" text-anchor="middle" class="small" fill="#2563eb">housing footprint centered on plate</text>
+
+  <!-- Kept diagonal posts: rear-right and front-left -->
+  <g fill="#16a34a" stroke="#14532d" stroke-width="3">
+    <circle cx="795.5" cy="198" r="11"/>
+    <circle cx="253" cy="611" r="11"/>
+  </g>
+  <!-- Unused housing holes; no posts -->
+  <g fill="#e5e7eb" stroke="#9ca3af" stroke-width="3">
+    <circle cx="253" cy="198" r="11"/>
+    <circle cx="795.5" cy="611" r="11"/>
+  </g>
+  <g stroke="#6b7280" stroke-width="3">
+    <path d="M245 190 L261 206 M261 190 L245 206"/>
+    <path d="M787.5 603 L803.5 619 M803.5 603 L787.5 619"/>
+  </g>
+
+  <line x1="870" y1="611" x2="870" y2="198" stroke="#4b5563" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="810" y1="611" x2="885" y2="611" stroke="#4b5563" stroke-width="2"/>
+  <line x1="810" y1="198" x2="885" y2="198" stroke="#4b5563" stroke-width="2"/>
+  <text x="895" y="410" class="dim">118 mm diagonal Y span</text>
+
+  <line x1="253" y1="165" x2="795.5" y2="165" stroke="#4b5563" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="524" y="155" text-anchor="middle" class="dim">155 mm diagonal X span</text>
+
+  <text x="535" y="718" text-anchor="middle" class="label">FRONT / HOLLY SIDE</text>
+  <text x="535" y="96" text-anchor="middle" class="label">BACK</text>
+  <circle cx="30" cy="165" r="10" fill="#16a34a" stroke="#14532d" stroke-width="2"/>
+  <text x="50" y="171" class="small">retained post</text>
+  <circle cx="30" cy="205" r="10" fill="#e5e7eb" stroke="#9ca3af" stroke-width="2"/>
+  <text x="50" y="211" class="small">unused housing hole</text>
+  <text x="855" y="660" class="small">Post Ø 5.45 mm</text>
+  <text x="855" y="686" class="small">Hole Ø 5.55 mm</text>
+</svg>

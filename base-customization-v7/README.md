@@ -1,5 +1,7 @@
 # Housing-matched mounting pegs (v7)
 
+This is an earlier version. [Base v8](../base-customization-v8/README.md) retains only two diagonal housing posts and adds split snow-base extensions across the joint openings while preserving the original bow-tie connectors.
+
 V7 corrects the front-to-back mounting pattern using the actual lower-housing meshes: rev91 for the left and right sections and rev66 for the center section. All three housings use holes at local Y=13 and Y=131, a center spacing of 118 mm. When each housing is centered on its 172 × 168 mm mounting plate, the corresponding snowy-base peg rows belong at Y=22 and Y=140.
 
 V6 inherited rows at Y=40 and Y=140 from `base_rev32.stl`. Its front peg pair was therefore 18 mm too far back. V7 moves only that front pair. The side-to-side pattern, peg diameter, snow, holly, clean front face, mounting height, mating base pockets, and four center-integrated connector tabs are retained.

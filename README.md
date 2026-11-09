@@ -1,11 +1,11 @@
 # Snowy base downloads
 
-The current **v7** bases use mounting patterns measured directly from the rev91 lower-left and lower-right housings and the rev66 center lower housing. The front peg pair moves 18 mm forward, correcting the 100 mm front-to-back spacing inherited from `base_rev32.stl` to the housings' actual 118 mm spacing. The center plate retains all four integrated bow-tie connectors, so there are no loose connector pieces to print.
+The current **v8** bases retain only two opposite-corner housing posts per section: front-left and rear-right. The rev91 side housings and rev66 center housing remain aligned to within 0.001 mm. The original bow-tie connectors are unchanged. Each adjoining snowy edge extends 4.5 mm so the two halves meet midway across the 9 mm opening, closing both visible snow/plinth seams while keeping the mounting plates and connector geometry intact.
 
-- [Download left snowy base v7 for rev91](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v7/left_snowy_base_rev91_mount_v7.stl)
-- [Download center snowy base v7 for rev66](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v7/center_snowy_base_rev66_mount_v7.stl)
-- [Download right snowy base v7 for rev91](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v7/right_snowy_base_rev91_mount_v7.stl)
-- [Base v7 measurements, preview, and validation](base-customization-v7/README.md)
+- [Download left snowy base v8 for rev91](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v8/left_snowy_base_rev91_two_posts_split_snow_extension_v8.stl)
+- [Download center snowy base v8 for rev66](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v8/center_snowy_base_rev66_two_posts_split_snow_extension_v8.stl)
+- [Download right snowy base v8 for rev91](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v8/right_snowy_base_rev91_two_posts_split_snow_extension_v8.stl)
+- [Base v8 post layout, split-extension previews, and validation](base-customization-v8/README.md)
 
 # Roof customization downloads
 
