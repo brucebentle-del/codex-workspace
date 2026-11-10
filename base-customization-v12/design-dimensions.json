@@ -1,0 +1,179 @@
+{
+  "source_file": "base_rev32.stl",
+  "source_sha256": "ff9b5399160d4499e61a9f210eb67479ad168258ceb0ddf27800913ec4449bf8",
+  "source_bounds": [
+    [
+      -0.5880100131034851,
+      0.0,
+      0.0
+    ],
+    [
+      172.0,
+      168.0,
+      14.0
+    ]
+  ],
+  "source_watertight": true,
+  "assembled_width_mm": 516.0,
+  "visible_assembled_width_with_two_joint_gaps_mm": 536.0,
+  "module_width_mm": 172.0,
+  "original_depth_mm": 168.0,
+  "front_extension_mm": 12.0,
+  "base_height_raise_mm": 6.0,
+  "raised_building_support_plane_z_mm": 12.0,
+  "seam_planes_global_x_mm": [
+    172.0,
+    344.0
+  ],
+  "module_count": 3,
+  "connector_style": "Four original bow-tie tabs integrated into the center base plate",
+  "connector_geometry_changed_from_v7": false,
+  "connector_count_to_print": 0,
+  "connector_file": null,
+  "integrated_connector_count": 4,
+  "integrated_connector_protrusion_per_side_mm": 9.0,
+  "integrated_connector_root_overlap_mm": 9.0,
+  "connector_clearance_xy_mm": 0.25,
+  "connector_vertical_clearance_mm": 0.6000000000000001,
+  "connector_slot_y_mm": [
+    55.0,
+    115.0
+  ],
+  "center_module_width_including_connectors_mm": 190.0,
+  "peppermint_discs_added": false,
+  "old_front_snow_beads_removed": true,
+  "new_continuous_snow_bank": false,
+  "three_independent_holly_sprigs": true,
+  "holly_style": "Three staggered overlapping rows using roof-width domed leaves",
+  "holly_rows_per_module": 3,
+  "holly_leaf_nominal_length_mm": 10.7,
+  "holly_leaf_nominal_width_mm": 5.55,
+  "holly_leaf_nominal_relief_mm": 4.15,
+  "holly_maximum_tip_z_mm": 10.181510740760569,
+  "holly_vertical_shift_from_v9_mm": -1.813624368885668,
+  "holly_combined_bounds_z_mm": [
+    1.85325056921213,
+    10.146749430787871
+  ],
+  "holly_combined_center_z_mm": 6.0,
+  "front_face_center_z_mm": 6.0,
+  "snowball_piles": 4,
+  "snowball_radius_scale_from_v3": 1.55,
+  "snowball_minimum_bottom_z_mm": 0.04249999999999998,
+  "outermost_ball_inward_shift_mm": 2.5,
+  "front_trim_rail_removed": true,
+  "joint_centered_split_snowball_piles": 2,
+  "berry_clusters": 15,
+  "leaf_count": 183,
+  "mounting_posts_per_module": 2,
+  "mounting_post_centers_xy_mm": [
+    [
+      8.0,
+      22.0
+    ],
+    [
+      163.0,
+      140.0
+    ]
+  ],
+  "mounting_post_diagonal": "front-left to rear-right",
+  "structural_joint_gap_mm": 10.0,
+  "visible_snow_extension_per_adjoining_part_mm": 5.0,
+  "visible_snow_extensions_meet_mid_gap": true,
+  "rounded_gap_centered_snow_mounds_added": 2,
+  "outer_receiver_extensions_added": true,
+  "outer_receiver_depth_mm": 10.0,
+  "measured_extra_installed_gap_corrected_mm": 1.0,
+  "center_connector_shape_and_position_changed_from_v10": false,
+  "connector_insertion_depth_into_outer_receivers_mm": 9.0,
+  "structural_top_plate_gap_after_assembly_mm": 0.0,
+  "obsolete_original_outer_pockets_removed": true,
+  "receiver_pockets_per_joint": 2,
+  "receiver_pocket_positions_per_joint": [
+    "front",
+    "rear"
+  ],
+  "modules": [
+    {
+      "name": "left",
+      "file": "left_snowy_base_rev91_single_receiver_v12.stl",
+      "sha256": "eecf7b885ba9a3e596008d64950bcc14cd2745b563e982f7479175586ec5c131",
+      "triangles": 67074,
+      "bounds": [
+        [
+          0.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          182.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents": [
+        182.0,
+        185.58225059509277,
+        20.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "fits_256_mm_square_bed": true,
+      "two_diagonal_post_pattern": true
+    },
+    {
+      "name": "center",
+      "file": "center_snowy_base_rev66_single_receiver_v12.stl",
+      "sha256": "ca05ca995de2a1e4819046259c6d1656456d66bafe75896e574452ec100c0da9",
+      "triangles": 66424,
+      "bounds": [
+        [
+          -9.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          181.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents": [
+        190.0,
+        185.58225059509277,
+        20.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "fits_256_mm_square_bed": true,
+      "two_diagonal_post_pattern": true
+    },
+    {
+      "name": "right",
+      "file": "right_snowy_base_rev91_single_receiver_v12.stl",
+      "sha256": "ec37daa40ba18bc63015ce34e694f4fdcf7d2c73a031eb26657f88ccea6d22e0",
+      "triangles": 67232,
+      "bounds": [
+        [
+          -10.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          172.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents": [
+        182.0,
+        185.58225059509277,
+        20.0
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "fits_256_mm_square_bed": true,
+      "two_diagonal_post_pattern": true
+    }
+  ]
+}
