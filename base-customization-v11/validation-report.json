@@ -1,0 +1,263 @@
+{
+  "validation_scope": "Two diagonal posts, unchanged 9 mm center bow-tie tabs, 10 mm outer receiver extensions, centered thick holly, and closed structural/snow seams",
+  "mounting_pattern": {
+    "posts_per_module": 2,
+    "diagonal": "front-left to rear-right",
+    "post_centers_xy_mm": [
+      [
+        8.0,
+        22.0
+      ],
+      [
+        163.0,
+        140.0
+      ]
+    ],
+    "post_diameter_mm": 5.45
+  },
+  "modules": [
+    {
+      "name": "left",
+      "base_file": "left_snowy_base_rev91_engaged_connectors_v11.stl",
+      "base_sha256": "d0b1f7658eb09446ad92e25031d57e198043e4200537d8121a88af11b7cf7269",
+      "housing_file": "CandyCane_Lower_Left_Rev91.stl",
+      "housing_sha256": "7ff10b31366f99a99bd32ec423658615cd6c1fdfc07b40d6cb728495a5010355",
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          0.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          182.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents_mm": [
+        182.0,
+        185.58225059509277,
+        20.0
+      ],
+      "post_count": 2,
+      "post_centers_xy_mm": [
+        [
+          8.000000238418579,
+          22.0
+        ],
+        [
+          163.0,
+          140.0
+        ]
+      ],
+      "maximum_center_alignment_error_mm": 0.0006182193756103516,
+      "minimum_radial_clearance_mm": 0.04936981201171875,
+      "housing_interference_volume_mm3": 0.0,
+      "fits_256_mm_square_bed": true
+    },
+    {
+      "name": "center",
+      "base_file": "center_snowy_base_rev66_engaged_connectors_v11.stl",
+      "base_sha256": "ca05ca995de2a1e4819046259c6d1656456d66bafe75896e574452ec100c0da9",
+      "housing_file": "lower_housing_rev66 (2).stl",
+      "housing_sha256": "aaa378a6ca106c2e0f0de272bd73df799bcc9f063330dd1cf07799ff9a5e139b",
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -9.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          181.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents_mm": [
+        190.0,
+        185.58225059509277,
+        20.0
+      ],
+      "post_count": 2,
+      "post_centers_xy_mm": [
+        [
+          8.000000238418579,
+          22.0
+        ],
+        [
+          163.0,
+          140.0
+        ]
+      ],
+      "maximum_center_alignment_error_mm": 2.6158141963605885e-07,
+      "minimum_radial_clearance_mm": 0.049993896484380684,
+      "housing_interference_volume_mm3": 0.0,
+      "fits_256_mm_square_bed": true
+    },
+    {
+      "name": "right",
+      "base_file": "right_snowy_base_rev91_engaged_connectors_v11.stl",
+      "base_sha256": "dbe7b95ca99d3e2eac969ef8658415daa771d50e7616501f35682dda843f4581",
+      "housing_file": "lower_right_rev91_verified (1).stl",
+      "housing_sha256": "ac92dd8f105a818d06c963161955a16ca76419542c1b653d6f23c5268423046a",
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -10.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          172.0,
+          168.0,
+          20.0
+        ]
+      ],
+      "extents_mm": [
+        182.0,
+        185.58225059509277,
+        20.0
+      ],
+      "post_count": 2,
+      "post_centers_xy_mm": [
+        [
+          8.000000238418579,
+          22.0
+        ],
+        [
+          163.0,
+          140.0
+        ]
+      ],
+      "maximum_center_alignment_error_mm": 0.0006207823753356934,
+      "minimum_radial_clearance_mm": 0.04936981201171875,
+      "housing_interference_volume_mm3": 5.315802614397429e-12,
+      "fits_256_mm_square_bed": true
+    }
+  ],
+  "connector_preservation": {
+    "style": "Original center-integrated bow-tie tabs and matching outer pockets",
+    "connector_geometry_changed_from_v7": false,
+    "center_connector_region_symmetric_difference_mm3": 0.0,
+    "left_pocket_region_symmetric_difference_mm3": -1.0018652574217413e-12,
+    "right_pocket_region_symmetric_difference_mm3": 0.0
+  },
+  "split_snow_extension": {
+    "structural_gap_per_joint_mm": 10.0,
+    "extension_per_adjoining_part_mm": 5.0,
+    "module_pitch_mm": 182.0,
+    "visible_assembled_width_mm": 536.0,
+    "left_center_visible_gap_mm": 0.0,
+    "center_right_visible_gap_mm": 0.0,
+    "left_center_solid_interference_mm3": 2.713940183696195e-13,
+    "center_right_solid_interference_mm3": 0.0,
+    "assembled_boolean_status": "Error.NoError",
+    "assembled_connected_components": 1,
+    "front_visible_bounds_global_mm": {
+      "left": [
+        [
+          0.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          177.0,
+          5.899999999999999,
+          12.0
+        ]
+      ],
+      "center": [
+        [
+          177.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          359.0,
+          5.899999999999999,
+          12.0
+        ]
+      ],
+      "right": [
+        [
+          359.0,
+          -17.582250595092773,
+          0.0
+        ],
+        [
+          536.0,
+          5.899999999999999,
+          12.0
+        ]
+      ]
+    }
+  },
+  "structural_receiver_engagement": {
+    "receiver_depth_mm": 10.0,
+    "measured_extra_gap_corrected_mm": 1.0,
+    "left_center_structural_plate_gap_mm": 0.0,
+    "center_right_structural_plate_gap_mm": 0.0,
+    "structural_plate_bounds_global_mm": {
+      "left": [
+        [
+          0.0,
+          10.0,
+          6.25
+        ],
+        [
+          182.0,
+          160.0,
+          11.75
+        ]
+      ],
+      "center": [
+        [
+          182.0,
+          10.0,
+          6.25
+        ],
+        [
+          354.0,
+          160.0,
+          11.75
+        ]
+      ],
+      "right": [
+        [
+          354.0,
+          10.0,
+          6.25
+        ],
+        [
+          536.0,
+          160.0,
+          11.75
+        ]
+      ]
+    },
+    "left_connector_insertion_depth_mm": 9.0,
+    "right_connector_insertion_depth_mm": 9.0,
+    "left_connector_to_receiver_collision_mm3": 0.0,
+    "right_connector_to_receiver_collision_mm3": 0.0,
+    "center_connector_region_unchanged_from_v7_and_v10": true,
+    "center_snow_edges_extended_additional_mm_from_v10": 0.5
+  },
+  "holly_vertical_centering": {
+    "combined_bounds_z_mm": [
+      1.85325056921213,
+      10.146749430787871
+    ],
+    "holly_center_z_mm": 6.0,
+    "front_face_center_z_mm": 6.0,
+    "absolute_center_error_mm": 0.0
+  },
+  "overall_pass": true
+}
