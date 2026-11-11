@@ -1,0 +1,238 @@
+{
+  "format": "3MF Core 1.0 with Materials Extension",
+  "geometry_strategy": "Single watertight printable object with a uniform base-material assignment on every triangle",
+  "color_pattern_source": "User-provided Candy-Cane Village reference image",
+  "color_mapping": [
+    {
+      "name": "White Silk PLA",
+      "hex": "#F7F5EEFF",
+      "role": "base, snow, posts, connectors"
+    },
+    {
+      "name": "Candy Green Silk PLA",
+      "hex": "#007A33FF",
+      "role": "holly leaves"
+    },
+    {
+      "name": "Candy Red Silk PLA",
+      "hex": "#D71920FF",
+      "role": "berries"
+    }
+  ],
+  "models": [
+    {
+      "name": "left",
+      "file": "left_snowy_base_rev91_color_v12.3mf",
+      "sha256": "626b8a66c01f85ae5bc08e0ded5d2431b78e088d82c77580cf517f315281ce63",
+      "bytes": 1225456,
+      "source_stl": "left_snowy_base_rev91_single_receiver_v12.stl",
+      "source_stl_sha256": "eecf7b885ba9a3e596008d64950bcc14cd2745b563e982f7479175586ec5c131",
+      "discarded_microscopic_preview_components": 3,
+      "geometry": {
+        "vertices": 33539,
+        "triangles": 67074,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 394437.80968208425,
+        "bounds_mm": [
+          [
+            0.0,
+            -17.582250000000002,
+            0.0
+          ],
+          [
+            182.0,
+            168.0,
+            20.0
+          ]
+        ],
+        "volume_error_vs_stl_mm3": 0.00039565726183354855,
+        "bounds_max_error_vs_stl_mm": 5.950927715048238e-07
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "White Silk PLA",
+            "display_color": "#F7F5EEFF"
+          },
+          {
+            "name": "Candy Green Silk PLA",
+            "display_color": "#007A33FF"
+          },
+          {
+            "name": "Candy Red Silk PLA",
+            "display_color": "#D71920FF"
+          }
+        ],
+        "vertex_count": 33539,
+        "triangle_count": 67074,
+        "material_triangle_counts": {
+          "White Silk PLA": 15820,
+          "Candy Green Silk PLA": 39069,
+          "Candy Red Silk PLA": 12185
+        },
+        "all_triangles_have_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "name": "center",
+      "file": "center_snowy_base_rev66_color_v12.3mf",
+      "sha256": "45e9884bdf27e16f17b0e8e7f3770706d64110ea58954ab3587ad8063fcb4c89",
+      "bytes": 1225689,
+      "source_stl": "center_snowy_base_rev66_single_receiver_v12.stl",
+      "source_stl_sha256": "ca05ca995de2a1e4819046259c6d1656456d66bafe75896e574452ec100c0da9",
+      "discarded_microscopic_preview_components": 2,
+      "geometry": {
+        "vertices": 33214,
+        "triangles": 66424,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 377999.4788336451,
+        "bounds_mm": [
+          [
+            -9.0,
+            -17.582250000000002,
+            0.0
+          ],
+          [
+            181.0,
+            168.0,
+            20.0
+          ]
+        ],
+        "volume_error_vs_stl_mm3": 0.0004133923794142902,
+        "bounds_max_error_vs_stl_mm": 5.950927715048238e-07
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "White Silk PLA",
+            "display_color": "#F7F5EEFF"
+          },
+          {
+            "name": "Candy Green Silk PLA",
+            "display_color": "#007A33FF"
+          },
+          {
+            "name": "Candy Red Silk PLA",
+            "display_color": "#D71920FF"
+          }
+        ],
+        "vertex_count": 33214,
+        "triangle_count": 66424,
+        "material_triangle_counts": {
+          "White Silk PLA": 15170,
+          "Candy Green Silk PLA": 39069,
+          "Candy Red Silk PLA": 12185
+        },
+        "all_triangles_have_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "name": "right",
+      "file": "right_snowy_base_rev91_color_v12.3mf",
+      "sha256": "fd584a92f04e6a4e266b70290e670862fe12016de677c62017254a09a981d276",
+      "bytes": 1236117,
+      "source_stl": "right_snowy_base_rev91_single_receiver_v12.stl",
+      "source_stl_sha256": "ec37daa40ba18bc63015ce34e694f4fdcf7d2c73a031eb26657f88ccea6d22e0",
+      "discarded_microscopic_preview_components": 1,
+      "geometry": {
+        "vertices": 33618,
+        "triangles": 67232,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 394412.68422872823,
+        "bounds_mm": [
+          [
+            -10.0,
+            -17.582250000000002,
+            0.0
+          ],
+          [
+            172.0,
+            168.0,
+            20.0
+          ]
+        ],
+        "volume_error_vs_stl_mm3": 0.0002801278606057167,
+        "bounds_max_error_vs_stl_mm": 5.950927715048238e-07
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "White Silk PLA",
+            "display_color": "#F7F5EEFF"
+          },
+          {
+            "name": "Candy Green Silk PLA",
+            "display_color": "#007A33FF"
+          },
+          {
+            "name": "Candy Red Silk PLA",
+            "display_color": "#D71920FF"
+          }
+        ],
+        "vertex_count": 33618,
+        "triangle_count": 67232,
+        "material_triangle_counts": {
+          "White Silk PLA": 15978,
+          "Candy Green Silk PLA": 39069,
+          "Candy Red Silk PLA": 12185
+        },
+        "all_triangles_have_uniform_material": true,
+        "build_items": 1
+      }
+    }
+  ],
+  "all_checks_passed": true
+}

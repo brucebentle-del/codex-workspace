@@ -14,7 +14,25 @@ Only the **left and right bases need to be reprinted** when upgrading from v11.
 
 ![Actual v11 and v12 underside sections](underside-pocket-cleanup-v12.png)
 
-## Downloads
+## Three-color 3MF downloads
+
+Each 3MF is one watertight printable object using the standard 3MF Materials Extension. Every triangle carries one of these material assignments:
+
+- **White Silk PLA** (`#F7F5EE`): base, snow, posts, and connectors
+- **Candy Green Silk PLA** (`#007A33`): holly leaves
+- **Candy Red Silk PLA** (`#D71920`): berries
+
+- [Left three-color base v12](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v12/left_snowy_base_rev91_color_v12.3mf)
+- [Center three-color base v12](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v12/center_snowy_base_rev66_color_v12.3mf)
+- [Right three-color base v12](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v12/right_snowy_base_rev91_color_v12.3mf)
+
+In Bambu Studio, map the three listed materials to the corresponding AMS slots before slicing. Keep the models at 100% scale in millimeters.
+
+![Three-color assembly preview](assembly-3mf-color-preview-v12.png)
+
+![Three-color center-base detail](center-3mf-color-detail-v12.png)
+
+## STL downloads
 
 - [Left snowy base v12 for rev91 housing](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v12/left_snowy_base_rev91_single_receiver_v12.stl)
 - [Right snowy base v12 for rev91 housing](https://raw.githubusercontent.com/brucebentle-del/codex-workspace/refs/heads/main/base-customization-v12/right_snowy_base_rev91_single_receiver_v12.stl)
@@ -40,5 +58,7 @@ The center retains two tabs per joint: one front and one rear. Each tab slides i
 - Connector collision: **0 mm³**
 - Structural and snowy seam gaps: **0 mm**
 - All STLs remain watertight, consistently wound, single-component solids
+- All three 3MF archives pass ZIP/XML validation and reopen as watertight, consistently wound, positive-volume solids
+- Every 3MF triangle has an explicit white, green, or red material assignment
 
-See [validation-report.json](validation-report.json) and [design-dimensions.json](design-dimensions.json) for all measurements.
+See [validation-report.json](validation-report.json), [3mf-validation-report.json](3mf-validation-report.json), and [design-dimensions.json](design-dimensions.json) for all measurements.
