@@ -14,8 +14,8 @@ Keep every model at 100% scale in millimeters. In Bambu Studio, map each listed 
 
 ## Reference color mapping
 
-- **Champagne Silk PLA** (`#C89A6B`): roof, facade, and center sign field
-- **White Silk PLA** (`#F7F5EE`): snow and white peppermint sectors
+- **Champagne Silk PLA** (`#C89A6B`): roof and facade
+- **White Silk PLA** (`#F7F5EE`): center sign field, snow, and white peppermint sectors
 - **Candy Red Silk PLA** (`#D71920`): berries, bow, lettering, and red peppermint sectors
 - **Candy Green Silk PLA** (`#007A33`): holly leaves and concealed holly backing
 - **Gold Silk PLA** (`#D89A18`): left and right window details
@@ -36,7 +36,7 @@ The left and right roofs use all five colors. The center uses champagne, white, 
 - One watertight printable object per file
 - Explicit material assignment on every triangle
 - Left and right assignments come directly from the final approved v24 semantic build data
-- Center assignments retain the approved v12 paint regions on the v25 strengthened geometry; the reinforced ribbon tails are red, the holly backing is green, and the raised roof snow is white
+- Center assignments retain the approved v12 paint regions on the v25 strengthened geometry; the sign field and raised roof snow are white, the reinforced ribbon tails are red, and the holly backing is green
 - All three files reopen as watertight, consistently wound, positive-volume solids
 - Source-to-3MF bounds error: **0 mm**
 - Source-to-3MF volume error: **0 mm³**

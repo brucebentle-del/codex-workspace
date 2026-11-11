@@ -6,12 +6,12 @@
     {
       "name": "Champagne Silk PLA",
       "hex": "#C89A6BFF",
-      "role": "roof and facade, including center sign field"
+      "role": "roof and facade"
     },
     {
       "name": "White Silk PLA",
       "hex": "#F7F5EEFF",
-      "role": "snow and white peppermint sectors"
+      "role": "center sign field, snow, and white peppermint sectors"
     },
     {
       "name": "Candy Red Silk PLA",
@@ -124,8 +124,8 @@
     {
       "name": "center",
       "file": "center_roof_rev31_v25_color_v1.3mf",
-      "sha256": "abe56b48142240b38a064edd072cb327176d72959099aaf786e2203e61c0737f",
-      "bytes": 29428204,
+      "sha256": "9500799d0c25ccfb9c07ea56f31fe8a804e7d1d868a2073f3927447272ac955f",
+      "bytes": 29429893,
       "source_stl": "center_roof_rev31_solid_ribbon_tails_anchored_holly_v25.stl",
       "source_stl_sha256": "c9dab0108b1f80d2997d30a9a289ab36db11f404182dfa8b69d7aea7353b3ce9",
       "geometry": {
@@ -200,8 +200,8 @@
         "vertex_count": 894886,
         "triangle_count": 1789884,
         "material_triangle_counts": {
-          "Champagne Silk PLA": 1019284,
-          "White Silk PLA": 399385,
+          "Champagne Silk PLA": 861714,
+          "White Silk PLA": 556955,
           "Candy Red Silk PLA": 169035,
           "Candy Green Silk PLA": 202180
         },
@@ -310,6 +310,6 @@
       }
     }
   ],
-  "elapsed_seconds": 54.3195641040802,
+  "elapsed_seconds": 53.25066304206848,
   "all_checks_passed": true
 }
