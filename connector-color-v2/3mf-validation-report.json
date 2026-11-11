@@ -1,0 +1,95 @@
+{
+  "format": "3MF Core 1.0 with Materials Extension",
+  "file": "front_candy_cane_rev85_raised_color_v2.3mf",
+  "sha256": "1d8f514e651c0fdcdd4196584b640b4a90e1553f9ac067d9c6383873bc433f24",
+  "bytes": 1433411,
+  "source_stl": "front_candy_cane_rev85_156p6mm.stl",
+  "source_stl_sha256": "f1f238a4d10bfef8fed56381c3eb2d547c88d94c790fdfb46f6e3a72812c9faf",
+  "relief": {
+    "nominal_outward_height_mm": 0.8,
+    "measured_max_outward_height_mm": 0.7997191190719626,
+    "spiral_pitch_mm": 39.15,
+    "raised_material": "Candy Red Silk PLA",
+    "raised_faces": 141718,
+    "added_volume_mm3": 3417.7165991552756
+  },
+  "fit_geometry": {
+    "height_mm": 156.6,
+    "height_change_mm": 0.0,
+    "rear_y_max_mm": 23.5,
+    "rear_y_max_change_mm": 0.0,
+    "original_bounds_mm": [
+      [
+        139.0,
+        -17.0,
+        0.0
+      ],
+      [
+        173.0,
+        23.5,
+        156.6
+      ]
+    ],
+    "raised_bounds_mm": [
+      [
+        138.20119905471802,
+        -17.799719119071963,
+        0.0
+      ],
+      [
+        173.7955039978027,
+        23.5,
+        156.6
+      ]
+    ]
+  },
+  "geometry": {
+    "vertices": 73599,
+    "triangles": 147194,
+    "watertight": true,
+    "consistent_winding": true,
+    "positive_volume": true,
+    "volume_mm3": 172165.3479235314
+  },
+  "archive": {
+    "zip_test_error": null,
+    "archive_entries": [
+      "3D/3dmodel.model",
+      "[Content_Types].xml",
+      "_rels/.rels"
+    ],
+    "unit": "millimeter",
+    "required_extensions": "m",
+    "materials": [
+      {
+        "name": "Champagne Silk PLA",
+        "display_color": "#C89A6BFF"
+      },
+      {
+        "name": "White Silk PLA",
+        "display_color": "#F7F5EEFF"
+      },
+      {
+        "name": "Candy Red Silk PLA",
+        "display_color": "#D71920FF"
+      }
+    ],
+    "vertex_count": 73599,
+    "triangle_count": 147194,
+    "material_triangle_counts": {
+      "Champagne Silk PLA": 195,
+      "White Silk PLA": 5166,
+      "Candy Red Silk PLA": 141833
+    },
+    "all_triangles_have_uniform_material": true,
+    "build_items": 1
+  },
+  "reopen_check": {
+    "watertight": true,
+    "consistent_winding": true,
+    "positive_volume": true,
+    "volume_error_mm3": 0.0,
+    "bounds_max_error_mm": 0.0
+  },
+  "all_checks_passed": true
+}

@@ -4,7 +4,8 @@
 
 # Approved candy-cane connector color downloads
 
-- [Front rev85 and rear rev86 connector 3MF files](connector-color-v1/README.md)
+- [Raised front rev85 color v2 and unchanged rear rev86 connector](connector-color-v2/README.md)
+- [Original color-only front rev85 and rear rev86 files](connector-color-v1/README.md)
 
 # Approved roof color downloads
 
