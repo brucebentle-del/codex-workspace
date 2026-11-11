@@ -2,6 +2,10 @@
 
 - [Left rev91, center rev66, and right rev91 housing 3MF files](housing-color-v1/README.md)
 
+# Approved candy-cane connector color downloads
+
+- [Front rev85 and rear rev86 connector 3MF files](connector-color-v1/README.md)
+
 # Snowy base downloads
 
 The current **v8** bases retain only two opposite-corner housing posts per section: front-left and rear-right. The rev91 side housings and rev66 center housing remain aligned to within 0.001 mm. The original bow-tie connectors are unchanged. Each adjoining snowy edge extends 4.5 mm so the two halves meet midway across the 9 mm opening, closing both visible snow/plinth seams while keeping the mounting plates and connector geometry intact.

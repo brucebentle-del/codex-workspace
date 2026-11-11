@@ -1,0 +1,186 @@
+{
+  "format": "3MF Core 1.0 with Materials Extension",
+  "color_pattern_source": "User-provided Candy-Cane Village reference image",
+  "geometry_strategy": "Approved STL surfaces retained exactly. Front vertical faces are triangulated more finely on the same planes solely to carry clean face-level spiral colors.",
+  "color_mapping": [
+    {
+      "name": "Champagne Silk PLA",
+      "hex": "#C89A6BFF",
+      "role": "attachment rail, tabs, and complete rear connector"
+    },
+    {
+      "name": "White Silk PLA",
+      "hex": "#F7F5EEFF",
+      "role": "front candy-cane spiral and peppermint end pattern"
+    },
+    {
+      "name": "Candy Red Silk PLA",
+      "hex": "#D71920FF",
+      "role": "front candy-cane spiral and peppermint end pattern"
+    }
+  ],
+  "front_pattern": {
+    "spiral_pitch_mm": 39.15,
+    "side_layer_count": 209,
+    "actual_side_layer_height_mm": 0.7492822966507177,
+    "peppermint_red_arms": 8,
+    "attachment_rail_material": "Champagne Silk PLA"
+  },
+  "models": [
+    {
+      "name": "front",
+      "file": "front_candy_cane_rev85_color_v1.3mf",
+      "sha256": "1489788e0335f0a13b071d544d90cc2c45889eb19af317861b53334e8a163dfe",
+      "bytes": 326617,
+      "source_stl": "front_candy_cane_rev85_156p6mm.stl",
+      "source_stl_sha256": "f1f238a4d10bfef8fed56381c3eb2d547c88d94c790fdfb46f6e3a72812c9faf",
+      "source_geometry": {
+        "vertices": 182,
+        "triangles": 360,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 168747.63132437613,
+        "bounds_mm": [
+          [
+            139.0,
+            -17.0,
+            0.0
+          ],
+          [
+            173.0,
+            23.5,
+            156.6
+          ]
+        ],
+        "extents_mm": [
+          34.0,
+          40.5,
+          156.6
+        ]
+      },
+      "color_geometry": {
+        "vertices": 19110,
+        "triangles": 38216,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "surface_volume_error_vs_source_mm3": 3.2014213502407074e-10,
+        "bounds_max_error_vs_source_mm": 0.0
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "Champagne Silk PLA",
+            "display_color": "#C89A6BFF"
+          },
+          {
+            "name": "White Silk PLA",
+            "display_color": "#F7F5EEFF"
+          },
+          {
+            "name": "Candy Red Silk PLA",
+            "display_color": "#D71920FF"
+          }
+        ],
+        "vertex_count": 19110,
+        "triangle_count": 38216,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 11350,
+          "White Silk PLA": 13438,
+          "Candy Red Silk PLA": 13428
+        },
+        "all_triangles_have_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "name": "rear",
+      "file": "flat_rear_connector_rev86_champagne_v1.3mf",
+      "sha256": "fb36260ea09a7a3dc462cdad99794498d2a1d839d6baacc2bc05d74f3d35695d",
+      "bytes": 2143,
+      "source_stl": "flat_rear_rev86_156p6mm.stl",
+      "source_stl_sha256": "247a74f1ce295bd238be9f1d81e38a5798c24d20fda1d8ac54bec7fdef564ef5",
+      "source_geometry": {
+        "vertices": 56,
+        "triangles": 108,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 180202.12559999994,
+        "bounds_mm": [
+          [
+            139.0,
+            111.713,
+            0.0
+          ],
+          [
+            173.0,
+            150.488,
+            156.6
+          ]
+        ],
+        "extents_mm": [
+          34.0,
+          38.775000000000006,
+          156.6
+        ]
+      },
+      "color_geometry": {
+        "vertices": 56,
+        "triangles": 108,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "surface_volume_error_vs_source_mm3": 0.0,
+        "bounds_max_error_vs_source_mm": 0.0
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "Champagne Silk PLA",
+            "display_color": "#C89A6BFF"
+          }
+        ],
+        "vertex_count": 56,
+        "triangle_count": 108,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 108
+        },
+        "all_triangles_have_uniform_material": true,
+        "build_items": 1
+      }
+    }
+  ],
+  "all_checks_passed": true
+}
