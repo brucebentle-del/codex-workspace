@@ -1,0 +1,315 @@
+{
+  "format": "3MF Core 1.0 with Materials Extension",
+  "color_pattern_source": "User-provided Candy-Cane Village reference image and approved roof semantic paint guides",
+  "geometry_strategy": "Approved v24/v25 roof surfaces retained exactly; every triangle receives an explicit reference-palette material",
+  "color_mapping": [
+    {
+      "name": "Champagne Silk PLA",
+      "hex": "#C89A6BFF",
+      "role": "roof and facade, including center sign field"
+    },
+    {
+      "name": "White Silk PLA",
+      "hex": "#F7F5EEFF",
+      "role": "snow and white peppermint sectors"
+    },
+    {
+      "name": "Candy Red Silk PLA",
+      "hex": "#D71920FF",
+      "role": "berries, bow, lettering, and red peppermint sectors"
+    },
+    {
+      "name": "Candy Green Silk PLA",
+      "hex": "#007A33FF",
+      "role": "holly leaves and backing"
+    },
+    {
+      "name": "Gold Silk PLA",
+      "hex": "#D89A18FF",
+      "role": "side-roof window frame and panes"
+    }
+  ],
+  "models": [
+    {
+      "name": "left",
+      "file": "left_roof_v24_color_v1.3mf",
+      "sha256": "d65ba28404add66238afa304d63bd0c6c93b3d79592cc08c407dcd4ac17d6298",
+      "bytes": 16863331,
+      "source_stl": "left_roof_rev10_center_style_snow_peppermint_v24.stl",
+      "source_stl_sha256": "5f3521220faefcbc4c37761ff0c2515e186c6015fad0b46493e72c6ac4c3fe23",
+      "geometry": {
+        "vertices": 503871,
+        "triangles": 1007830,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 322308.06174954184,
+        "bounds_mm": [
+          [
+            -13.656683921813965,
+            -16.171268463134766,
+            -7.501136779785156
+          ],
+          [
+            153.25,
+            157.78634643554688,
+            68.4124755859375
+          ]
+        ],
+        "extents_mm": [
+          166.90668392181396,
+          173.95761489868164,
+          75.91361236572266
+        ]
+      },
+      "semantic_assignment": {
+        "semantic_source": "left-render.npz",
+        "source_exact_face_count_match": true,
+        "source_volume_error_mm3": 0.0,
+        "source_bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "Champagne Silk PLA",
+            "display_color": "#C89A6BFF"
+          },
+          {
+            "name": "White Silk PLA",
+            "display_color": "#F7F5EEFF"
+          },
+          {
+            "name": "Candy Red Silk PLA",
+            "display_color": "#D71920FF"
+          },
+          {
+            "name": "Candy Green Silk PLA",
+            "display_color": "#007A33FF"
+          },
+          {
+            "name": "Gold Silk PLA",
+            "display_color": "#D89A18FF"
+          }
+        ],
+        "vertex_count": 503871,
+        "triangle_count": 1007830,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 229399,
+          "White Silk PLA": 333443,
+          "Candy Red Silk PLA": 269603,
+          "Candy Green Silk PLA": 175121,
+          "Gold Silk PLA": 264
+        },
+        "all_triangles_have_uniform_material": true,
+        "build_items": 1
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "vertices": 503871,
+        "triangles": 1007830,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      }
+    },
+    {
+      "name": "center",
+      "file": "center_roof_rev31_v25_color_v1.3mf",
+      "sha256": "abe56b48142240b38a064edd072cb327176d72959099aaf786e2203e61c0737f",
+      "bytes": 29428204,
+      "source_stl": "center_roof_rev31_solid_ribbon_tails_anchored_holly_v25.stl",
+      "source_stl_sha256": "c9dab0108b1f80d2997d30a9a289ab36db11f404182dfa8b69d7aea7353b3ce9",
+      "geometry": {
+        "vertices": 894886,
+        "triangles": 1789884,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 2111350.935279427,
+        "bounds_mm": [
+          [
+            -48.29340362548828,
+            -31.34600067138672,
+            -7.635976791381836
+          ],
+          [
+            196.39340209960938,
+            149.40113830566406,
+            126.88829803466797
+          ]
+        ],
+        "extents_mm": [
+          244.68680572509766,
+          180.74713897705078,
+          134.5242748260498
+        ]
+      },
+      "semantic_assignment": {
+        "semantic_source": "roof-customization-v12/render.npz",
+        "v25_strength_repairs": "nearest approved v12 semantic surface, with explicit Candy Red override for the reinforced ribbon-tail envelope",
+        "triangles": 1789884,
+        "exact_center_matches_within_1e-8_mm": 1731002,
+        "nonexact_triangles_from_v25_boolean_repairs": 58882,
+        "tail_repair_triangles_forced_red": 2633,
+        "raised_center_snow_triangles_forced_white": 312953,
+        "center_snow_plane_clearance_mm": 0.2,
+        "nearest_distance_mm": {
+          "median": 0.0,
+          "p95": 0.0,
+          "p99": 0.2779367098750178,
+          "p999": 1.0407796343721432,
+          "maximum": 2.3526092468055277
+        }
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "Champagne Silk PLA",
+            "display_color": "#C89A6BFF"
+          },
+          {
+            "name": "White Silk PLA",
+            "display_color": "#F7F5EEFF"
+          },
+          {
+            "name": "Candy Red Silk PLA",
+            "display_color": "#D71920FF"
+          },
+          {
+            "name": "Candy Green Silk PLA",
+            "display_color": "#007A33FF"
+          }
+        ],
+        "vertex_count": 894886,
+        "triangle_count": 1789884,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 1019284,
+          "White Silk PLA": 399385,
+          "Candy Red Silk PLA": 169035,
+          "Candy Green Silk PLA": 202180
+        },
+        "all_triangles_have_uniform_material": true,
+        "build_items": 1
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "vertices": 894886,
+        "triangles": 1789884,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      }
+    },
+    {
+      "name": "right",
+      "file": "right_roof_v24_color_v1.3mf",
+      "sha256": "d948b68e7d74386ce8a93cf99b12bd7832e90f896e9e7180e7101acf227d92cb",
+      "bytes": 16629460,
+      "source_stl": "right_roof_rev10_center_style_snow_peppermint_v24.stl",
+      "source_stl_sha256": "509b741fed1ed84db654cfa7f46dc41ec99c69a66b1bad5ae47fcc8a286026f1",
+      "geometry": {
+        "vertices": 503871,
+        "triangles": 1007830,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 322308.0735419422,
+        "bounds_mm": [
+          [
+            -5.25,
+            -16.171268463134766,
+            -7.501136779785156
+          ],
+          [
+            161.65667724609375,
+            157.78634643554688,
+            68.4124755859375
+          ]
+        ],
+        "extents_mm": [
+          166.90667724609375,
+          173.95761489868164,
+          75.91361236572266
+        ]
+      },
+      "semantic_assignment": {
+        "semantic_source": "right-render.npz",
+        "source_exact_face_count_match": true,
+        "source_volume_error_mm3": 0.0,
+        "source_bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "Champagne Silk PLA",
+            "display_color": "#C89A6BFF"
+          },
+          {
+            "name": "White Silk PLA",
+            "display_color": "#F7F5EEFF"
+          },
+          {
+            "name": "Candy Red Silk PLA",
+            "display_color": "#D71920FF"
+          },
+          {
+            "name": "Candy Green Silk PLA",
+            "display_color": "#007A33FF"
+          },
+          {
+            "name": "Gold Silk PLA",
+            "display_color": "#D89A18FF"
+          }
+        ],
+        "vertex_count": 503871,
+        "triangle_count": 1007830,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 229384,
+          "White Silk PLA": 333458,
+          "Candy Red Silk PLA": 269603,
+          "Candy Green Silk PLA": 175121,
+          "Gold Silk PLA": 264
+        },
+        "all_triangles_have_uniform_material": true,
+        "build_items": 1
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "vertices": 503871,
+        "triangles": 1007830,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      }
+    }
+  ],
+  "elapsed_seconds": 54.3195641040802,
+  "all_checks_passed": true
+}
