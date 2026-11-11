@@ -1,0 +1,2284 @@
+{
+  "format": "3MF Core 1.0 with Materials Extension",
+  "geometry_strategy": "Approved Rev29 STL triangle surfaces and intersecting-shell topology preserved; no boolean union, repair, scaling, or fit changes",
+  "color_pattern_source": "User-provided Candy-Cane Village reference image",
+  "color_mapping": [
+    {
+      "name": "Champagne Silk PLA",
+      "hex": "#C89A6BFF",
+      "role": "drawer body and front field"
+    },
+    {
+      "name": "White Silk PLA",
+      "hex": "#F7F5EEFF",
+      "role": "peppermint sectors, candy-cane stripes, snowflakes, and angels"
+    },
+    {
+      "name": "Candy Red Silk PLA",
+      "hex": "#D71920FF",
+      "role": "raised numbers, hearts, and peppermint/candy-cane sectors"
+    },
+    {
+      "name": "Candy Green Silk PLA",
+      "hex": "#007A33FF",
+      "role": "Christmas trees"
+    },
+    {
+      "name": "Gold Silk PLA",
+      "hex": "#D89A18FF",
+      "role": "double-beaded frame, stars, angel halos, and tree toppers"
+    }
+  ],
+  "material_order_note": "All 24 files include the same five materials in the same order for consistent slicer/AMS assignment.",
+  "models": [
+    {
+      "day": 1,
+      "motif": "hearts",
+      "file": "drawer_day01_rev29_color_v1.3mf",
+      "sha256": "3643f7306181eb001e3ee64d6a1698163a47975e3a78f79316e42c56eea2a578",
+      "bytes": 199262,
+      "source_stl": "drawer_day01_rev29.stl",
+      "source_stl_sha256": "5d51c0cef850e1848330efee3ab14af74b6b8516b784040e707c3f1b4dad9958",
+      "geometry": {
+        "vertices": 11302,
+        "triangles": 22248,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 121944.07135527306,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 40
+          },
+          "red heart": {
+            "components": 2,
+            "faces": 576
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22248,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11302,
+        "triangle_count": 22248,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 1031,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 2,
+      "motif": "candy canes",
+      "file": "drawer_day02_rev29_color_v1.3mf",
+      "sha256": "c59de9088b62fbc11d73dba125d37a16976f7d16c1e742e1347fd9eef33b168c",
+      "bytes": 217129,
+      "source_stl": "drawer_day02_rev29.stl",
+      "source_stl_sha256": "6d85b3df051418f47941553902e7081d79814a41c9159f6424cbb2ff291b8c51",
+      "geometry": {
+        "vertices": 12032,
+        "triangles": 23716,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122738.78139979317,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 360
+          },
+          "red and white candy cane": {
+            "components": 2,
+            "faces": 1724
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 23716,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 12032,
+        "triangle_count": 23716,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 1263,
+          "Candy Red Silk PLA": 1651,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 3,
+      "motif": "snowflakes",
+      "file": "drawer_day03_rev29_color_v1.3mf",
+      "sha256": "42d24b9343aa1bd1374142abb3cb8e239e1962782dd2e1b913981d5479a66c69",
+      "bytes": 202127,
+      "source_stl": "drawer_day03_rev29.stl",
+      "source_stl_sha256": "dc2f1bc25e5ef1321292d1f504bdb5f9ac25f74ce82b932312c8bce9fd73a581",
+      "geometry": {
+        "vertices": 11406,
+        "triangles": 22456,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122343.47793024924,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 400
+          },
+          "white snowflake": {
+            "components": 2,
+            "faces": 424
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22456,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11406,
+        "triangle_count": 22456,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 839,
+          "Candy Red Silk PLA": 815,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 4,
+      "motif": "stars",
+      "file": "drawer_day04_rev29_color_v1.3mf",
+      "sha256": "fa5a73de0d27922628408f065086a5869619ba2b4c704140597756ce43efa154",
+      "bytes": 193374,
+      "source_stl": "drawer_day04_rev29.stl",
+      "source_stl_sha256": "804aa7edce5f56da479e62a846bc2b82d93556e4cae51d1950e7dacee6280448",
+      "geometry": {
+        "vertices": 11056,
+        "triangles": 21760,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122341.52447083972,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 56
+          },
+          "gold star": {
+            "components": 2,
+            "faces": 72
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 21760,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11056,
+        "triangle_count": 21760,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 471,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20232
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 5,
+      "motif": "Christmas trees",
+      "file": "drawer_day05_rev29_color_v1.3mf",
+      "sha256": "cc097a01a23fa8e7957fd20889d3219c08ba4969393d342081d9278e8285f290",
+      "bytes": 208468,
+      "source_stl": "drawer_day05_rev29.stl",
+      "source_stl_sha256": "aa4ca0ca2c436721ee059ae8e9028caf2984f15acc71603eb9f196567e2401c1",
+      "geometry": {
+        "vertices": 11748,
+        "triangles": 23140,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122828.45881290744,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 276
+          },
+          "green tree with gold topper": {
+            "components": 2,
+            "faces": 1232
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 23140,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11748,
+        "triangle_count": 23140,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 691,
+          "Candy Green Silk PLA": 1208,
+          "Gold Silk PLA": 20184
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 6,
+      "motif": "angels",
+      "file": "drawer_day06_rev29_color_v1.3mf",
+      "sha256": "fe9102c74f1462f5c826b849d7380655883fb2d420c42fd2dc664cdedaa2fa22",
+      "bytes": 215411,
+      "source_stl": "drawer_day06_rev29.stl",
+      "source_stl_sha256": "8743b1d3e280b3f63c4a093014678b5f9100dbb9a1709cad19d5159a35c7f3c0",
+      "geometry": {
+        "vertices": 11970,
+        "triangles": 23588,
+        "connected_shell_components": 1523,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123388.21813037312,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 388
+          },
+          "gold angel halo": {
+            "components": 2,
+            "faces": 640
+          },
+          "white angel": {
+            "components": 2,
+            "faces": 928
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 23588,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11970,
+        "triangle_count": 23588,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 1343,
+          "Candy Red Silk PLA": 803,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20800
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 7,
+      "motif": "hearts",
+      "file": "drawer_day07_rev29_color_v1.3mf",
+      "sha256": "90f7ef359b0b7319b31325873c2bdc1595564d63e90f055eff13122cbc923361",
+      "bytes": 199050,
+      "source_stl": "drawer_day07_rev29.stl",
+      "source_stl_sha256": "345f032c50e87d411163fbf6961e58746d2a8802332a510f94577cf8acb337df",
+      "geometry": {
+        "vertices": 11294,
+        "triangles": 22232,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122258.28370682422,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 24
+          },
+          "red heart": {
+            "components": 2,
+            "faces": 576
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22232,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11294,
+        "triangle_count": 22232,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 1015,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 8,
+      "motif": "candy canes",
+      "file": "drawer_day08_rev29_color_v1.3mf",
+      "sha256": "721b13067776abd0952266aced5f923874444438f4f53ef1efc59e2bec08557b",
+      "bytes": 218664,
+      "source_stl": "drawer_day08_rev29.stl",
+      "source_stl_sha256": "5d26e4559bb416fbb257b448d10fbb1293706bd3229bb47f332a30dbb0b005c7",
+      "geometry": {
+        "vertices": 12106,
+        "triangles": 23872,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122969.58806379641,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 516
+          },
+          "red and white candy cane": {
+            "components": 2,
+            "faces": 1724
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 23872,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 12106,
+        "triangle_count": 23872,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 1263,
+          "Candy Red Silk PLA": 1807,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 9,
+      "motif": "snowflakes",
+      "file": "drawer_day09_rev29_color_v1.3mf",
+      "sha256": "60584a2482dd2446afe61108785e90f17af0ed3affa742ee8de86b2e3a67fcdb",
+      "bytes": 201552,
+      "source_stl": "drawer_day09_rev29.stl",
+      "source_stl_sha256": "5f71c20265b6d099dac95a57da64de3c9b1bbd458261946818445440d2605ea6",
+      "geometry": {
+        "vertices": 11398,
+        "triangles": 22444,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122477.30571917655,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 388
+          },
+          "white snowflake": {
+            "components": 2,
+            "faces": 424
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22444,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11398,
+        "triangle_count": 22444,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 839,
+          "Candy Red Silk PLA": 803,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 10,
+      "motif": "stars",
+      "file": "drawer_day10_rev29_color_v1.3mf",
+      "sha256": "1d4f3714b3275a2d0aa2e38f2e18187a8e56dfad847fa15fd322e7e024da614f",
+      "bytes": 197885,
+      "source_stl": "drawer_day10_rev29.stl",
+      "source_stl_sha256": "fa93f0dec51fd6d01058f47ed9e56fdde2344fc1e68cf8d6283b3735637806ad",
+      "geometry": {
+        "vertices": 11242,
+        "triangles": 22120,
+        "connected_shell_components": 1522,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123070.7054354266,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 416
+          },
+          "gold star": {
+            "components": 2,
+            "faces": 72
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22120,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11242,
+        "triangle_count": 22120,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 831,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20232
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 11,
+      "motif": "Christmas trees",
+      "file": "drawer_day11_rev29_color_v1.3mf",
+      "sha256": "c62bf5b4352053e0280c40e8bd7c9af26562a2aba6e137c20493230a2da78fcf",
+      "bytes": 205728,
+      "source_stl": "drawer_day11_rev29.stl",
+      "source_stl_sha256": "c44ebc99a83ed7c4f2d4613686d05fb701084a5b3975c4ca5315a66f7272a965",
+      "geometry": {
+        "vertices": 11662,
+        "triangles": 22952,
+        "connected_shell_components": 1523,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123494.47206766401,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 3,
+            "faces": 88
+          },
+          "green tree with gold topper": {
+            "components": 2,
+            "faces": 1232
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22952,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11662,
+        "triangle_count": 22952,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 503,
+          "Candy Green Silk PLA": 1208,
+          "Gold Silk PLA": 20184
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 12,
+      "motif": "angels",
+      "file": "drawer_day12_rev29_color_v1.3mf",
+      "sha256": "66b4f99bc83d2d8c32195c41fcada02b4ce637b6a117c9d535f4cad0a66e32f3",
+      "bytes": 215063,
+      "source_stl": "drawer_day12_rev29.stl",
+      "source_stl_sha256": "d8858b5eeb3798841a781252655a93425eecce1e16860e1cf775e0a000c6ff7b",
+      "geometry": {
+        "vertices": 11956,
+        "triangles": 23552,
+        "connected_shell_components": 1524,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123963.20039224369,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 352
+          },
+          "gold angel halo": {
+            "components": 2,
+            "faces": 640
+          },
+          "white angel": {
+            "components": 2,
+            "faces": 928
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 23552,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11956,
+        "triangle_count": 23552,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 1343,
+          "Candy Red Silk PLA": 767,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20800
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 13,
+      "motif": "hearts",
+      "file": "drawer_day13_rev29_color_v1.3mf",
+      "sha256": "4b06340786f757369f28af6d8833b144a9708690cc07c41a434fb32bd891ed3f",
+      "bytes": 204766,
+      "source_stl": "drawer_day13_rev29.stl",
+      "source_stl_sha256": "aee2cdb2e0ff837a0a53ae309c085bc715492fab65b9c4406e3a2aa124d781ca",
+      "geometry": {
+        "vertices": 11504,
+        "triangles": 22644,
+        "connected_shell_components": 1522,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123091.75032527147,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 436
+          },
+          "red heart": {
+            "components": 2,
+            "faces": 576
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22644,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11504,
+        "triangle_count": 22644,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 1427,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 14,
+      "motif": "candy canes",
+      "file": "drawer_day14_rev29_color_v1.3mf",
+      "sha256": "64f84cc9579d5a0ee3aca3f85b24a502fde74a060bb434dac08be76b66ec18fb",
+      "bytes": 212838,
+      "source_stl": "drawer_day14_rev29.stl",
+      "source_stl_sha256": "f1f67232ee66d54b75b95b586f7e56902d71d298aee5f13da335528ef257d882",
+      "geometry": {
+        "vertices": 11900,
+        "triangles": 23450,
+        "connected_shell_components": 1522,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123515.26566080494,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 94
+          },
+          "red and white candy cane": {
+            "components": 2,
+            "faces": 1724
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 23450,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11900,
+        "triangle_count": 23450,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 1263,
+          "Candy Red Silk PLA": 1385,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 15,
+      "motif": "snowflakes",
+      "file": "drawer_day15_rev29_color_v1.3mf",
+      "sha256": "5057dd6bf664d41cc1073ad7509d1c0b42bf15d4586f3acb88d59ec25caabc13",
+      "bytes": 202435,
+      "source_stl": "drawer_day15_rev29.stl",
+      "source_stl_sha256": "ba46374271a2826b33b721f2d11aa9afb809f5ef19acd6a78813784624431a35",
+      "geometry": {
+        "vertices": 11430,
+        "triangles": 22490,
+        "connected_shell_components": 1522,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123028.5065219667,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 434
+          },
+          "white snowflake": {
+            "components": 2,
+            "faces": 424
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22490,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11430,
+        "triangle_count": 22490,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 839,
+          "Candy Red Silk PLA": 849,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 16,
+      "motif": "stars",
+      "file": "drawer_day16_rev29_color_v1.3mf",
+      "sha256": "c193b2ae23ae9cf813d51193783e278cb7f51e8a8ad97e4d6ca4470657d96e3d",
+      "bytes": 201056,
+      "source_stl": "drawer_day16_rev29.stl",
+      "source_stl_sha256": "8ee156d61d1e27a23f5fda46daf87ef82974a67c14247b2d4b07f3ed2e40320c",
+      "geometry": {
+        "vertices": 11340,
+        "triangles": 22316,
+        "connected_shell_components": 1522,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123086.91894400718,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 612
+          },
+          "gold star": {
+            "components": 2,
+            "faces": 72
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22316,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11340,
+        "triangle_count": 22316,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 1027,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20232
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 17,
+      "motif": "Christmas trees",
+      "file": "drawer_day17_rev29_color_v1.3mf",
+      "sha256": "4159a5d897887239b26548281843049300b4ae9e9e4fcc7f4c691c243df2dee4",
+      "bytes": 205593,
+      "source_stl": "drawer_day17_rev29.stl",
+      "source_stl_sha256": "a777236b86bcd48315803eac97cd35fef2c2f8e7575f19da6adaf5c781bcc776",
+      "geometry": {
+        "vertices": 11654,
+        "triangles": 22936,
+        "connected_shell_components": 1523,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123454.60023339221,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 3,
+            "faces": 72
+          },
+          "green tree with gold topper": {
+            "components": 2,
+            "faces": 1232
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22936,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11654,
+        "triangle_count": 22936,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 487,
+          "Candy Green Silk PLA": 1208,
+          "Gold Silk PLA": 20184
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 18,
+      "motif": "angels",
+      "file": "drawer_day18_rev29_color_v1.3mf",
+      "sha256": "67b3cdb291cdd726dc34e6e79fc05181a16de521e143df846c9277d3d0fef01e",
+      "bytes": 216913,
+      "source_stl": "drawer_day18_rev29.stl",
+      "source_stl_sha256": "fae7d4ccc84958aa4d3b581b2f74cf870100fe5e8747d87bf85fa878ee4ddcf8",
+      "geometry": {
+        "vertices": 12054,
+        "triangles": 23750,
+        "connected_shell_components": 1524,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 124130.4094090865,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 550
+          },
+          "gold angel halo": {
+            "components": 2,
+            "faces": 640
+          },
+          "white angel": {
+            "components": 2,
+            "faces": 928
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 23750,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 12054,
+        "triangle_count": 23750,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 1343,
+          "Candy Red Silk PLA": 965,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20800
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 19,
+      "motif": "candy canes",
+      "file": "drawer_day19_rev29_color_v1.3mf",
+      "sha256": "beffe95cc050b88d2969e44bca63301c234a06a5760163e6e7fc777e299731df",
+      "bytes": 217283,
+      "source_stl": "drawer_day19_rev29.stl",
+      "source_stl_sha256": "551c2f17229fac2ac096e822d0dc80c65aa3b781d0d1e279b52eafd30e928498",
+      "geometry": {
+        "vertices": 12066,
+        "triangles": 23780,
+        "connected_shell_components": 1522,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123470.93888913676,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 424
+          },
+          "red and white candy cane": {
+            "components": 2,
+            "faces": 1724
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 23780,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 12066,
+        "triangle_count": 23780,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 1263,
+          "Candy Red Silk PLA": 1715,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 20,
+      "motif": "hearts",
+      "file": "drawer_day20_rev29_color_v1.3mf",
+      "sha256": "f7dba7eeee525fb9de8c513eb027f1f817b76b46cae8fdba9ba20584d2fad87e",
+      "bytes": 204342,
+      "source_stl": "drawer_day20_rev29.stl",
+      "source_stl_sha256": "59239826b3910ca26240aed05a9455ec42c6e14cf58e4d6ad217f7c324edfdce",
+      "geometry": {
+        "vertices": 11518,
+        "triangles": 22674,
+        "connected_shell_components": 1522,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123344.8621105439,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 466
+          },
+          "red heart": {
+            "components": 2,
+            "faces": 576
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22674,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11518,
+        "triangle_count": 22674,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 1457,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 21,
+      "motif": "snowflakes",
+      "file": "drawer_day21_rev29_color_v1.3mf",
+      "sha256": "26da630acd83d8aba57ff0b330dbf525b0203ebce1a0542cd625fe42b6c0adb5",
+      "bytes": 199686,
+      "source_stl": "drawer_day21_rev29.stl",
+      "source_stl_sha256": "e4d892341d813c10be3742a3f412911a5acffe1c3db392b123fa069eb4833093",
+      "geometry": {
+        "vertices": 11336,
+        "triangles": 22312,
+        "connected_shell_components": 1522,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123050.55318800661,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 256
+          },
+          "white snowflake": {
+            "components": 2,
+            "faces": 424
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22312,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11336,
+        "triangle_count": 22312,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 839,
+          "Candy Red Silk PLA": 671,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 22,
+      "motif": "stars",
+      "file": "drawer_day22_rev29_color_v1.3mf",
+      "sha256": "3c2615f6ced5eda4745b09b0a3c2b8b3a8cbe898d5d1a023fba054e77131007b",
+      "bytes": 197849,
+      "source_stl": "drawer_day22_rev29.stl",
+      "source_stl_sha256": "3a0b5273dd3d72ab02df786f061fd1e111e33c66400c7978ea6e40be60893368",
+      "geometry": {
+        "vertices": 11248,
+        "triangles": 22136,
+        "connected_shell_components": 1522,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123147.337754775,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 432
+          },
+          "gold star": {
+            "components": 2,
+            "faces": 72
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 22136,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11248,
+        "triangle_count": 22136,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 847,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20232
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 23,
+      "motif": "Christmas trees",
+      "file": "drawer_day23_rev29_color_v1.3mf",
+      "sha256": "0b346af03e4116329bb383d5145c611e604ce5704fecc9f6f2a2da049a89f56c",
+      "bytes": 213016,
+      "source_stl": "drawer_day23_rev29.stl",
+      "source_stl_sha256": "e98acd989869fa6cb7f7b1b70cb62875dd644e549f9ea1796d6890d2dbbf6345",
+      "geometry": {
+        "vertices": 11930,
+        "triangles": 23484,
+        "connected_shell_components": 1523,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123686.69942159607,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 3,
+            "faces": 620
+          },
+          "green tree with gold topper": {
+            "components": 2,
+            "faces": 1232
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 23484,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11930,
+        "triangle_count": 23484,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 415,
+          "Candy Red Silk PLA": 1035,
+          "Candy Green Silk PLA": 1208,
+          "Gold Silk PLA": 20184
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 24,
+      "motif": "angels",
+      "file": "drawer_day24_rev29_color_v1.3mf",
+      "sha256": "83c126b7ddcc5c2830f30a56f9645358c9f9fe68074f691ea1f5c5ef67fa43c4",
+      "bytes": 213461,
+      "source_stl": "drawer_day24_rev29.stl",
+      "source_stl_sha256": "40951d4e13979575cf1e4b5f1f4ccbe38bc621b2d908a3300a5201782a1ca166",
+      "geometry": {
+        "vertices": 11914,
+        "triangles": 23470,
+        "connected_shell_components": 1524,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 124137.93711628894,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "semantic_assignment": {
+        "peppermint_knob_triangles": 830,
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 270
+          },
+          "gold angel halo": {
+            "components": 2,
+            "faces": 640
+          },
+          "white angel": {
+            "components": 2,
+            "faces": 928
+          }
+        }
+      },
+      "reopen_check": {
+        "triangles": 23470,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 11914,
+        "triangle_count": 23470,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 642,
+          "White Silk PLA": 1343,
+          "Candy Red Silk PLA": 685,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20800
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    }
+  ],
+  "all_checks_passed": true
+}
