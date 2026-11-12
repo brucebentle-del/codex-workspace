@@ -51,8 +51,8 @@
       "day": 1,
       "motif": "hearts",
       "file": "drawer_day01_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "a72b9cef13164362affeeabc2ac3542d8f0c8bbea12fa07f3cd67b52377427c1",
-      "bytes": 1480295,
+      "sha256": "ae7c9ecb46d0294e65ab404ccf13b5f6e423800bc9c52a06a562b09e888334fa",
+      "bytes": 1480364,
       "source_stl": "drawer_day01_rev29.stl",
       "source_stl_sha256": "5d51c0cef850e1848330efee3ab14af74b6b8516b784040e707c3f1b4dad9958",
       "source_geometry": {
@@ -194,12 +194,12 @@
         "triangles": 864,
         "bounds_mm": [
           [
-            7.4,
+            8.9,
             -8.85,
             16.8
           ],
           [
-            60.6,
+            59.1,
             -4.85,
             28.8
           ]
@@ -507,8 +507,8 @@
       "day": 3,
       "motif": "snowflakes",
       "file": "drawer_day03_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "b933123297e12e02932c5df406a3e3f44a7e46528279e726ca2da9ba73d46c46",
-      "bytes": 1522746,
+      "sha256": "542effd084b35c9e3bee0d583a5705abb6041290cf9d36c998d819954e004caa",
+      "bytes": 1522691,
       "source_stl": "drawer_day03_rev29.stl",
       "source_stl_sha256": "dc2f1bc25e5ef1321292d1f504bdb5f9ac25f74ce82b932312c8bce9fd73a581",
       "source_geometry": {
@@ -650,12 +650,12 @@
         "triangles": 4200,
         "bounds_mm": [
           [
-            6.52974015897285,
+            8.02974015897285,
             -8.7,
             14.34067005488636
           ],
           [
-            61.47025984102715,
+            59.97025984102715,
             -4.85,
             31.15932994511364
           ]
@@ -735,8 +735,8 @@
       "day": 4,
       "motif": "stars",
       "file": "drawer_day04_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "d1b4e388892849f757715f1289af83fdd0c90a57011c39b29b86da3bfe21a019",
-      "bytes": 1472823,
+      "sha256": "097f3ac02ac874613c264c5859304f774ce4c24e9e052198eceff0c622ec39f0",
+      "bytes": 1472844,
       "source_stl": "drawer_day04_rev29.stl",
       "source_stl_sha256": "804aa7edce5f56da479e62a846bc2b82d93556e4cae51d1950e7dacee6280448",
       "source_geometry": {
@@ -878,12 +878,12 @@
         "triangles": 120,
         "bounds_mm": [
           [
-            6.581759172897803,
+            8.081759172897803,
             -8.95,
             16.439667443875408
           ],
           [
-            61.418240827102196,
+            59.918240827102196,
             -4.85,
             30.55
           ]
@@ -963,8 +963,8 @@
       "day": 5,
       "motif": "Christmas trees",
       "file": "drawer_day05_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "e55db433c436c375f5e373e8329760ab1ebd0daacd2029f9cb1ede0071841632",
-      "bytes": 1519700,
+      "sha256": "b60f8b767dc31e9a3c0734af1d1e4f545181f1f63fef19fa185a670607e44e4b",
+      "bytes": 1519793,
       "source_stl": "drawer_day05_rev29.stl",
       "source_stl_sha256": "aa4ca0ca2c436721ee059ae8e9028caf2984f15acc71603eb9f196567e2401c1",
       "source_geometry": {
@@ -1106,12 +1106,12 @@
         "triangles": 4232,
         "bounds_mm": [
           [
-            6.75,
+            8.25,
             -9.1,
             18.0
           ],
           [
-            61.25,
+            59.75,
             -4.85,
             36.949999999999996
           ]
@@ -1191,8 +1191,8 @@
       "day": 6,
       "motif": "angels",
       "file": "drawer_day06_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "d85d02aa5f0564f36073352cfa5e432cc8c0a874b9a41664a50580e75c0f5af5",
-      "bytes": 1519968,
+      "sha256": "cd55311e19171cdd4b0b542b72077211071f11863bd8d5f80402263da4d25f1b",
+      "bytes": 1519969,
       "source_stl": "drawer_day06_rev29.stl",
       "source_stl_sha256": "8743b1d3e280b3f63c4a093014678b5f9100dbb9a1709cad19d5159a35c7f3c0",
       "source_geometry": {
@@ -1364,12 +1364,12 @@
         "triangles": 3776,
         "bounds_mm": [
           [
-            5.411873373998409,
+            7.411873373998409,
             -9.299999999999999,
             17.1
           ],
           [
-            62.59044055822963,
+            60.59044055822963,
             -4.85,
             33.94
           ]
@@ -1449,8 +1449,8 @@
       "day": 7,
       "motif": "hearts",
       "file": "drawer_day07_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "3109a2012f60bb5556805c70cd7572c61d4845ee3983b63079bfdcda3c275cb9",
-      "bytes": 1480138,
+      "sha256": "e266dca34928f597792dd1c5d3c364f0dc99434378f61ebe28df10befd3de90f",
+      "bytes": 1480207,
       "source_stl": "drawer_day07_rev29.stl",
       "source_stl_sha256": "345f032c50e87d411163fbf6961e58746d2a8802332a510f94577cf8acb337df",
       "source_geometry": {
@@ -1592,12 +1592,12 @@
         "triangles": 864,
         "bounds_mm": [
           [
-            7.4,
+            8.9,
             -8.85,
             16.8
           ],
           [
-            60.6,
+            59.1,
             -4.85,
             28.8
           ]
@@ -1905,8 +1905,8 @@
       "day": 9,
       "motif": "snowflakes",
       "file": "drawer_day09_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "9103d6d964f474056052056f2283fcfe8f7871b7bf8f82e1bf8934a3420c6945",
-      "bytes": 1522153,
+      "sha256": "f1edd2929b349b34b6e5d669d72907d482045327e2c918f9b133b1ae8c68a38d",
+      "bytes": 1522108,
       "source_stl": "drawer_day09_rev29.stl",
       "source_stl_sha256": "5f71c20265b6d099dac95a57da64de3c9b1bbd458261946818445440d2605ea6",
       "source_geometry": {
@@ -2048,12 +2048,12 @@
         "triangles": 4200,
         "bounds_mm": [
           [
-            6.52974015897285,
+            8.02974015897285,
             -8.7,
             14.34067005488636
           ],
           [
-            61.47025984102715,
+            59.97025984102715,
             -4.85,
             31.15932994511364
           ]
@@ -2133,8 +2133,8 @@
       "day": 10,
       "motif": "stars",
       "file": "drawer_day10_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "f90fea7730a34070d9b65ac8f8c3e15f5d562b475f9ef53ea18900aed7351070",
-      "bytes": 1477479,
+      "sha256": "e38c551787fa893bda8d1769f577c7bad9a15fd472ad835f3359582b08588ea9",
+      "bytes": 1477504,
       "source_stl": "drawer_day10_rev29.stl",
       "source_stl_sha256": "fa93f0dec51fd6d01058f47ed9e56fdde2344fc1e68cf8d6283b3735637806ad",
       "source_geometry": {
@@ -2276,12 +2276,12 @@
         "triangles": 120,
         "bounds_mm": [
           [
-            6.581759172897803,
+            8.081759172897803,
             -8.95,
             16.439667443875408
           ],
           [
-            61.418240827102196,
+            59.918240827102196,
             -4.85,
             30.55
           ]
@@ -2361,8 +2361,8 @@
       "day": 11,
       "motif": "Christmas trees",
       "file": "drawer_day11_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "1070e75b21596e42a15590b59942c794afb2f6ddf668a2644597822dfb7373a1",
-      "bytes": 1516516,
+      "sha256": "f1328b1f12cefd5935bd005954516ef477d9a784b036de2a483ac5715cd166a6",
+      "bytes": 1516611,
       "source_stl": "drawer_day11_rev29.stl",
       "source_stl_sha256": "c44ebc99a83ed7c4f2d4613686d05fb701084a5b3975c4ca5315a66f7272a965",
       "source_geometry": {
@@ -2504,12 +2504,12 @@
         "triangles": 4232,
         "bounds_mm": [
           [
-            6.75,
+            8.25,
             -9.1,
             18.0
           ],
           [
-            61.25,
+            59.75,
             -4.85,
             36.949999999999996
           ]
@@ -2589,8 +2589,8 @@
       "day": 12,
       "motif": "angels",
       "file": "drawer_day12_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "a2f406eb9d0d8bd3a97ad2754cb010ba418096ba2e0f1c4287aee107c900533b",
-      "bytes": 1519945,
+      "sha256": "35bd14c52b9ca014a388d47a22fbdc7b9758beb1a8da8ce49491b8185489b364",
+      "bytes": 1519947,
       "source_stl": "drawer_day12_rev29.stl",
       "source_stl_sha256": "d8858b5eeb3798841a781252655a93425eecce1e16860e1cf775e0a000c6ff7b",
       "source_geometry": {
@@ -2762,12 +2762,12 @@
         "triangles": 3776,
         "bounds_mm": [
           [
-            5.411873373998409,
+            7.411873373998409,
             -9.299999999999999,
             17.1
           ],
           [
-            62.59044055822963,
+            60.59044055822963,
             -4.85,
             33.94
           ]
@@ -2847,8 +2847,8 @@
       "day": 13,
       "motif": "hearts",
       "file": "drawer_day13_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "cc9b0678aba6a6d1b3fa75100d721d8f291865a49d62ac39c065aff522b43fcf",
-      "bytes": 1486328,
+      "sha256": "6065bc3edc0a7d1267568ee6608579b9227f5c7c3b461847bc73baef3046d731",
+      "bytes": 1486391,
       "source_stl": "drawer_day13_rev29.stl",
       "source_stl_sha256": "aee2cdb2e0ff837a0a53ae309c085bc715492fab65b9c4406e3a2aa124d781ca",
       "source_geometry": {
@@ -2990,12 +2990,12 @@
         "triangles": 864,
         "bounds_mm": [
           [
-            7.4,
+            8.9,
             -8.85,
             16.8
           ],
           [
-            60.6,
+            59.1,
             -4.85,
             28.8
           ]
@@ -3303,8 +3303,8 @@
       "day": 15,
       "motif": "snowflakes",
       "file": "drawer_day15_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "12424bc01bd4e9fd677351bc86f3cb98161a5665e5b4387375fdf5422a4207b2",
-      "bytes": 1522819,
+      "sha256": "096839cdd69ba40f83d9ee9b0171f67f6cccb5936c3956f509c539d700641932",
+      "bytes": 1522760,
       "source_stl": "drawer_day15_rev29.stl",
       "source_stl_sha256": "ba46374271a2826b33b721f2d11aa9afb809f5ef19acd6a78813784624431a35",
       "source_geometry": {
@@ -3446,12 +3446,12 @@
         "triangles": 4200,
         "bounds_mm": [
           [
-            6.52974015897285,
+            8.02974015897285,
             -8.7,
             14.34067005488636
           ],
           [
-            61.47025984102715,
+            59.97025984102715,
             -4.85,
             31.15932994511364
           ]
@@ -3531,8 +3531,8 @@
       "day": 16,
       "motif": "stars",
       "file": "drawer_day16_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "ef4eb68190e389aa6df17c63c3845511b089480cb48ac75f07e99de55b681aca",
-      "bytes": 1481007,
+      "sha256": "0c66b15757bfc99601928a5267124ff1b7b9d8dbbb92a6effc9ab468c00c1b86",
+      "bytes": 1481032,
       "source_stl": "drawer_day16_rev29.stl",
       "source_stl_sha256": "8ee156d61d1e27a23f5fda46daf87ef82974a67c14247b2d4b07f3ed2e40320c",
       "source_geometry": {
@@ -3674,12 +3674,12 @@
         "triangles": 120,
         "bounds_mm": [
           [
-            6.581759172897803,
+            8.081759172897803,
             -8.95,
             16.439667443875408
           ],
           [
-            61.418240827102196,
+            59.918240827102196,
             -4.85,
             30.55
           ]
@@ -3759,8 +3759,8 @@
       "day": 17,
       "motif": "Christmas trees",
       "file": "drawer_day17_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "24c2a22bff1c8c2743db6b5f16f96e3bbdf548a5156789d4e066eb78e75601f4",
-      "bytes": 1516150,
+      "sha256": "db846a63dc945fabdeb9c62afef2e0f1e2183a04a5ebe2ef5840e08b666c13f7",
+      "bytes": 1516251,
       "source_stl": "drawer_day17_rev29.stl",
       "source_stl_sha256": "a777236b86bcd48315803eac97cd35fef2c2f8e7575f19da6adaf5c781bcc776",
       "source_geometry": {
@@ -3902,12 +3902,12 @@
         "triangles": 4232,
         "bounds_mm": [
           [
-            6.75,
+            8.25,
             -9.1,
             18.0
           ],
           [
-            61.25,
+            59.75,
             -4.85,
             36.949999999999996
           ]
@@ -3987,8 +3987,8 @@
       "day": 18,
       "motif": "angels",
       "file": "drawer_day18_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "e322f672af54c51553bc7399601baa220baf14e27562942321b7aa4137814522",
-      "bytes": 1522162,
+      "sha256": "c33703923a1bec378534c3ab2a28ed70ce91bb26922b0bf7f83fceee423ad32d",
+      "bytes": 1522157,
       "source_stl": "drawer_day18_rev29.stl",
       "source_stl_sha256": "fae7d4ccc84958aa4d3b581b2f74cf870100fe5e8747d87bf85fa878ee4ddcf8",
       "source_geometry": {
@@ -4160,12 +4160,12 @@
         "triangles": 3776,
         "bounds_mm": [
           [
-            5.411873373998409,
+            7.411873373998409,
             -9.299999999999999,
             17.1
           ],
           [
-            62.59044055822963,
+            60.59044055822963,
             -4.85,
             33.94
           ]
@@ -4245,8 +4245,8 @@
       "day": 19,
       "motif": "hearts",
       "file": "drawer_day19_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "410c8350fb00cedb9bdbd646c564db38edd7fdc3f1d29cbb8221e6e52d89c7cd",
-      "bytes": 1485567,
+      "sha256": "e893692cee0ebeaabddcfc8e4a4e5ba9bc7a2d1cf46a007e94e37ffa287d5e42",
+      "bytes": 1485634,
       "source_stl": "drawer_day19_rev29.stl",
       "source_stl_sha256": "551c2f17229fac2ac096e822d0dc80c65aa3b781d0d1e279b52eafd30e928498",
       "source_geometry": {
@@ -4388,12 +4388,12 @@
         "triangles": 864,
         "bounds_mm": [
           [
-            7.4,
+            8.9,
             -8.85,
             16.8
           ],
           [
-            60.6,
+            59.1,
             -4.85,
             28.8
           ]
@@ -4701,8 +4701,8 @@
       "day": 21,
       "motif": "snowflakes",
       "file": "drawer_day21_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "31598793eb41ced3ab75b16b024c608d5c39068c1520354150cc175c4463682f",
-      "bytes": 1520101,
+      "sha256": "da5104625b72c05b7de3d1ed5cd3fa5eacccf4ce3e1f29106c3363c8c6a03fa7",
+      "bytes": 1520050,
       "source_stl": "drawer_day21_rev29.stl",
       "source_stl_sha256": "e4d892341d813c10be3742a3f412911a5acffe1c3db392b123fa069eb4833093",
       "source_geometry": {
@@ -4844,12 +4844,12 @@
         "triangles": 4200,
         "bounds_mm": [
           [
-            6.52974015897285,
+            8.02974015897285,
             -8.7,
             14.34067005488636
           ],
           [
-            61.47025984102715,
+            59.97025984102715,
             -4.85,
             31.15932994511364
           ]
@@ -4929,8 +4929,8 @@
       "day": 22,
       "motif": "stars",
       "file": "drawer_day22_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "42bf63624730e2f469dc21eefb33d0e102a174c1031988ffc8f86b4c65373af3",
-      "bytes": 1478129,
+      "sha256": "7363538e4f9a690374d18ce0d03589d4933ac6fb06e4bb48493cef9e93e9faea",
+      "bytes": 1478153,
       "source_stl": "drawer_day22_rev29.stl",
       "source_stl_sha256": "3a0b5273dd3d72ab02df786f061fd1e111e33c66400c7978ea6e40be60893368",
       "source_geometry": {
@@ -5072,12 +5072,12 @@
         "triangles": 120,
         "bounds_mm": [
           [
-            6.581759172897803,
+            8.081759172897803,
             -8.95,
             16.439667443875408
           ],
           [
-            61.418240827102196,
+            59.918240827102196,
             -4.85,
             30.55
           ]
@@ -5157,8 +5157,8 @@
       "day": 23,
       "motif": "Christmas trees",
       "file": "drawer_day23_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "9fcabbd12d84e656d64415797c281ad10ef17311fa122adbd2e831a8ac687e71",
-      "bytes": 1525383,
+      "sha256": "6a0340e134d6a6827c8ba9e825464725d6318eade66eff46afa6ad5d0df12a9f",
+      "bytes": 1525497,
       "source_stl": "drawer_day23_rev29.stl",
       "source_stl_sha256": "e98acd989869fa6cb7f7b1b70cb62875dd644e549f9ea1796d6890d2dbbf6345",
       "source_geometry": {
@@ -5300,12 +5300,12 @@
         "triangles": 4232,
         "bounds_mm": [
           [
-            6.75,
+            8.25,
             -9.1,
             18.0
           ],
           [
-            61.25,
+            59.75,
             -4.85,
             36.949999999999996
           ]
@@ -5385,8 +5385,8 @@
       "day": 24,
       "motif": "angels",
       "file": "drawer_day24_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "099bbf799917dd22e095107d40698d9edceb42c974aca5ac26c5de238853b059",
-      "bytes": 1518001,
+      "sha256": "88d2e363bd04f750cade404a7aebcd46a494b0cbd4043866541eec239354ea2d",
+      "bytes": 1518005,
       "source_stl": "drawer_day24_rev29.stl",
       "source_stl_sha256": "40951d4e13979575cf1e4b5f1f4ccbe38bc621b2d908a3300a5201782a1ca166",
       "source_geometry": {
@@ -5558,12 +5558,12 @@
         "triangles": 3776,
         "bounds_mm": [
           [
-            5.411873373998409,
+            7.411873373998409,
             -9.299999999999999,
             17.1
           ],
           [
-            62.59044055822963,
+            60.59044055822963,
             -4.85,
             33.94
           ]

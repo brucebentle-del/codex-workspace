@@ -6,7 +6,9 @@ Every number uses drawer 1 as its size and position standard. Single digits shar
 
 The new motif families are rounded pillow hearts, smooth hooked striped candy canes, double-branched snowflakes, beveled pillow stars, scalloped layered trees with red ornaments and Gold peak balls, and feather-winged angels with pleated White robes, Gold heads and halos, and Red heart details.
 
-The small center peppermint now has a finer curved six-sweep color pattern. Its approved surface and size are unchanged.
+The small center peppermint has a finer curved six-sweep color pattern. Its approved surface and size are unchanged.
+
+For safer visual clearance from the Gold frame, the hearts, snowflakes, stars, and trees are moved 1.5 mm inward on each side. The wider angels are moved 2.0 mm inward. The candy canes retain their prior positions because they already had ample clearance.
 
 ![All 24 reference-matched drawers](rev29-drawer-reference-matched-motifs-preview-v6.png)
 
