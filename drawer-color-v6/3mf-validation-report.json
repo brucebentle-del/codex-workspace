@@ -51,8 +51,8 @@
       "day": 1,
       "motif": "hearts",
       "file": "drawer_day01_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "ae7c9ecb46d0294e65ab404ccf13b5f6e423800bc9c52a06a562b09e888334fa",
-      "bytes": 1480364,
+      "sha256": "0c3809057e7498470a9d85d68460c95b47a24053316ec28009b0a7b2926a098d",
+      "bytes": 1480373,
       "source_stl": "drawer_day01_rev29.stl",
       "source_stl_sha256": "5d51c0cef850e1848330efee3ab14af74b6b8516b784040e707c3f1b4dad9958",
       "source_geometry": {
@@ -84,7 +84,7 @@
         "vertices": 57436,
         "triangles": 114516,
         "consistent_winding": true,
-        "volume_sum_mm3": 121961.66369077314,
+        "volume_sum_mm3": 122048.6179303617,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -200,7 +200,7 @@
           ],
           [
             59.1,
-            -4.85,
+            -4.4,
             28.8
           ]
         ],
@@ -211,7 +211,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -279,8 +279,8 @@
       "day": 2,
       "motif": "candy canes",
       "file": "drawer_day02_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "5b4a915037835d1bfa882df16a3318d95541bde9da8811dfb2e37cd18c017460",
-      "bytes": 1569903,
+      "sha256": "4e88c1e2164cfefaaae6ef3bfda083d2a7655d2f69ae115754e5eae1879fb1ab",
+      "bytes": 1569912,
       "source_stl": "drawer_day02_rev29.stl",
       "source_stl_sha256": "6d85b3df051418f47941553902e7081d79814a41c9159f6424cbb2ff291b8c51",
       "source_geometry": {
@@ -312,7 +312,7 @@
         "vertices": 61656,
         "triangles": 122676,
         "consistent_winding": true,
-        "volume_sum_mm3": 123721.68622087517,
+        "volume_sum_mm3": 124030.6155812714,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -428,7 +428,7 @@
           ],
           [
             55.82,
-            -4.85,
+            -4.4,
             30.969842501312495
           ]
         ],
@@ -439,7 +439,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -507,8 +507,8 @@
       "day": 3,
       "motif": "snowflakes",
       "file": "drawer_day03_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "542effd084b35c9e3bee0d583a5705abb6041290cf9d36c998d819954e004caa",
-      "bytes": 1522691,
+      "sha256": "58930d4f6579db1049ca93acede9a6df875ede9d4fc39463aa7fca896ec29314",
+      "bytes": 1522692,
       "source_stl": "drawer_day03_rev29.stl",
       "source_stl_sha256": "dc2f1bc25e5ef1321292d1f504bdb5f9ac25f74ce82b932312c8bce9fd73a581",
       "source_geometry": {
@@ -540,7 +540,7 @@
         "vertices": 59404,
         "triangles": 118212,
         "consistent_winding": true,
-        "volume_sum_mm3": 122225.63935398217,
+        "volume_sum_mm3": 122348.21056688763,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -656,7 +656,7 @@
           ],
           [
             59.97025984102715,
-            -4.85,
+            -4.4,
             31.15932994511364
           ]
         ],
@@ -667,7 +667,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -735,7 +735,7 @@
       "day": 4,
       "motif": "stars",
       "file": "drawer_day04_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "097f3ac02ac874613c264c5859304f774ce4c24e9e052198eceff0c622ec39f0",
+      "sha256": "6f930d4cb7d506e693a362e04b0e33f9f41df2aa535e12b1cfe79fb702d5f0c1",
       "bytes": 1472844,
       "source_stl": "drawer_day04_rev29.stl",
       "source_stl_sha256": "804aa7edce5f56da479e62a846bc2b82d93556e4cae51d1950e7dacee6280448",
@@ -768,7 +768,7 @@
         "vertices": 57070,
         "triangles": 113788,
         "consistent_winding": true,
-        "volume_sum_mm3": 122000.16460585485,
+        "volume_sum_mm3": 122071.34246098126,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -884,7 +884,7 @@
           ],
           [
             59.918240827102196,
-            -4.85,
+            -4.4,
             30.55
           ]
         ],
@@ -895,7 +895,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 120
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -963,8 +963,8 @@
       "day": 5,
       "motif": "Christmas trees",
       "file": "drawer_day05_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "b60f8b767dc31e9a3c0734af1d1e4f545181f1f63fef19fa185a670607e44e4b",
-      "bytes": 1519793,
+      "sha256": "ce56d66b7f65ad7c2c59189dc8f7177a7332f264e0111214a138cf2aa17bf75f",
+      "bytes": 1519757,
       "source_stl": "drawer_day05_rev29.stl",
       "source_stl_sha256": "aa4ca0ca2c436721ee059ae8e9028caf2984f15acc71603eb9f196567e2401c1",
       "source_geometry": {
@@ -996,7 +996,7 @@
         "vertices": 59274,
         "triangles": 118120,
         "consistent_winding": true,
-        "volume_sum_mm3": 122439.189810342,
+        "volume_sum_mm3": 122579.66414134204,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -1112,8 +1112,8 @@
           ],
           [
             59.75,
-            -4.85,
-            36.949999999999996
+            -4.4,
+            36.15
           ]
         ],
         "material_triangle_counts": {
@@ -1123,7 +1123,7 @@
           "Candy Green Silk PLA": 360,
           "Gold Silk PLA": 672
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -1191,8 +1191,8 @@
       "day": 6,
       "motif": "angels",
       "file": "drawer_day06_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "cd55311e19171cdd4b0b542b72077211071f11863bd8d5f80402263da4d25f1b",
-      "bytes": 1519969,
+      "sha256": "60d29bc1e1f01859bc477bfc2d6c1df7a37d7799d47351bef9a0716e44fe5d4e",
+      "bytes": 1519967,
       "source_stl": "drawer_day06_rev29.stl",
       "source_stl_sha256": "8743b1d3e280b3f63c4a093014678b5f9100dbb9a1709cad19d5159a35c7f3c0",
       "source_geometry": {
@@ -1224,7 +1224,7 @@
         "vertices": 59108,
         "triangles": 117776,
         "consistent_winding": true,
-        "volume_sum_mm3": 122651.57074933103,
+        "volume_sum_mm3": 122794.24711833747,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -1370,7 +1370,7 @@
           ],
           [
             60.59044055822963,
-            -4.85,
+            -4.4,
             33.94
           ]
         ],
@@ -1381,7 +1381,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 1664
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -1449,8 +1449,8 @@
       "day": 7,
       "motif": "hearts",
       "file": "drawer_day07_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "e266dca34928f597792dd1c5d3c364f0dc99434378f61ebe28df10befd3de90f",
-      "bytes": 1480207,
+      "sha256": "44d7744b0b76b3104cf5846b0bb5a2a3400aa9a9957dc803330231b3ab3b0de0",
+      "bytes": 1480215,
       "source_stl": "drawer_day07_rev29.stl",
       "source_stl_sha256": "345f032c50e87d411163fbf6961e58746d2a8802332a510f94577cf8acb337df",
       "source_geometry": {
@@ -1482,7 +1482,7 @@
         "vertices": 57428,
         "triangles": 114500,
         "consistent_winding": true,
-        "volume_sum_mm3": 122007.42216588541,
+        "volume_sum_mm3": 122094.37640547396,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -1598,7 +1598,7 @@
           ],
           [
             59.1,
-            -4.85,
+            -4.4,
             28.8
           ]
         ],
@@ -1609,7 +1609,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -1677,8 +1677,8 @@
       "day": 8,
       "motif": "candy canes",
       "file": "drawer_day08_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "587a7ebfeeddd84bd70cc3f3eca53bb711bb8ea779a1fba4f7b9c5afc4d5964c",
-      "bytes": 1571163,
+      "sha256": "e445a63c430b22d8c7ec99b49f9baaff24a64a9a0ef81cc4e71af11488989a3c",
+      "bytes": 1571171,
       "source_stl": "drawer_day08_rev29.stl",
       "source_stl_sha256": "5d26e4559bb416fbb257b448d10fbb1293706bd3229bb47f332a30dbb0b005c7",
       "source_geometry": {
@@ -1710,7 +1710,7 @@
         "vertices": 61730,
         "triangles": 122832,
         "consistent_winding": true,
-        "volume_sum_mm3": 123833.5780828114,
+        "volume_sum_mm3": 124142.50744320762,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -1826,7 +1826,7 @@
           ],
           [
             55.82,
-            -4.85,
+            -4.4,
             30.969842501312495
           ]
         ],
@@ -1837,7 +1837,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -1905,8 +1905,8 @@
       "day": 9,
       "motif": "snowflakes",
       "file": "drawer_day09_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "f1edd2929b349b34b6e5d669d72907d482045327e2c918f9b133b1ae8c68a38d",
-      "bytes": 1522108,
+      "sha256": "7008a388343aa859061cbcaa637b495fcd849de47a7b63f19ebe1b510f958a62",
+      "bytes": 1522109,
       "source_stl": "drawer_day09_rev29.stl",
       "source_stl_sha256": "5f71c20265b6d099dac95a57da64de3c9b1bbd458261946818445440d2605ea6",
       "source_geometry": {
@@ -1938,7 +1938,7 @@
         "vertices": 59396,
         "triangles": 118200,
         "consistent_winding": true,
-        "volume_sum_mm3": 122303.52848464165,
+        "volume_sum_mm3": 122426.0996975471,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -2054,7 +2054,7 @@
           ],
           [
             59.97025984102715,
-            -4.85,
+            -4.4,
             31.15932994511364
           ]
         ],
@@ -2065,7 +2065,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -2133,7 +2133,7 @@
       "day": 10,
       "motif": "stars",
       "file": "drawer_day10_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "e38c551787fa893bda8d1769f577c7bad9a15fd472ad835f3359582b08588ea9",
+      "sha256": "d2f99a2153ddb310a78cde373a1c403784308bd66788bbe3c8af8ebaa789d1ec",
       "bytes": 1477504,
       "source_stl": "drawer_day10_rev29.stl",
       "source_stl_sha256": "fa93f0dec51fd6d01058f47ed9e56fdde2344fc1e68cf8d6283b3735637806ad",
@@ -2166,7 +2166,7 @@
         "vertices": 57256,
         "triangles": 114148,
         "consistent_winding": true,
-        "volume_sum_mm3": 122354.84594137648,
+        "volume_sum_mm3": 122426.0237965029,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -2282,7 +2282,7 @@
           ],
           [
             59.918240827102196,
-            -4.85,
+            -4.4,
             30.55
           ]
         ],
@@ -2293,7 +2293,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 120
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -2361,8 +2361,8 @@
       "day": 11,
       "motif": "Christmas trees",
       "file": "drawer_day11_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "f1328b1f12cefd5935bd005954516ef477d9a784b036de2a483ac5715cd166a6",
-      "bytes": 1516611,
+      "sha256": "5c855766658d49e5567d65ba9992fa4e90a8e360c4e1242b10d353b23ad21e16",
+      "bytes": 1516567,
       "source_stl": "drawer_day11_rev29.stl",
       "source_stl_sha256": "c44ebc99a83ed7c4f2d4613686d05fb701084a5b3975c4ca5315a66f7272a965",
       "source_geometry": {
@@ -2394,7 +2394,7 @@
         "vertices": 59188,
         "triangles": 117932,
         "consistent_winding": true,
-        "volume_sum_mm3": 122849.73543329234,
+        "volume_sum_mm3": 122990.20976429239,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -2510,8 +2510,8 @@
           ],
           [
             59.75,
-            -4.85,
-            36.949999999999996
+            -4.4,
+            36.15
           ]
         ],
         "material_triangle_counts": {
@@ -2521,7 +2521,7 @@
           "Candy Green Silk PLA": 360,
           "Gold Silk PLA": 672
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -2589,8 +2589,8 @@
       "day": 12,
       "motif": "angels",
       "file": "drawer_day12_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "35bd14c52b9ca014a388d47a22fbdc7b9758beb1a8da8ce49491b8185489b364",
-      "bytes": 1519947,
+      "sha256": "93488a73b96383ea3e336648cd2ca191a20fe95276e045b1ea3d6cb77747d723",
+      "bytes": 1519945,
       "source_stl": "drawer_day12_rev29.stl",
       "source_stl_sha256": "d8858b5eeb3798841a781252655a93425eecce1e16860e1cf775e0a000c6ff7b",
       "source_geometry": {
@@ -2622,7 +2622,7 @@
         "vertices": 59094,
         "triangles": 117740,
         "consistent_winding": true,
-        "volume_sum_mm3": 123009.97905214161,
+        "volume_sum_mm3": 123152.6554211479,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -2768,7 +2768,7 @@
           ],
           [
             60.59044055822963,
-            -4.85,
+            -4.4,
             33.94
           ]
         ],
@@ -2779,7 +2779,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 1664
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -2847,8 +2847,8 @@
       "day": 13,
       "motif": "hearts",
       "file": "drawer_day13_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "6065bc3edc0a7d1267568ee6608579b9227f5c7c3b461847bc73baef3046d731",
-      "bytes": 1486391,
+      "sha256": "e0ebd648611b736b8f802df4282adbc2aff5bb1e3f58427c38dba11dbf287160",
+      "bytes": 1486398,
       "source_stl": "drawer_day13_rev29.stl",
       "source_stl_sha256": "aee2cdb2e0ff837a0a53ae309c085bc715492fab65b9c4406e3a2aa124d781ca",
       "source_geometry": {
@@ -2880,7 +2880,7 @@
         "vertices": 57638,
         "triangles": 114912,
         "consistent_winding": true,
-        "volume_sum_mm3": 122436.7636972828,
+        "volume_sum_mm3": 122523.71793687134,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -2996,7 +2996,7 @@
           ],
           [
             59.1,
-            -4.85,
+            -4.4,
             28.8
           ]
         ],
@@ -3007,7 +3007,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -3075,8 +3075,8 @@
       "day": 14,
       "motif": "candy canes",
       "file": "drawer_day14_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "05ee645e0f306cfad33bdc18441335e57b14c679f89caff990c638a5ce16f3b8",
-      "bytes": 1565204,
+      "sha256": "4586254dc3ff9c21baeebf839df5d717a5cdc0fe1af54b74a6f06f67d9106626",
+      "bytes": 1565210,
       "source_stl": "drawer_day14_rev29.stl",
       "source_stl_sha256": "f1f67232ee66d54b75b95b586f7e56902d71d298aee5f13da335528ef257d882",
       "source_geometry": {
@@ -3108,7 +3108,7 @@
         "vertices": 61524,
         "triangles": 122410,
         "consistent_winding": true,
-        "volume_sum_mm3": 124214.08154872991,
+        "volume_sum_mm3": 124523.01090912614,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -3224,7 +3224,7 @@
           ],
           [
             55.82,
-            -4.85,
+            -4.4,
             30.969842501312495
           ]
         ],
@@ -3235,7 +3235,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -3303,8 +3303,8 @@
       "day": 15,
       "motif": "snowflakes",
       "file": "drawer_day15_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "096839cdd69ba40f83d9ee9b0171f67f6cccb5936c3956f509c539d700641932",
-      "bytes": 1522760,
+      "sha256": "f8e06f811b4e8c68714c74cfa5741cdb9be2d243dfd131f80c1f5fb05f2de661",
+      "bytes": 1522761,
       "source_stl": "drawer_day15_rev29.stl",
       "source_stl_sha256": "ba46374271a2826b33b721f2d11aa9afb809f5ef19acd6a78813784624431a35",
       "source_geometry": {
@@ -3336,7 +3336,7 @@
         "vertices": 59428,
         "triangles": 118246,
         "consistent_winding": true,
-        "volume_sum_mm3": 122632.60993968789,
+        "volume_sum_mm3": 122755.18115259334,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -3452,7 +3452,7 @@
           ],
           [
             59.97025984102715,
-            -4.85,
+            -4.4,
             31.15932994511364
           ]
         ],
@@ -3463,7 +3463,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -3531,8 +3531,8 @@
       "day": 16,
       "motif": "stars",
       "file": "drawer_day16_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "0c66b15757bfc99601928a5267124ff1b7b9d8dbbb92a6effc9ab468c00c1b86",
-      "bytes": 1481032,
+      "sha256": "96c8c4611ef0661a8cbf3fd92f6bdacfd8207339a1e3f8fd08d1934a5aebf67b",
+      "bytes": 1481031,
       "source_stl": "drawer_day16_rev29.stl",
       "source_stl_sha256": "8ee156d61d1e27a23f5fda46daf87ef82974a67c14247b2d4b07f3ed2e40320c",
       "source_geometry": {
@@ -3564,7 +3564,7 @@
         "vertices": 57354,
         "triangles": 114344,
         "consistent_winding": true,
-        "volume_sum_mm3": 122373.31637823225,
+        "volume_sum_mm3": 122444.49423335865,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -3680,7 +3680,7 @@
           ],
           [
             59.918240827102196,
-            -4.85,
+            -4.4,
             30.55
           ]
         ],
@@ -3691,7 +3691,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 120
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -3759,8 +3759,8 @@
       "day": 17,
       "motif": "Christmas trees",
       "file": "drawer_day17_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "db846a63dc945fabdeb9c62afef2e0f1e2183a04a5ebe2ef5840e08b666c13f7",
-      "bytes": 1516251,
+      "sha256": "4fc8e237bc6bdfef50c4854dc4828f6b0e872913f5abfd2ce8af8bbf15cb83a9",
+      "bytes": 1516203,
       "source_stl": "drawer_day17_rev29.stl",
       "source_stl_sha256": "a777236b86bcd48315803eac97cd35fef2c2f8e7575f19da6adaf5c781bcc776",
       "source_geometry": {
@@ -3792,7 +3792,7 @@
         "vertices": 59180,
         "triangles": 117916,
         "consistent_winding": true,
-        "volume_sum_mm3": 122826.56626097982,
+        "volume_sum_mm3": 122967.04059197986,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -3908,8 +3908,8 @@
           ],
           [
             59.75,
-            -4.85,
-            36.949999999999996
+            -4.4,
+            36.15
           ]
         ],
         "material_triangle_counts": {
@@ -3919,7 +3919,7 @@
           "Candy Green Silk PLA": 360,
           "Gold Silk PLA": 672
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -3987,8 +3987,8 @@
       "day": 18,
       "motif": "angels",
       "file": "drawer_day18_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "c33703923a1bec378534c3ab2a28ed70ce91bb26922b0bf7f83fceee423ad32d",
-      "bytes": 1522157,
+      "sha256": "48f6d00ae5e0ec57d947acf41fa61182d06bc90bb0cccb0718412e8737173f92",
+      "bytes": 1522155,
       "source_stl": "drawer_day18_rev29.stl",
       "source_stl_sha256": "fae7d4ccc84958aa4d3b581b2f74cf870100fe5e8747d87bf85fa878ee4ddcf8",
       "source_geometry": {
@@ -4020,7 +4020,7 @@
         "vertices": 59192,
         "triangles": 117938,
         "consistent_winding": true,
-        "volume_sum_mm3": 123060.77340345077,
+        "volume_sum_mm3": 123203.44977245705,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -4166,7 +4166,7 @@
           ],
           [
             60.59044055822963,
-            -4.85,
+            -4.4,
             33.94
           ]
         ],
@@ -4177,7 +4177,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 1664
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -4245,8 +4245,8 @@
       "day": 19,
       "motif": "hearts",
       "file": "drawer_day19_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "e893692cee0ebeaabddcfc8e4a4e5ba9bc7a2d1cf46a007e94e37ffa287d5e42",
-      "bytes": 1485634,
+      "sha256": "fdfa3896f629519f23bb5a7417dab2110543225e48774e44f074ed8854c769cb",
+      "bytes": 1485643,
       "source_stl": "drawer_day19_rev29.stl",
       "source_stl_sha256": "551c2f17229fac2ac096e822d0dc80c65aa3b781d0d1e279b52eafd30e928498",
       "source_geometry": {
@@ -4278,7 +4278,7 @@
         "vertices": 57630,
         "triangles": 114900,
         "consistent_winding": true,
-        "volume_sum_mm3": 122467.42357156798,
+        "volume_sum_mm3": 122554.37781115637,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -4394,7 +4394,7 @@
           ],
           [
             59.1,
-            -4.85,
+            -4.4,
             28.8
           ]
         ],
@@ -4405,7 +4405,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -4473,8 +4473,8 @@
       "day": 20,
       "motif": "candy canes",
       "file": "drawer_day20_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "0783bd0c079b2f759fcf90165aca5252b3755dc60594fba2efc7623edd155b9b",
-      "bytes": 1570642,
+      "sha256": "4fd12c377bf27d19723089d61ea1636c593f8af67d01fca5db66f7ba60a7cd97",
+      "bytes": 1570649,
       "source_stl": "drawer_day20_rev29.stl",
       "source_stl_sha256": "59239826b3910ca26240aed05a9455ec42c6e14cf58e4d6ad217f7c324edfdce",
       "source_geometry": {
@@ -4506,7 +4506,7 @@
         "vertices": 61712,
         "triangles": 122782,
         "consistent_winding": true,
-        "volume_sum_mm3": 124207.1492679005,
+        "volume_sum_mm3": 124516.07862829657,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -4622,7 +4622,7 @@
           ],
           [
             55.82,
-            -4.85,
+            -4.4,
             30.969842501312495
           ]
         ],
@@ -4633,7 +4633,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -4701,8 +4701,8 @@
       "day": 21,
       "motif": "snowflakes",
       "file": "drawer_day21_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "da5104625b72c05b7de3d1ed5cd3fa5eacccf4ce3e1f29106c3363c8c6a03fa7",
-      "bytes": 1520050,
+      "sha256": "79e7eed4373f1e2acf94639fdab6a0eb75baa3fbbfeb33b5da350e3993479887",
+      "bytes": 1520052,
       "source_stl": "drawer_day21_rev29.stl",
       "source_stl_sha256": "e4d892341d813c10be3742a3f412911a5acffe1c3db392b123fa069eb4833093",
       "source_geometry": {
@@ -4734,7 +4734,7 @@
         "vertices": 59334,
         "triangles": 118068,
         "consistent_winding": true,
-        "volume_sum_mm3": 122660.92754136182,
+        "volume_sum_mm3": 122783.49875426728,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -4850,7 +4850,7 @@
           ],
           [
             59.97025984102715,
-            -4.85,
+            -4.4,
             31.15932994511364
           ]
         ],
@@ -4861,7 +4861,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 0
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -4929,8 +4929,8 @@
       "day": 22,
       "motif": "stars",
       "file": "drawer_day22_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "7363538e4f9a690374d18ce0d03589d4933ac6fb06e4bb48493cef9e93e9faea",
-      "bytes": 1478153,
+      "sha256": "05dd34f6350ae4c332b74482ffa9e595ed292e80f6593938d3f14434fd019645",
+      "bytes": 1478151,
       "source_stl": "drawer_day22_rev29.stl",
       "source_stl_sha256": "3a0b5273dd3d72ab02df786f061fd1e111e33c66400c7978ea6e40be60893368",
       "source_geometry": {
@@ -4962,7 +4962,7 @@
         "vertices": 57262,
         "triangles": 114164,
         "consistent_winding": true,
-        "volume_sum_mm3": 122454.60044498555,
+        "volume_sum_mm3": 122525.77830011195,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -5078,7 +5078,7 @@
           ],
           [
             59.918240827102196,
-            -4.85,
+            -4.4,
             30.55
           ]
         ],
@@ -5089,7 +5089,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 120
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -5157,8 +5157,8 @@
       "day": 23,
       "motif": "Christmas trees",
       "file": "drawer_day23_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "6a0340e134d6a6827c8ba9e825464725d6318eade66eff46afa6ad5d0df12a9f",
-      "bytes": 1525497,
+      "sha256": "727aca9728fb59e6d53ab37c13744e5417f24d6d6c0b55a295c88cdec6442c14",
+      "bytes": 1525454,
       "source_stl": "drawer_day23_rev29.stl",
       "source_stl_sha256": "e98acd989869fa6cb7f7b1b70cb62875dd644e549f9ea1796d6890d2dbbf6345",
       "source_geometry": {
@@ -5190,7 +5190,7 @@
         "vertices": 59456,
         "triangles": 118464,
         "consistent_winding": true,
-        "volume_sum_mm3": 122913.49298296015,
+        "volume_sum_mm3": 123053.9673139602,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -5306,8 +5306,8 @@
           ],
           [
             59.75,
-            -4.85,
-            36.949999999999996
+            -4.4,
+            36.15
           ]
         ],
         "material_triangle_counts": {
@@ -5317,7 +5317,7 @@
           "Candy Green Silk PLA": 360,
           "Gold Silk PLA": 672
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -5385,8 +5385,8 @@
       "day": 24,
       "motif": "angels",
       "file": "drawer_day24_rev29_reference_matched_motifs_v6.3mf",
-      "sha256": "88d2e363bd04f750cade404a7aebcd46a494b0cbd4043866541eec239354ea2d",
-      "bytes": 1518005,
+      "sha256": "5fd065e5713734599fbe04b9f21044999bd0abcf0f9d644dcc7f9574b87b4a9d",
+      "bytes": 1518002,
       "source_stl": "drawer_day24_rev29.stl",
       "source_stl_sha256": "40951d4e13979575cf1e4b5f1f4ccbe38bc621b2d908a3300a5201782a1ca166",
       "source_geometry": {
@@ -5418,7 +5418,7 @@
         "vertices": 59052,
         "triangles": 117658,
         "consistent_winding": true,
-        "volume_sum_mm3": 123112.78903717587,
+        "volume_sum_mm3": 123255.46540618215,
         "bounds_mm": [
           [
             -0.5999979972839355,
@@ -5564,7 +5564,7 @@
           ],
           [
             60.59044055822963,
-            -4.85,
+            -4.4,
             33.94
           ]
         ],
@@ -5575,7 +5575,7 @@
           "Candy Green Silk PLA": 0,
           "Gold Silk PLA": 1664
         },
-        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+        "facade_contact": "Each primary motif relief extends back to y=-4.40 mm inside the approved front-field shell, providing 0.80 mm penetration past the y=-5.20 mm front surface; raised detail parts overlap their primary relief."
       },
       "semantic_assignment": {
         "component_role_summary": {
@@ -5640,5 +5640,6 @@
       }
     }
   ],
-  "all_checks_passed": true
+  "all_checks_passed": true,
+  "attachment_validation_file": "motif-attachment-validation-v6.json"
 }

@@ -1,0 +1,73 @@
+{
+  "scope": "Final Rev29 reference-matched motifs V6, all 24 drawers",
+  "front_field_bounds_mm": [
+    [
+      1.4500000476837158,
+      -5.199999809265137,
+      2.325000047683716
+    ],
+    [
+      66.44999694824219,
+      -2.799999952316284,
+      72.32499694824219
+    ]
+  ],
+  "front_surface_y_mm": -5.199999809265137,
+  "attachment_strategy": "Primary reliefs penetrate the drawer front field. Smaller decorative layers overlap a primary relief, forming a continuous fused slicing chain.",
+  "3mf_topology_note": "The multi-color model intentionally uses intersecting closed shells within one 3MF object rather than a destructive single-material Boolean union. Slicers fuse the overlapping volumes while retaining material boundaries.",
+  "minimum_primary_motif_penetration_mm": 0.7999998092651364,
+  "christmas_tree_topper_overlap_mm": 0.55,
+  "families": [
+    {
+      "family": "hearts",
+      "relief_parts": 2,
+      "parts_directly_embedded_in_front_field": 2,
+      "parts_connected_through_overlapping_relief_chain": 2,
+      "floating_parts": 0,
+      "minimum_direct_face_penetration_mm": 0.7999998092651364
+    },
+    {
+      "family": "candy canes",
+      "relief_parts": 72,
+      "parts_directly_embedded_in_front_field": 56,
+      "parts_connected_through_overlapping_relief_chain": 72,
+      "floating_parts": 0,
+      "minimum_direct_face_penetration_mm": 0.7999998092651364
+    },
+    {
+      "family": "snowflakes",
+      "relief_parts": 62,
+      "parts_directly_embedded_in_front_field": 60,
+      "parts_connected_through_overlapping_relief_chain": 62,
+      "floating_parts": 0,
+      "minimum_direct_face_penetration_mm": 0.7999998092651364
+    },
+    {
+      "family": "stars",
+      "relief_parts": 2,
+      "parts_directly_embedded_in_front_field": 2,
+      "parts_connected_through_overlapping_relief_chain": 2,
+      "floating_parts": 0,
+      "minimum_direct_face_penetration_mm": 0.7999998092651364
+    },
+    {
+      "family": "Christmas trees",
+      "relief_parts": 20,
+      "parts_directly_embedded_in_front_field": 8,
+      "parts_connected_through_overlapping_relief_chain": 20,
+      "floating_parts": 0,
+      "minimum_direct_face_penetration_mm": 0.7999998092651364
+    },
+    {
+      "family": "angels",
+      "relief_parts": 26,
+      "parts_directly_embedded_in_front_field": 6,
+      "parts_connected_through_overlapping_relief_chain": 26,
+      "floating_parts": 0,
+      "minimum_direct_face_penetration_mm": 0.7999998092651364
+    }
+  ],
+  "drawers_checked": 24,
+  "all_motif_parts_connected_to_drawer": true,
+  "positive_air_gaps_found": 0
+}
