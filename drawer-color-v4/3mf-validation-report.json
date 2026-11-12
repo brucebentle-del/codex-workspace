@@ -1,0 +1,5644 @@
+{
+  "format": "3MF Core 1.0 with Materials Extension",
+  "geometry_strategy": "Approved Rev29 fit envelope, drawer body, front field, two-row beaded frame, and number standard preserved. The six simplified motif families are removed and replaced with richer printable relief assemblies modeled from the user-provided reference. Body facets are subdivided without changing their surfaces to improve the peppermint color boundary.",
+  "color_pattern_source": "User-provided Candy-Cane Village reference image",
+  "color_mapping": [
+    {
+      "name": "Champagne Silk PLA",
+      "hex": "#C89A6BFF",
+      "role": "drawer body and front field"
+    },
+    {
+      "name": "White Silk PLA",
+      "hex": "#F7F5EEFF",
+      "role": "peppermint sectors, candy-cane stripes, snowflakes, and angels"
+    },
+    {
+      "name": "Candy Red Silk PLA",
+      "hex": "#D71920FF",
+      "role": "raised numbers, hearts, and peppermint/candy-cane sectors"
+    },
+    {
+      "name": "Candy Green Silk PLA",
+      "hex": "#007A33FF",
+      "role": "Christmas trees"
+    },
+    {
+      "name": "Gold Silk PLA",
+      "hex": "#D89A18FF",
+      "role": "double-beaded frame, stars, angel halos, and tree toppers"
+    }
+  ],
+  "number_standard": {
+    "source": "drawer_day01_rev29.stl",
+    "target_bounds_mm": [
+      [
+        29.07539939880371,
+        -8.199999809265137,
+        48.243499755859375
+      ],
+      [
+        40.06159973144531,
+        -3.5999999046325684,
+        64.48660278320312
+      ]
+    ],
+    "rule": "same height, depth, vertical center, and horizontal group center as drawer 1; two-digit numbers remain centered as a pair"
+  },
+  "material_order_note": "All 24 files include the same five materials in the same order for consistent slicer/AMS assignment.",
+  "models": [
+    {
+      "day": 1,
+      "motif": "hearts",
+      "file": "drawer_day01_rev29_detailed_motifs_v4.3mf",
+      "sha256": "203c4fd0fd11e1ad28a11d7fca46fc4532b80928e81cdbb777c51cd74d3026cd",
+      "bytes": 500105,
+      "source_stl": "drawer_day01_rev29.stl",
+      "source_stl_sha256": "5d51c0cef850e1848330efee3ab14af74b6b8516b784040e707c3f1b4dad9958",
+      "source_geometry": {
+        "vertices": 11302,
+        "triangles": 22248,
+        "connected_shell_components": 1519,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 121944.07135527306,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 22220,
+        "triangles": 44084,
+        "consistent_winding": true,
+        "volume_sum_mm3": 121774.80141391204,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 40,
+        "number_vertex_count": 22,
+        "before_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 1.0,
+        "depth_scale": 1.0,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": false
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 576,
+        "removed_component_details": [
+          {
+            "faces": 288,
+            "bounds_mm": [
+              [
+                8.015430450439453,
+                -7.900000095367432,
+                31.175800323486328
+              ],
+              [
+                19.984399795532227,
+                -4.400000095367432,
+                41.784000396728516
+              ]
+            ]
+          },
+          {
+            "faces": 288,
+            "bounds_mm": [
+              [
+                48.01539993286133,
+                -7.900000095367432,
+                31.175800323486328
+              ],
+              [
+                59.98440170288086,
+                -4.400000095367432,
+                41.784000396728516
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21672
+      },
+      "detailed_motif_replacement": {
+        "family": "hearts",
+        "printable_watertight_parts": 2,
+        "triangles": 512,
+        "bounds_mm": [
+          [
+            8.0,
+            -8.35,
+            17.35
+          ],
+          [
+            60.0,
+            -4.85,
+            28.15
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 512,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 40
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 44084,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 22220,
+        "triangle_count": 44084,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 6977,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 2,
+      "motif": "candy canes",
+      "file": "drawer_day02_rev29_detailed_motifs_v4.3mf",
+      "sha256": "b91fc98d091b85e4b9570ace2a290e7b5090de67b8c4fce761e8cadda04cf4af",
+      "bytes": 525934,
+      "source_stl": "drawer_day02_rev29.stl",
+      "source_stl_sha256": "6d85b3df051418f47941553902e7081d79814a41c9159f6424cbb2ff291b8c51",
+      "source_geometry": {
+        "vertices": 12032,
+        "triangles": 23716,
+        "connected_shell_components": 1519,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122738.78139979317,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23312,
+        "triangles": 46196,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122240.9121463773,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 360,
+        "number_vertex_count": 182,
+        "before_bounds_mm": [
+          [
+            26.39780044555664,
+            -8.899999618530273,
+            45.60279846191406
+          ],
+          [
+            41.84870147705078,
+            -4.5,
+            67.25469970703125
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            28.77292128129023,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.36407784895879,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7501929204026275,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": false
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 1724,
+        "removed_component_details": [
+          {
+            "faces": 862,
+            "bounds_mm": [
+              [
+                8.35000991821289,
+                -8.430000305175781,
+                12.350000381469727
+              ],
+              [
+                23.200000762939453,
+                -4.5,
+                33.650001525878906
+              ]
+            ]
+          },
+          {
+            "faces": 862,
+            "bounds_mm": [
+              [
+                44.349998474121094,
+                -8.430000305175781,
+                12.350000381469727
+              ],
+              [
+                59.20000076293945,
+                -4.5,
+                33.650001525878906
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21992
+      },
+      "detailed_motif_replacement": {
+        "family": "candy canes",
+        "printable_watertight_parts": 20,
+        "triangles": 2304,
+        "bounds_mm": [
+          [
+            12.35,
+            -8.25,
+            12.35
+          ],
+          [
+            55.65,
+            -4.85,
+            32.082298164589275
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 1152,
+          "Candy Red Silk PLA": 1152,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 360
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46196,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23312,
+        "triangle_count": 46196,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 7495,
+          "Candy Red Silk PLA": 7937,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 3,
+      "motif": "snowflakes",
+      "file": "drawer_day03_rev29_detailed_motifs_v4.3mf",
+      "sha256": "d34ff31ed40a2e2ac2c08600ac743c479ddde9ac5ffb66d055eafd544a6477e8",
+      "bytes": 526631,
+      "source_stl": "drawer_day03_rev29.stl",
+      "source_stl_sha256": "dc2f1bc25e5ef1321292d1f504bdb5f9ac25f74ce82b932312c8bce9fd73a581",
+      "source_geometry": {
+        "vertices": 11406,
+        "triangles": 22456,
+        "connected_shell_components": 1519,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122343.47793024924,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23464,
+        "triangles": 46428,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122003.90488435276,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 400,
+        "number_vertex_count": 202,
+        "before_bounds_mm": [
+          [
+            26.04159927368164,
+            -8.899999618530273,
+            45.38959884643555
+          ],
+          [
+            42.06230163574219,
+            -4.5,
+            67.45809936523438
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            28.672631859575418,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.464367270673606,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7360311142801582,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": false
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 424,
+        "removed_component_details": [
+          {
+            "faces": 212,
+            "bounds_mm": [
+              [
+                9.5,
+                -7.699999809265137,
+                15.820799827575684
+              ],
+              [
+                22.5,
+                -4.5,
+                28.17919921875
+              ]
+            ]
+          },
+          {
+            "faces": 212,
+            "bounds_mm": [
+              [
+                45.5,
+                -7.699999809265137,
+                15.820799827575684
+              ],
+              [
+                58.5,
+                -4.5,
+                28.17919921875
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22032
+      },
+      "detailed_motif_replacement": {
+        "family": "snowflakes",
+        "printable_watertight_parts": 38,
+        "triangles": 2496,
+        "bounds_mm": [
+          [
+            6.334549451310803,
+            -8.2,
+            15.125015565901247
+          ],
+          [
+            61.66545054868919,
+            -4.85,
+            30.374984434098753
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 2496,
+          "Candy Red Silk PLA": 0,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 400
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46428,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23464,
+        "triangle_count": 46428,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 8839,
+          "Candy Red Silk PLA": 6825,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 4,
+      "motif": "stars",
+      "file": "drawer_day04_rev29_detailed_motifs_v4.3mf",
+      "sha256": "4193c6a4f2eb80979d07dc3a143e943b6c6cbcef3d626650015f4aaeeed6315b",
+      "bytes": 496141,
+      "source_stl": "drawer_day04_rev29.stl",
+      "source_stl_sha256": "804aa7edce5f56da479e62a846bc2b82d93556e4cae51d1950e7dacee6280448",
+      "source_geometry": {
+        "vertices": 11056,
+        "triangles": 21760,
+        "connected_shell_components": 1519,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122341.52447083972,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 22010,
+        "triangles": 43668,
+        "consistent_winding": true,
+        "volume_sum_mm3": 121897.2551638832,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 56,
+        "number_vertex_count": 28,
+        "before_bounds_mm": [
+          [
+            25.40089988708496,
+            -8.899999618530273,
+            45.79309844970703
+          ],
+          [
+            43.044898986816406,
+            -4.5,
+            67.0551986694336
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            27.828965553206853,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            41.308033577042174,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7639463110174655,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": false
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 72,
+        "removed_component_details": [
+          {
+            "faces": 36,
+            "bounds_mm": [
+              [
+                9.342610359191895,
+                -7.699999809265137,
+                16.33690071105957
+              ],
+              [
+                22.657400131225586,
+                -4.5,
+                29.0
+              ]
+            ]
+          },
+          {
+            "faces": 36,
+            "bounds_mm": [
+              [
+                45.34260177612305,
+                -7.699999809265137,
+                16.33690071105957
+              ],
+              [
+                58.65739822387695,
+                -4.5,
+                29.0
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21688
+      },
+      "detailed_motif_replacement": {
+        "family": "stars",
+        "printable_watertight_parts": 2,
+        "triangles": 80,
+        "bounds_mm": [
+          [
+            7.1523930826748945,
+            -8.65,
+            16.925077640500376
+          ],
+          [
+            60.84760691732511,
+            -4.85,
+            29.95
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 0,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 80
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 56
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 43668,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 22010,
+        "triangle_count": 43668,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 6481,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20240
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 5,
+      "motif": "Christmas trees",
+      "file": "drawer_day05_rev29_detailed_motifs_v4.3mf",
+      "sha256": "5b2a4ce2e1948d8c76e8d95276899445b56330919f505fd4b6a8388125c6a979",
+      "bytes": 534474,
+      "source_stl": "drawer_day05_rev29.stl",
+      "source_stl_sha256": "aa4ca0ca2c436721ee059ae8e9028caf2984f15acc71603eb9f196567e2401c1",
+      "source_geometry": {
+        "vertices": 11748,
+        "triangles": 23140,
+        "connected_shell_components": 1519,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122828.45881290744,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23810,
+        "triangles": 47192,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122350.36926069747,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 276,
+        "number_vertex_count": 140,
+        "before_bounds_mm": [
+          [
+            26.340700149536133,
+            -8.899999618530273,
+            45.579898834228516
+          ],
+          [
+            42.3473014831543,
+            -4.5,
+            67.25860595703125
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            28.571904078438404,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.565095051810616,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7492653014468031,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": false
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 1232,
+        "removed_component_details": [
+          {
+            "faces": 616,
+            "bounds_mm": [
+              [
+                6.800000190734863,
+                -8.300000190734863,
+                18.0
+              ],
+              [
+                21.200000762939453,
+                -4.5,
+                39.0
+              ]
+            ]
+          },
+          {
+            "faces": 616,
+            "bounds_mm": [
+              [
+                46.79999923706055,
+                -8.300000190734863,
+                18.0
+              ],
+              [
+                61.20000076293945,
+                -4.5,
+                39.0
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21908
+      },
+      "detailed_motif_replacement": {
+        "family": "Christmas trees",
+        "printable_watertight_parts": 20,
+        "triangles": 3384,
+        "bounds_mm": [
+          [
+            6.7,
+            -9.1,
+            18.0
+          ],
+          [
+            61.3,
+            -4.85,
+            38.199999999999996
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 3200,
+          "Candy Green Silk PLA": 72,
+          "Gold Silk PLA": 112
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 276
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 47192,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23810,
+        "triangle_count": 47192,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 9901,
+          "Candy Green Silk PLA": 72,
+          "Gold Silk PLA": 20272
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 6,
+      "motif": "angels",
+      "file": "drawer_day06_rev29_detailed_motifs_v4.3mf",
+      "sha256": "57bd35aa21f37f4a9c7800bc7279ac4d916bc96f16840da78808df756e0b3ed8",
+      "bytes": 526483,
+      "source_stl": "drawer_day06_rev29.stl",
+      "source_stl_sha256": "8743b1d3e280b3f63c4a093014678b5f9100dbb9a1709cad19d5159a35c7f3c0",
+      "source_geometry": {
+        "vertices": 11970,
+        "triangles": 23588,
+        "connected_shell_components": 1519,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123388.21813037312,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23320,
+        "triangles": 46256,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122346.13651024387,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 388,
+        "number_vertex_count": 194,
+        "before_bounds_mm": [
+          [
+            25.89900016784668,
+            -8.899999618530273,
+            45.409297943115234
+          ],
+          [
+            42.81700134277344,
+            -4.5,
+            67.4375
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            28.331021912808108,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.80597721744092,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.737377611908507,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": false
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 4,
+        "removed_original_motif_triangles": 1568,
+        "removed_component_details": [
+          {
+            "faces": 320,
+            "bounds_mm": [
+              [
+                10.380000114440918,
+                -8.0,
+                34.40399932861328
+              ],
+              [
+                19.6200008392334,
+                -4.5,
+                37.59600067138672
+              ]
+            ]
+          },
+          {
+            "faces": 464,
+            "bounds_mm": [
+              [
+                6.100009918212891,
+                -8.149999618530273,
+                17.799999237060547
+              ],
+              [
+                23.899999618530273,
+                -4.5,
+                34.29999923706055
+              ]
+            ]
+          },
+          {
+            "faces": 320,
+            "bounds_mm": [
+              [
+                48.380001068115234,
+                -8.0,
+                34.40399932861328
+              ],
+              [
+                57.619998931884766,
+                -4.5,
+                37.59600067138672
+              ]
+            ]
+          },
+          {
+            "faces": 464,
+            "bounds_mm": [
+              [
+                44.099998474121094,
+                -8.149999618530273,
+                17.799999237060547
+              ],
+              [
+                61.900001525878906,
+                -4.5,
+                34.29999923706055
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22020
+      },
+      "detailed_motif_replacement": {
+        "family": "angels",
+        "printable_watertight_parts": 12,
+        "triangles": 2336,
+        "bounds_mm": [
+          [
+            6.519128645884795,
+            -9.0,
+            17.3
+          ],
+          [
+            61.482673724446784,
+            -4.85,
+            33.59
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 416,
+          "Candy Red Silk PLA": 256,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 1664
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 388
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46256,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23320,
+        "triangle_count": 46256,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6759,
+          "Candy Red Silk PLA": 7069,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 21824
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 7,
+      "motif": "hearts",
+      "file": "drawer_day07_rev29_detailed_motifs_v4.3mf",
+      "sha256": "f32d9303291684248d45e9f440a82031f3f0154787dc84612370628926baa86d",
+      "bytes": 499847,
+      "source_stl": "drawer_day07_rev29.stl",
+      "source_stl_sha256": "345f032c50e87d411163fbf6961e58746d2a8802332a510f94577cf8acb337df",
+      "source_geometry": {
+        "vertices": 11294,
+        "triangles": 22232,
+        "connected_shell_components": 1519,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122258.28370682422,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 22212,
+        "triangles": 44068,
+        "consistent_winding": true,
+        "volume_sum_mm3": 121820.55988902443,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 24,
+        "number_vertex_count": 14,
+        "before_bounds_mm": [
+          [
+            26.04199981689453,
+            -8.899999618530273,
+            45.79309844970703
+          ],
+          [
+            42.0620002746582,
+            -4.5,
+            67.0551986694336
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            28.44928943902118,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.687709691227845,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7639463110174655,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": false
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 576,
+        "removed_component_details": [
+          {
+            "faces": 288,
+            "bounds_mm": [
+              [
+                8.015430450439453,
+                -7.900000095367432,
+                31.175800323486328
+              ],
+              [
+                19.984399795532227,
+                -4.400000095367432,
+                41.784000396728516
+              ]
+            ]
+          },
+          {
+            "faces": 288,
+            "bounds_mm": [
+              [
+                48.01539993286133,
+                -7.900000095367432,
+                31.175800323486328
+              ],
+              [
+                59.98440170288086,
+                -4.400000095367432,
+                41.784000396728516
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21656
+      },
+      "detailed_motif_replacement": {
+        "family": "hearts",
+        "printable_watertight_parts": 2,
+        "triangles": 512,
+        "bounds_mm": [
+          [
+            8.0,
+            -8.35,
+            17.35
+          ],
+          [
+            60.0,
+            -4.85,
+            28.15
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 512,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 24
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 44068,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 22212,
+        "triangle_count": 44068,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 6961,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 8,
+      "motif": "candy canes",
+      "file": "drawer_day08_rev29_detailed_motifs_v4.3mf",
+      "sha256": "e0800a4c186c6e2748781cd2c60d364a70273e10bc17e73d1bcd8ae02924eb53",
+      "bytes": 527610,
+      "source_stl": "drawer_day08_rev29.stl",
+      "source_stl_sha256": "5d26e4559bb416fbb257b448d10fbb1293706bd3229bb47f332a30dbb0b005c7",
+      "source_geometry": {
+        "vertices": 12106,
+        "triangles": 23872,
+        "connected_shell_components": 1519,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122969.58806379641,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23386,
+        "triangles": 46352,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122352.80400831388,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 516,
+        "number_vertex_count": 256,
+        "before_bounds_mm": [
+          [
+            25.871000289916992,
+            -8.899999618530273,
+            45.38959884643555
+          ],
+          [
+            42.57500076293945,
+            -4.5,
+            67.45809936523438
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            28.421167524577005,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.715831605672015,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7360311142801582,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": false
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 1724,
+        "removed_component_details": [
+          {
+            "faces": 862,
+            "bounds_mm": [
+              [
+                8.35000991821289,
+                -8.430000305175781,
+                12.350000381469727
+              ],
+              [
+                23.200000762939453,
+                -4.5,
+                33.650001525878906
+              ]
+            ]
+          },
+          {
+            "faces": 862,
+            "bounds_mm": [
+              [
+                44.349998474121094,
+                -8.430000305175781,
+                12.350000381469727
+              ],
+              [
+                59.20000076293945,
+                -4.5,
+                33.650001525878906
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22148
+      },
+      "detailed_motif_replacement": {
+        "family": "candy canes",
+        "printable_watertight_parts": 20,
+        "triangles": 2304,
+        "bounds_mm": [
+          [
+            12.35,
+            -8.25,
+            12.35
+          ],
+          [
+            55.65,
+            -4.85,
+            32.082298164589275
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 1152,
+          "Candy Red Silk PLA": 1152,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 516
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46352,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23386,
+        "triangle_count": 46352,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 7495,
+          "Candy Red Silk PLA": 8093,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 9,
+      "motif": "snowflakes",
+      "file": "drawer_day09_rev29_detailed_motifs_v4.3mf",
+      "sha256": "febecac33a86ed80577a3df55b73ebf6ccb0dc367b4314f0750b534124711d4e",
+      "bytes": 526136,
+      "source_stl": "drawer_day09_rev29.stl",
+      "source_stl_sha256": "5f71c20265b6d099dac95a57da64de3c9b1bbd458261946818445440d2605ea6",
+      "source_geometry": {
+        "vertices": 11398,
+        "triangles": 22444,
+        "connected_shell_components": 1519,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122477.30571917655,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23456,
+        "triangles": 46416,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122081.79401501223,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 388,
+        "number_vertex_count": 194,
+        "before_bounds_mm": [
+          [
+            25.600000381469727,
+            -8.899999618530273,
+            45.409297943115234
+          ],
+          [
+            42.518001556396484,
+            -4.5,
+            67.4375
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            28.331021912808108,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.80597721744092,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.737377611908507,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": false
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 424,
+        "removed_component_details": [
+          {
+            "faces": 212,
+            "bounds_mm": [
+              [
+                9.5,
+                -7.699999809265137,
+                15.820799827575684
+              ],
+              [
+                22.5,
+                -4.5,
+                28.17919921875
+              ]
+            ]
+          },
+          {
+            "faces": 212,
+            "bounds_mm": [
+              [
+                45.5,
+                -7.699999809265137,
+                15.820799827575684
+              ],
+              [
+                58.5,
+                -4.5,
+                28.17919921875
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22020
+      },
+      "detailed_motif_replacement": {
+        "family": "snowflakes",
+        "printable_watertight_parts": 38,
+        "triangles": 2496,
+        "bounds_mm": [
+          [
+            6.334549451310803,
+            -8.2,
+            15.125015565901247
+          ],
+          [
+            61.66545054868919,
+            -4.85,
+            30.374984434098753
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 2496,
+          "Candy Red Silk PLA": 0,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 1,
+            "faces": 388
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46416,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23456,
+        "triangle_count": 46416,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 8839,
+          "Candy Red Silk PLA": 6813,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 10,
+      "motif": "stars",
+      "file": "drawer_day10_rev29_detailed_motifs_v4.3mf",
+      "sha256": "1050c54cfc49aa9cc2cf41144c29909d77af7e253f166e3512a685414020043a",
+      "bytes": 501228,
+      "source_stl": "drawer_day10_rev29.stl",
+      "source_stl_sha256": "fa93f0dec51fd6d01058f47ed9e56fdde2344fc1e68cf8d6283b3735637806ad",
+      "source_geometry": {
+        "vertices": 11242,
+        "triangles": 22120,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123070.7054354266,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 22196,
+        "triangles": 44028,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122251.93649940494,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 416,
+        "number_vertex_count": 214,
+        "before_bounds_mm": [
+          [
+            17.471099853515625,
+            -8.899999618530273,
+            45.38959884643555
+          ],
+          [
+            52.897300720214844,
+            -4.5,
+            67.45809936523438
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.531106515809846,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.60589261443918,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7360311142801582,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 72,
+        "removed_component_details": [
+          {
+            "faces": 36,
+            "bounds_mm": [
+              [
+                9.342610359191895,
+                -7.699999809265137,
+                16.33690071105957
+              ],
+              [
+                22.657400131225586,
+                -4.5,
+                29.0
+              ]
+            ]
+          },
+          {
+            "faces": 36,
+            "bounds_mm": [
+              [
+                45.34260177612305,
+                -7.699999809265137,
+                16.33690071105957
+              ],
+              [
+                58.65739822387695,
+                -4.5,
+                29.0
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22048
+      },
+      "detailed_motif_replacement": {
+        "family": "stars",
+        "printable_watertight_parts": 2,
+        "triangles": 80,
+        "bounds_mm": [
+          [
+            7.1523930826748945,
+            -8.65,
+            16.925077640500376
+          ],
+          [
+            60.84760691732511,
+            -4.85,
+            29.95
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 0,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 80
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 416
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 44028,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 22196,
+        "triangle_count": 44028,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 6841,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20240
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 11,
+      "motif": "Christmas trees",
+      "file": "drawer_day11_rev29_detailed_motifs_v4.3mf",
+      "sha256": "e1dc2cac9c9ad7bd0b5745171e062a57896cb70e43cd49efa254a06ff9b90cfc",
+      "bytes": 531687,
+      "source_stl": "drawer_day11_rev29.stl",
+      "source_stl_sha256": "c44ebc99a83ed7c4f2d4613686d05fb701084a5b3975c4ca5315a66f7272a965",
+      "source_geometry": {
+        "vertices": 11662,
+        "triangles": 22952,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123494.47206766401,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23724,
+        "triangles": 47004,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122760.91488364793,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 88,
+        "number_vertex_count": 54,
+        "before_bounds_mm": [
+          [
+            17.471099853515625,
+            -8.899999618530273,
+            45.38959884643555
+          ],
+          [
+            52.2849006652832,
+            -4.5,
+            67.0551986694336
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.51822267505885,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.61877645519017,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7497185935328542,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 1232,
+        "removed_component_details": [
+          {
+            "faces": 616,
+            "bounds_mm": [
+              [
+                6.800000190734863,
+                -8.300000190734863,
+                18.0
+              ],
+              [
+                21.200000762939453,
+                -4.5,
+                39.0
+              ]
+            ]
+          },
+          {
+            "faces": 616,
+            "bounds_mm": [
+              [
+                46.79999923706055,
+                -8.300000190734863,
+                18.0
+              ],
+              [
+                61.20000076293945,
+                -4.5,
+                39.0
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21720
+      },
+      "detailed_motif_replacement": {
+        "family": "Christmas trees",
+        "printable_watertight_parts": 20,
+        "triangles": 3384,
+        "bounds_mm": [
+          [
+            6.7,
+            -9.1,
+            18.0
+          ],
+          [
+            61.3,
+            -4.85,
+            38.199999999999996
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 3200,
+          "Candy Green Silk PLA": 72,
+          "Gold Silk PLA": 112
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 3,
+            "faces": 88
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 47004,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23724,
+        "triangle_count": 47004,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 9713,
+          "Candy Green Silk PLA": 72,
+          "Gold Silk PLA": 20272
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 12,
+      "motif": "angels",
+      "file": "drawer_day12_rev29_detailed_motifs_v4.3mf",
+      "sha256": "6a62dbdc9b2d9902617c4996b039c723d926db33de3d82ad42c511be8a47136a",
+      "bytes": 526040,
+      "source_stl": "drawer_day12_rev29.stl",
+      "source_stl_sha256": "d8858b5eeb3798841a781252655a93425eecce1e16860e1cf775e0a000c6ff7b",
+      "source_geometry": {
+        "vertices": 11956,
+        "triangles": 23552,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123963.20039224369,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23306,
+        "triangles": 46220,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122704.54481305438,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 352,
+        "number_vertex_count": 180,
+        "before_bounds_mm": [
+          [
+            17.471099853515625,
+            -8.899999618530273,
+            45.60279846191406
+          ],
+          [
+            51.757999420166016,
+            -4.5,
+            67.25469970703125
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.707604906395993,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.42939422385303,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7501929204026275,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 4,
+        "removed_original_motif_triangles": 1568,
+        "removed_component_details": [
+          {
+            "faces": 320,
+            "bounds_mm": [
+              [
+                10.380000114440918,
+                -8.0,
+                34.40399932861328
+              ],
+              [
+                19.6200008392334,
+                -4.5,
+                37.59600067138672
+              ]
+            ]
+          },
+          {
+            "faces": 464,
+            "bounds_mm": [
+              [
+                6.100009918212891,
+                -8.149999618530273,
+                17.799999237060547
+              ],
+              [
+                23.899999618530273,
+                -4.5,
+                34.29999923706055
+              ]
+            ]
+          },
+          {
+            "faces": 320,
+            "bounds_mm": [
+              [
+                48.380001068115234,
+                -8.0,
+                34.40399932861328
+              ],
+              [
+                57.619998931884766,
+                -4.5,
+                37.59600067138672
+              ]
+            ]
+          },
+          {
+            "faces": 464,
+            "bounds_mm": [
+              [
+                44.099998474121094,
+                -8.149999618530273,
+                17.799999237060547
+              ],
+              [
+                61.900001525878906,
+                -4.5,
+                34.29999923706055
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21984
+      },
+      "detailed_motif_replacement": {
+        "family": "angels",
+        "printable_watertight_parts": 12,
+        "triangles": 2336,
+        "bounds_mm": [
+          [
+            6.519128645884795,
+            -9.0,
+            17.3
+          ],
+          [
+            61.482673724446784,
+            -4.85,
+            33.59
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 416,
+          "Candy Red Silk PLA": 256,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 1664
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 352
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46220,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23306,
+        "triangle_count": 46220,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6759,
+          "Candy Red Silk PLA": 7033,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 21824
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 13,
+      "motif": "hearts",
+      "file": "drawer_day13_rev29_detailed_motifs_v4.3mf",
+      "sha256": "c51e73646d120562d2fc63273fc7458153279eb7046300b0b5dfd0187364cb95",
+      "bytes": 507060,
+      "source_stl": "drawer_day13_rev29.stl",
+      "source_stl_sha256": "aee2cdb2e0ff837a0a53ae309c085bc715492fab65b9c4406e3a2aa124d781ca",
+      "source_geometry": {
+        "vertices": 11504,
+        "triangles": 22644,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123091.75032527147,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 22422,
+        "triangles": 44480,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122249.90142042167,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 436,
+        "number_vertex_count": 224,
+        "before_bounds_mm": [
+          [
+            17.47100067138672,
+            -8.899999618530273,
+            45.38959884643555
+          ],
+          [
+            51.97200012207031,
+            -4.5,
+            67.45809936523438
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.871595030391624,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.2654040998574,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7360311142801582,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 576,
+        "removed_component_details": [
+          {
+            "faces": 288,
+            "bounds_mm": [
+              [
+                8.015430450439453,
+                -7.900000095367432,
+                31.175800323486328
+              ],
+              [
+                19.984399795532227,
+                -4.400000095367432,
+                41.784000396728516
+              ]
+            ]
+          },
+          {
+            "faces": 288,
+            "bounds_mm": [
+              [
+                48.01539993286133,
+                -7.900000095367432,
+                31.175800323486328
+              ],
+              [
+                59.98440170288086,
+                -4.400000095367432,
+                41.784000396728516
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22068
+      },
+      "detailed_motif_replacement": {
+        "family": "hearts",
+        "printable_watertight_parts": 2,
+        "triangles": 512,
+        "bounds_mm": [
+          [
+            8.0,
+            -8.35,
+            17.35
+          ],
+          [
+            60.0,
+            -4.85,
+            28.15
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 512,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 436
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 44480,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 22422,
+        "triangle_count": 44480,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 7373,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 14,
+      "motif": "candy canes",
+      "file": "drawer_day14_rev29_detailed_motifs_v4.3mf",
+      "sha256": "ac7ac104a5bde9e3842079d1af6a48823a3ad58ddab2c6ee157fb34e85334870",
+      "bytes": 521213,
+      "source_stl": "drawer_day14_rev29.stl",
+      "source_stl_sha256": "f1f67232ee66d54b75b95b586f7e56902d71d298aee5f13da335528ef257d882",
+      "source_geometry": {
+        "vertices": 11900,
+        "triangles": 23450,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123515.26566080494,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23180,
+        "triangles": 45930,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122733.30747423203,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 94,
+        "number_vertex_count": 50,
+        "before_bounds_mm": [
+          [
+            17.471099853515625,
+            -8.899999618530273,
+            45.79309844970703
+          ],
+          [
+            52.954200744628906,
+            -4.5,
+            67.0551986694336
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.014907550511246,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            48.12209157973778,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7639463110174655,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 1724,
+        "removed_component_details": [
+          {
+            "faces": 862,
+            "bounds_mm": [
+              [
+                8.35000991821289,
+                -8.430000305175781,
+                12.350000381469727
+              ],
+              [
+                23.200000762939453,
+                -4.5,
+                33.650001525878906
+              ]
+            ]
+          },
+          {
+            "faces": 862,
+            "bounds_mm": [
+              [
+                44.349998474121094,
+                -8.430000305175781,
+                12.350000381469727
+              ],
+              [
+                59.20000076293945,
+                -4.5,
+                33.650001525878906
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21726
+      },
+      "detailed_motif_replacement": {
+        "family": "candy canes",
+        "printable_watertight_parts": 20,
+        "triangles": 2304,
+        "bounds_mm": [
+          [
+            12.35,
+            -8.25,
+            12.35
+          ],
+          [
+            55.65,
+            -4.85,
+            32.082298164589275
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 1152,
+          "Candy Red Silk PLA": 1152,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 94
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 45930,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23180,
+        "triangle_count": 45930,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 7495,
+          "Candy Red Silk PLA": 7671,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 15,
+      "motif": "snowflakes",
+      "file": "drawer_day15_rev29_detailed_motifs_v4.3mf",
+      "sha256": "99086a31f6eed13b7d218fd808212d9868d1574364dcd56d8e3b9d4689705b8b",
+      "bytes": 526768,
+      "source_stl": "drawer_day15_rev29.stl",
+      "source_stl_sha256": "ba46374271a2826b33b721f2d11aa9afb809f5ef19acd6a78813784624431a35",
+      "source_geometry": {
+        "vertices": 11430,
+        "triangles": 22490,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123028.5065219667,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23488,
+        "triangles": 46462,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122410.8754700584,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 434,
+        "number_vertex_count": 226,
+        "before_bounds_mm": [
+          [
+            17.471099853515625,
+            -8.899999618530273,
+            45.579898834228516
+          ],
+          [
+            52.256500244140625,
+            -4.5,
+            67.25860595703125
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.53675281030982,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.6002463199392,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7492653014468031,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 424,
+        "removed_component_details": [
+          {
+            "faces": 212,
+            "bounds_mm": [
+              [
+                9.5,
+                -7.699999809265137,
+                15.820799827575684
+              ],
+              [
+                22.5,
+                -4.5,
+                28.17919921875
+              ]
+            ]
+          },
+          {
+            "faces": 212,
+            "bounds_mm": [
+              [
+                45.5,
+                -7.699999809265137,
+                15.820799827575684
+              ],
+              [
+                58.5,
+                -4.5,
+                28.17919921875
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22066
+      },
+      "detailed_motif_replacement": {
+        "family": "snowflakes",
+        "printable_watertight_parts": 38,
+        "triangles": 2496,
+        "bounds_mm": [
+          [
+            6.334549451310803,
+            -8.2,
+            15.125015565901247
+          ],
+          [
+            61.66545054868919,
+            -4.85,
+            30.374984434098753
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 2496,
+          "Candy Red Silk PLA": 0,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 434
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46462,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23488,
+        "triangle_count": 46462,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 8839,
+          "Candy Red Silk PLA": 6859,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 16,
+      "motif": "stars",
+      "file": "drawer_day16_rev29_detailed_motifs_v4.3mf",
+      "sha256": "e47b82d6e0f798156a517a45fc53248b79998beb50058a111202de12c16fb1fb",
+      "bytes": 505325,
+      "source_stl": "drawer_day16_rev29.stl",
+      "source_stl_sha256": "8ee156d61d1e27a23f5fda46daf87ef82974a67c14247b2d4b07f3ed2e40320c",
+      "source_geometry": {
+        "vertices": 11340,
+        "triangles": 22316,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123086.91894400718,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 22294,
+        "triangles": 44224,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122270.40693626077,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 612,
+        "number_vertex_count": 312,
+        "before_bounds_mm": [
+          [
+            17.471099853515625,
+            -8.899999618530273,
+            45.409297943115234
+          ],
+          [
+            52.72629928588867,
+            -4.5,
+            67.4375
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.570302182723815,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.56669694752521,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.737377611908507,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 72,
+        "removed_component_details": [
+          {
+            "faces": 36,
+            "bounds_mm": [
+              [
+                9.342610359191895,
+                -7.699999809265137,
+                16.33690071105957
+              ],
+              [
+                22.657400131225586,
+                -4.5,
+                29.0
+              ]
+            ]
+          },
+          {
+            "faces": 36,
+            "bounds_mm": [
+              [
+                45.34260177612305,
+                -7.699999809265137,
+                16.33690071105957
+              ],
+              [
+                58.65739822387695,
+                -4.5,
+                29.0
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22244
+      },
+      "detailed_motif_replacement": {
+        "family": "stars",
+        "printable_watertight_parts": 2,
+        "triangles": 80,
+        "bounds_mm": [
+          [
+            7.1523930826748945,
+            -8.65,
+            16.925077640500376
+          ],
+          [
+            60.84760691732511,
+            -4.85,
+            29.95
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 0,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 80
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 612
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 0.0,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 44224,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 22294,
+        "triangle_count": 44224,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 7037,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20240
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 17,
+      "motif": "Christmas trees",
+      "file": "drawer_day17_rev29_detailed_motifs_v4.3mf",
+      "sha256": "44fc4e33c8ccf76986815be816192c95f40ac433fb0f7bd809da0eb5d7477aa4",
+      "bytes": 531432,
+      "source_stl": "drawer_day17_rev29.stl",
+      "source_stl_sha256": "a777236b86bcd48315803eac97cd35fef2c2f8e7575f19da6adaf5c781bcc776",
+      "source_geometry": {
+        "vertices": 11654,
+        "triangles": 22936,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123454.60023339221,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23716,
+        "triangles": 46988,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122737.74571133555,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 72,
+        "number_vertex_count": 46,
+        "before_bounds_mm": [
+          [
+            17.469999313354492,
+            -8.899999618530273,
+            45.38959884643555
+          ],
+          [
+            51.970001220703125,
+            -4.5,
+            67.0551986694336
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.63585311169541,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.50114601855361,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7497185935328542,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 1232,
+        "removed_component_details": [
+          {
+            "faces": 616,
+            "bounds_mm": [
+              [
+                6.800000190734863,
+                -8.300000190734863,
+                18.0
+              ],
+              [
+                21.200000762939453,
+                -4.5,
+                39.0
+              ]
+            ]
+          },
+          {
+            "faces": 616,
+            "bounds_mm": [
+              [
+                46.79999923706055,
+                -8.300000190734863,
+                18.0
+              ],
+              [
+                61.20000076293945,
+                -4.5,
+                39.0
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21704
+      },
+      "detailed_motif_replacement": {
+        "family": "Christmas trees",
+        "printable_watertight_parts": 20,
+        "triangles": 3384,
+        "bounds_mm": [
+          [
+            6.7,
+            -9.1,
+            18.0
+          ],
+          [
+            61.3,
+            -4.85,
+            38.199999999999996
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 3200,
+          "Candy Green Silk PLA": 72,
+          "Gold Silk PLA": 112
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 3,
+            "faces": 72
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46988,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23716,
+        "triangle_count": 46988,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 9697,
+          "Candy Green Silk PLA": 72,
+          "Gold Silk PLA": 20272
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 18,
+      "motif": "angels",
+      "file": "drawer_day18_rev29_detailed_motifs_v4.3mf",
+      "sha256": "48543c759cc389499c616c9a581228ca62d78e0bcf596c92de1585d6f6f74690",
+      "bytes": 528386,
+      "source_stl": "drawer_day18_rev29.stl",
+      "source_stl_sha256": "fae7d4ccc84958aa4d3b581b2f74cf870100fe5e8747d87bf85fa878ee4ddcf8",
+      "source_geometry": {
+        "vertices": 12054,
+        "triangles": 23750,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 124130.4094090865,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23404,
+        "triangles": 46418,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122755.33916436356,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 550,
+        "number_vertex_count": 278,
+        "before_bounds_mm": [
+          [
+            17.469999313354492,
+            -8.899999618530273,
+            45.38959884643555
+          ],
+          [
+            52.47999954223633,
+            -4.5,
+            67.45809936523438
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.684274825418264,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.45272430483076,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7360311142801582,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 4,
+        "removed_original_motif_triangles": 1568,
+        "removed_component_details": [
+          {
+            "faces": 320,
+            "bounds_mm": [
+              [
+                10.380000114440918,
+                -8.0,
+                34.40399932861328
+              ],
+              [
+                19.6200008392334,
+                -4.5,
+                37.59600067138672
+              ]
+            ]
+          },
+          {
+            "faces": 464,
+            "bounds_mm": [
+              [
+                6.100009918212891,
+                -8.149999618530273,
+                17.799999237060547
+              ],
+              [
+                23.899999618530273,
+                -4.5,
+                34.29999923706055
+              ]
+            ]
+          },
+          {
+            "faces": 320,
+            "bounds_mm": [
+              [
+                48.380001068115234,
+                -8.0,
+                34.40399932861328
+              ],
+              [
+                57.619998931884766,
+                -4.5,
+                37.59600067138672
+              ]
+            ]
+          },
+          {
+            "faces": 464,
+            "bounds_mm": [
+              [
+                44.099998474121094,
+                -8.149999618530273,
+                17.799999237060547
+              ],
+              [
+                61.900001525878906,
+                -4.5,
+                34.29999923706055
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22182
+      },
+      "detailed_motif_replacement": {
+        "family": "angels",
+        "printable_watertight_parts": 12,
+        "triangles": 2336,
+        "bounds_mm": [
+          [
+            6.519128645884795,
+            -9.0,
+            17.3
+          ],
+          [
+            61.482673724446784,
+            -4.85,
+            33.59
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 416,
+          "Candy Red Silk PLA": 256,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 1664
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 550
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46418,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23404,
+        "triangle_count": 46418,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6759,
+          "Candy Red Silk PLA": 7231,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 21824
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 19,
+      "motif": "candy canes",
+      "file": "drawer_day19_rev29_detailed_motifs_v4.3mf",
+      "sha256": "fc385779a6a033744f5a73b4f59eca3f758390987cb484c13f2b124a3102bb58",
+      "bytes": 526447,
+      "source_stl": "drawer_day19_rev29.stl",
+      "source_stl_sha256": "551c2f17229fac2ac096e822d0dc80c65aa3b781d0d1e279b52eafd30e928498",
+      "source_geometry": {
+        "vertices": 12066,
+        "triangles": 23780,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123470.93888913676,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23346,
+        "triangles": 46260,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122617.57956689897,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 424,
+        "number_vertex_count": 216,
+        "before_bounds_mm": [
+          [
+            17.469999313354492,
+            -8.899999618530273,
+            45.409297943115234
+          ],
+          [
+            52.43000030517578,
+            -4.5,
+            67.4375
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.6791385432904,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.457860586958624,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.737377611908507,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 1724,
+        "removed_component_details": [
+          {
+            "faces": 862,
+            "bounds_mm": [
+              [
+                8.35000991821289,
+                -8.430000305175781,
+                12.350000381469727
+              ],
+              [
+                23.200000762939453,
+                -4.5,
+                33.650001525878906
+              ]
+            ]
+          },
+          {
+            "faces": 862,
+            "bounds_mm": [
+              [
+                44.349998474121094,
+                -8.430000305175781,
+                12.350000381469727
+              ],
+              [
+                59.20000076293945,
+                -4.5,
+                33.650001525878906
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22056
+      },
+      "detailed_motif_replacement": {
+        "family": "candy canes",
+        "printable_watertight_parts": 20,
+        "triangles": 2304,
+        "bounds_mm": [
+          [
+            12.35,
+            -8.25,
+            12.35
+          ],
+          [
+            55.65,
+            -4.85,
+            32.082298164589275
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 1152,
+          "Candy Red Silk PLA": 1152,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 424
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46260,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23346,
+        "triangle_count": 46260,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 7495,
+          "Candy Red Silk PLA": 8001,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 20,
+      "motif": "hearts",
+      "file": "drawer_day20_rev29_detailed_motifs_v4.3mf",
+      "sha256": "db3469816ccfeb29b19a22645201e8f63f134f57c41b6fccdb33d088f7f2943e",
+      "bytes": 506777,
+      "source_stl": "drawer_day20_rev29.stl",
+      "source_stl_sha256": "59239826b3910ca26240aed05a9455ec42c6e14cf58e4d6ad217f7c324edfdce",
+      "source_geometry": {
+        "vertices": 11518,
+        "triangles": 22674,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123344.8621105439,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 22436,
+        "triangles": 44510,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122389.35692121065,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 466,
+        "number_vertex_count": 238,
+        "before_bounds_mm": [
+          [
+            16.489999771118164,
+            -8.899999618530273,
+            45.38959884643555
+          ],
+          [
+            52.900001525878906,
+            -4.5,
+            67.45809936523438
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.169052483874978,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.967946646374045,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7360311142801582,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 576,
+        "removed_component_details": [
+          {
+            "faces": 288,
+            "bounds_mm": [
+              [
+                8.015430450439453,
+                -7.900000095367432,
+                31.175800323486328
+              ],
+              [
+                19.984399795532227,
+                -4.400000095367432,
+                41.784000396728516
+              ]
+            ]
+          },
+          {
+            "faces": 288,
+            "bounds_mm": [
+              [
+                48.01539993286133,
+                -7.900000095367432,
+                31.175800323486328
+              ],
+              [
+                59.98440170288086,
+                -4.400000095367432,
+                41.784000396728516
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22098
+      },
+      "detailed_motif_replacement": {
+        "family": "hearts",
+        "printable_watertight_parts": 2,
+        "triangles": 512,
+        "bounds_mm": [
+          [
+            8.0,
+            -8.35,
+            17.35
+          ],
+          [
+            60.0,
+            -4.85,
+            28.15
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 512,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 466
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 44510,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 22436,
+        "triangle_count": 44510,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 7403,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 21,
+      "motif": "snowflakes",
+      "file": "drawer_day21_rev29_detailed_motifs_v4.3mf",
+      "sha256": "ccc3e38f801037e5daf2a62a9eba6d48d9374a4dab9361780cb9eb10b3929d9a",
+      "bytes": 524100,
+      "source_stl": "drawer_day21_rev29.stl",
+      "source_stl_sha256": "e4d892341d813c10be3742a3f412911a5acffe1c3db392b123fa069eb4833093",
+      "source_geometry": {
+        "vertices": 11336,
+        "triangles": 22312,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123050.55318800661,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23394,
+        "triangles": 46284,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122439.1930717322,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 256,
+        "number_vertex_count": 132,
+        "before_bounds_mm": [
+          [
+            16.489999771118164,
+            -8.899999618530273,
+            45.60279846191406
+          ],
+          [
+            52.279998779296875,
+            -4.5,
+            67.25469970703125
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.143797626548146,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.993201503700874,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7501929204026275,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 424,
+        "removed_component_details": [
+          {
+            "faces": 212,
+            "bounds_mm": [
+              [
+                9.5,
+                -7.699999809265137,
+                15.820799827575684
+              ],
+              [
+                22.5,
+                -4.5,
+                28.17919921875
+              ]
+            ]
+          },
+          {
+            "faces": 212,
+            "bounds_mm": [
+              [
+                45.5,
+                -7.699999809265137,
+                15.820799827575684
+              ],
+              [
+                58.5,
+                -4.5,
+                28.17919921875
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21888
+      },
+      "detailed_motif_replacement": {
+        "family": "snowflakes",
+        "printable_watertight_parts": 38,
+        "triangles": 2496,
+        "bounds_mm": [
+          [
+            6.334549451310803,
+            -8.2,
+            15.125015565901247
+          ],
+          [
+            61.66545054868919,
+            -4.85,
+            30.374984434098753
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 2496,
+          "Candy Red Silk PLA": 0,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 0
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 256
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46284,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23394,
+        "triangle_count": 46284,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 8839,
+          "Candy Red Silk PLA": 6681,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20160
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 22,
+      "motif": "stars",
+      "file": "drawer_day22_rev29_detailed_motifs_v4.3mf",
+      "sha256": "d1d51e51326a048d7786c56aa70c63a3451947175b4d37db5c369a26b4fed17c",
+      "bytes": 501997,
+      "source_stl": "drawer_day22_rev29.stl",
+      "source_stl_sha256": "3a0b5273dd3d72ab02df786f061fd1e111e33c66400c7978ea6e40be60893368",
+      "source_geometry": {
+        "vertices": 11248,
+        "triangles": 22136,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123147.337754775,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 22202,
+        "triangles": 44044,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122351.69100301414,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 432,
+        "number_vertex_count": 220,
+        "before_bounds_mm": [
+          [
+            16.489999771118164,
+            -8.899999618530273,
+            45.60279846191406
+          ],
+          [
+            51.7599983215332,
+            -4.5,
+            67.25469970703125
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.338847957558364,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.79815117269066,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7501929204026275,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 72,
+        "removed_component_details": [
+          {
+            "faces": 36,
+            "bounds_mm": [
+              [
+                9.342610359191895,
+                -7.699999809265137,
+                16.33690071105957
+              ],
+              [
+                22.657400131225586,
+                -4.5,
+                29.0
+              ]
+            ]
+          },
+          {
+            "faces": 36,
+            "bounds_mm": [
+              [
+                45.34260177612305,
+                -7.699999809265137,
+                16.33690071105957
+              ],
+              [
+                58.65739822387695,
+                -4.5,
+                29.0
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22064
+      },
+      "detailed_motif_replacement": {
+        "family": "stars",
+        "printable_watertight_parts": 2,
+        "triangles": 80,
+        "bounds_mm": [
+          [
+            7.1523930826748945,
+            -8.65,
+            16.925077640500376
+          ],
+          [
+            60.84760691732511,
+            -4.85,
+            29.95
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 0,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 80
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 432
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 44044,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 22202,
+        "triangle_count": 44044,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 6857,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 20240
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 23,
+      "motif": "Christmas trees",
+      "file": "drawer_day23_rev29_detailed_motifs_v4.3mf",
+      "sha256": "efed822eb7d491f0d4b99abb5648acc1006d0fb8dc3ff8c0fa7ad6ccb5655313",
+      "bytes": 540144,
+      "source_stl": "drawer_day23_rev29.stl",
+      "source_stl_sha256": "e98acd989869fa6cb7f7b1b70cb62875dd644e549f9ea1796d6890d2dbbf6345",
+      "source_geometry": {
+        "vertices": 11930,
+        "triangles": 23484,
+        "connected_shell_components": 1521,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 123686.69942159607,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23992,
+        "triangles": 47536,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122824.67243331594,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 620,
+        "number_vertex_count": 322,
+        "before_bounds_mm": [
+          [
+            16.489999771118164,
+            -8.899999618530273,
+            45.38959884643555
+          ],
+          [
+            51.970001220703125,
+            -4.5,
+            67.45809936523438
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            21.51130706432469,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            47.62569206592433,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7360311142801582,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 2,
+        "removed_original_motif_triangles": 1232,
+        "removed_component_details": [
+          {
+            "faces": 616,
+            "bounds_mm": [
+              [
+                6.800000190734863,
+                -8.300000190734863,
+                18.0
+              ],
+              [
+                21.200000762939453,
+                -4.5,
+                39.0
+              ]
+            ]
+          },
+          {
+            "faces": 616,
+            "bounds_mm": [
+              [
+                46.79999923706055,
+                -8.300000190734863,
+                18.0
+              ],
+              [
+                61.20000076293945,
+                -4.5,
+                39.0
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 22252
+      },
+      "detailed_motif_replacement": {
+        "family": "Christmas trees",
+        "printable_watertight_parts": 20,
+        "triangles": 3384,
+        "bounds_mm": [
+          [
+            6.7,
+            -9.1,
+            18.0
+          ],
+          [
+            61.3,
+            -4.85,
+            38.199999999999996
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 0,
+          "Candy Red Silk PLA": 3200,
+          "Candy Green Silk PLA": 72,
+          "Gold Silk PLA": 112
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 3,
+            "faces": 620
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 0.0,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 47536,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23992,
+        "triangle_count": 47536,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6343,
+          "Candy Red Silk PLA": 10245,
+          "Candy Green Silk PLA": 72,
+          "Gold Silk PLA": 20272
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "day": 24,
+      "motif": "angels",
+      "file": "drawer_day24_rev29_detailed_motifs_v4.3mf",
+      "sha256": "c69f1ab275c370dea2064380f92b362dd3a672eea61b4d78868037b46c01ba0c",
+      "bytes": 524411,
+      "source_stl": "drawer_day24_rev29.stl",
+      "source_stl_sha256": "40951d4e13979575cf1e4b5f1f4ccbe38bc621b2d908a3300a5201782a1ca166",
+      "source_geometry": {
+        "vertices": 11914,
+        "triangles": 23470,
+        "connected_shell_components": 1520,
+        "watertight_as_combined_intersecting_mesh": false,
+        "consistent_winding": true,
+        "volume_sum_mm3": 124137.93711628894,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ]
+      },
+      "styled_geometry": {
+        "vertices": 23264,
+        "triangles": 46138,
+        "consistent_winding": true,
+        "volume_sum_mm3": 122807.3547980886,
+        "bounds_mm": [
+          [
+            -0.5999979972839355,
+            -12.524999618530273,
+            0.0
+          ],
+          [
+            68.9000015258789,
+            144.5,
+            74.6500015258789
+          ]
+        ],
+        "extents_mm": [
+          69.49999952316284,
+          157.02499961853027,
+          74.6500015258789
+        ],
+        "outer_bounds_change_mm": 0.0
+      },
+      "number_normalization": {
+        "number_face_count": 270,
+        "number_vertex_count": 138,
+        "before_bounds_mm": [
+          [
+            16.489999771118164,
+            -8.899999618530273,
+            45.60279846191406
+          ],
+          [
+            52.95000076293945,
+            -4.5,
+            67.25469970703125
+          ]
+        ],
+        "after_bounds_mm": [
+          [
+            20.892482254155958,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            48.244516876093066,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "target_single_digit_bounds_mm": [
+          [
+            29.07539939880371,
+            -8.199999809265137,
+            48.243499755859375
+          ],
+          [
+            40.06159973144531,
+            -3.5999999046325684,
+            64.48660278320312
+          ]
+        ],
+        "uniform_xz_scale": 0.7501929204026275,
+        "depth_scale": 1.0454546144186032,
+        "after_center_x_mm": 34.56849956512451,
+        "after_center_z_mm": 56.36505126953125,
+        "after_height_mm": 16.24310302734375,
+        "after_depth_mm": 4.599999904632568,
+        "two_digit_group_centered": true
+      },
+      "original_motif_removal": {
+        "removed_original_motif_components": 4,
+        "removed_original_motif_triangles": 1568,
+        "removed_component_details": [
+          {
+            "faces": 320,
+            "bounds_mm": [
+              [
+                10.380000114440918,
+                -8.0,
+                34.40399932861328
+              ],
+              [
+                19.6200008392334,
+                -4.5,
+                37.59600067138672
+              ]
+            ]
+          },
+          {
+            "faces": 464,
+            "bounds_mm": [
+              [
+                6.100009918212891,
+                -8.149999618530273,
+                17.799999237060547
+              ],
+              [
+                23.899999618530273,
+                -4.5,
+                34.29999923706055
+              ]
+            ]
+          },
+          {
+            "faces": 320,
+            "bounds_mm": [
+              [
+                48.380001068115234,
+                -8.0,
+                34.40399932861328
+              ],
+              [
+                57.619998931884766,
+                -4.5,
+                37.59600067138672
+              ]
+            ]
+          },
+          {
+            "faces": 464,
+            "bounds_mm": [
+              [
+                44.099998474121094,
+                -8.149999618530273,
+                17.799999237060547
+              ],
+              [
+                61.900001525878906,
+                -4.5,
+                34.29999923706055
+              ]
+            ]
+          }
+        ],
+        "retained_body_frame_field_and_number_triangles": 21902
+      },
+      "detailed_motif_replacement": {
+        "family": "angels",
+        "printable_watertight_parts": 12,
+        "triangles": 2336,
+        "bounds_mm": [
+          [
+            6.519128645884795,
+            -9.0,
+            17.3
+          ],
+          [
+            61.482673724446784,
+            -4.85,
+            33.59
+          ]
+        ],
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 0,
+          "White Silk PLA": 416,
+          "Candy Red Silk PLA": 256,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 1664
+        },
+        "facade_contact": "Each primary motif relief extends back to y=-4.85 mm inside the approved front-field shell; raised detail parts overlap their primary relief."
+      },
+      "semantic_assignment": {
+        "component_role_summary": {
+          "champagne drawer body": {
+            "components": 1,
+            "faces": 1460
+          },
+          "champagne front field": {
+            "components": 1,
+            "faces": 12
+          },
+          "gold beaded frame": {
+            "components": 1516,
+            "faces": 20160
+          },
+          "red raised number": {
+            "components": 2,
+            "faces": 270
+          }
+        },
+        "body_refinement": {
+          "original_body_triangles": 1460,
+          "refined_body_triangles": 23360,
+          "peppermint_knob_triangles": 12768,
+          "body_volume_error_mm3": 1.6007106751203537e-10,
+          "surface_change": "none; each original body triangle was split twice into sixteen coplanar triangles"
+        }
+      },
+      "reopen_check": {
+        "triangles": 46138,
+        "consistent_winding": true,
+        "volume_sum_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          "Champagne Silk PLA",
+          "White Silk PLA",
+          "Candy Red Silk PLA",
+          "Candy Green Silk PLA",
+          "Gold Silk PLA"
+        ],
+        "vertex_count": 23264,
+        "triangle_count": 46138,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 10604,
+          "White Silk PLA": 6759,
+          "Candy Red Silk PLA": 6951,
+          "Candy Green Silk PLA": 0,
+          "Gold Silk PLA": 21824
+        },
+        "all_triangles_have_one_uniform_material": true,
+        "build_items": 1
+      }
+    }
+  ],
+  "all_checks_passed": true
+}
