@@ -1,0 +1,205 @@
+{
+  "format": "3MF Core 1.0 with Materials Extension",
+  "geometry_strategy": "Original Rev96 STL surface with welded duplicate vertices; geometry, dimensions, handedness, and 0.20 mm clearance features unchanged",
+  "color_pattern_source": "User-provided Candy-Cane Village reference image",
+  "color_mapping": [
+    {
+      "name": "Champagne Silk PLA",
+      "hex": "#C89A6BFF",
+      "role": "complete Rev96 upper base, including walls, shelves, mounts, and 0.20 mm clearance features"
+    }
+  ],
+  "separate_parts_note": "Roofs, drawer fronts, and candy-cane connector columns remain separate models and are not contained in these upper-base STLs.",
+  "models": [
+    {
+      "name": "left",
+      "file": "left_upper_base_rev96_clearance_0p20mm_champagne_v1.3mf",
+      "sha256": "91d04a318ca928f4b81c960c7f6fbab81601d8caa71704592fb009d61d58b5ea",
+      "bytes": 28251,
+      "source_stl": "upper_left_rev96_clearance_0p20mm.stl",
+      "source_stl_sha256": "6ca71fadcaa7b11d129c3a96eaf97c01d113de5138bea08b27787e4ab2b1cd8b",
+      "geometry": {
+        "vertices": 1240,
+        "triangles": 2476,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 657634.8303959569,
+        "bounds_mm": [
+          [
+            -7.25,
+            0.0,
+            -8.0
+          ],
+          [
+            155.0,
+            150.5,
+            157.10000610351562
+          ]
+        ],
+        "extents_mm": [
+          162.25,
+          150.5,
+          165.10000610351562
+        ]
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "Champagne Silk PLA",
+            "display_color": "#C89A6BFF"
+          }
+        ],
+        "vertex_count": 1240,
+        "triangle_count": 2476,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 2476
+        },
+        "all_triangles_have_champagne_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "name": "center",
+      "file": "center_upper_base_rev96_clearance_0p20mm_champagne_v1.3mf",
+      "sha256": "38e936904f5d880547bbef39634052aaabbc00fcbf14ccd3cfa7e7d919ac84bc",
+      "bytes": 27076,
+      "source_stl": "upper_center_rev96_clearance_0p20mm.stl",
+      "source_stl_sha256": "b26b92e967bdae46e966a441b89843400c8e9964794011270b79ef5cf0aaa53c",
+      "geometry": {
+        "vertices": 1256,
+        "triangles": 2508,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 509854.68724304886,
+        "bounds_mm": [
+          [
+            -7.0,
+            0.0,
+            -8.0
+          ],
+          [
+            155.0,
+            150.5,
+            157.10000610351562
+          ]
+        ],
+        "extents_mm": [
+          162.0,
+          150.5,
+          165.10000610351562
+        ]
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "Champagne Silk PLA",
+            "display_color": "#C89A6BFF"
+          }
+        ],
+        "vertex_count": 1256,
+        "triangle_count": 2508,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 2508
+        },
+        "all_triangles_have_champagne_material": true,
+        "build_items": 1
+      }
+    },
+    {
+      "name": "right",
+      "file": "right_upper_base_rev96_clearance_0p20mm_champagne_v1.3mf",
+      "sha256": "f096cd9e6bb97f9cbe970f08d0e4fec89c4209c137722199055294b95c2ff078",
+      "bytes": 28321,
+      "source_stl": "upper_right_rev96_clearance_0p20mm.stl",
+      "source_stl_sha256": "886aa92d259f9f486de1a51c0ecdf5cc5c85c3bc57e623c3e947386f5119a7bf",
+      "geometry": {
+        "vertices": 1240,
+        "triangles": 2476,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_mm3": 657634.8236442183,
+        "bounds_mm": [
+          [
+            -7.0,
+            0.0,
+            -8.0
+          ],
+          [
+            155.25,
+            150.5,
+            157.10000610351562
+          ]
+        ],
+        "extents_mm": [
+          162.25,
+          150.5,
+          165.10000610351562
+        ]
+      },
+      "reopen_check": {
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_volume": true,
+        "volume_error_mm3": 0.0,
+        "bounds_max_error_mm": 0.0
+      },
+      "archive": {
+        "zip_test_error": null,
+        "archive_entries": [
+          "3D/3dmodel.model",
+          "[Content_Types].xml",
+          "_rels/.rels"
+        ],
+        "unit": "millimeter",
+        "required_extensions": "m",
+        "materials": [
+          {
+            "name": "Champagne Silk PLA",
+            "display_color": "#C89A6BFF"
+          }
+        ],
+        "vertex_count": 1240,
+        "triangle_count": 2476,
+        "material_triangle_counts": {
+          "Champagne Silk PLA": 2476
+        },
+        "all_triangles_have_champagne_material": true,
+        "build_items": 1
+      }
+    }
+  ],
+  "all_checks_passed": true
+}
