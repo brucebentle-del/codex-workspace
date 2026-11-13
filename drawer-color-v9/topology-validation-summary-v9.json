@@ -1,0 +1,29 @@
+{
+  "version": "v9",
+  "scope": "All 24 approved Rev29 color drawers",
+  "result": "pass",
+  "models_checked": 24,
+  "peppermint_knob": {
+    "construction": "one continuous closed cap per drawer",
+    "red_sectors": 8,
+    "white_sectors": 8,
+    "red_and_white_outer_surface_flush": true,
+    "empty_gaps_between_colors": false,
+    "pattern_wraps_to_lower_rim": true,
+    "cap_height_above_original_front_mm": 0.2,
+    "front_overlap_into_original_knob_mm": 0.12,
+    "rim_height_above_original_surface_mm": 0.12,
+    "rim_overlap_into_original_knob_mm": 0.06,
+    "cap_triangles": 13440,
+    "red_cap_triangles": 6720,
+    "white_cap_triangles": 6720
+  },
+  "requirements": {
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "watertight": true,
+    "consistent_winding": true,
+    "archive_integrity": true,
+    "all_triangles_have_one_material": true
+  }
+}
