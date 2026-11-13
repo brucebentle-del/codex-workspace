@@ -1,0 +1,25 @@
+{
+  "version": "v8",
+  "scope": "All 24 approved Rev29 color drawers",
+  "result": "pass",
+  "models_checked": 24,
+  "peppermint_disc_knob": {
+    "white_base": true,
+    "broad_curved_red_sectors": 6,
+    "alternating_white_sectors": 6,
+    "red_relief_parts": 7,
+    "red_relief_triangles": 1736,
+    "relief_height_above_knob_mm": 0.435,
+    "overlap_into_knob_mm": 0.185,
+    "x_z_fit_bounds_changed": false,
+    "rear_bound_changed": false
+  },
+  "requirements": {
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "watertight": true,
+    "consistent_winding": true,
+    "archive_integrity": true,
+    "all_triangles_have_one_material": true
+  }
+}
