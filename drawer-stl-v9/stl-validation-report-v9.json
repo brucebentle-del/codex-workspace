@@ -1,0 +1,776 @@
+{
+  "version": "v9 STL export",
+  "source": "Finalized Rev29 wrapped-peppermint V9 color 3MF set",
+  "note": "STL preserves the combined printable geometry but cannot preserve material/color assignments.",
+  "models": [
+    {
+      "day": 1,
+      "source_3mf": "drawer_day01_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "f86a354b1dddba6ac31f76bd77edfd021983704f88c7de31b98397ad66d98896",
+      "stl": "drawer_day01_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "fecc5db74bcaa8fd9f280f2d47b14e1e25b5a1fae75197cfbd374179c126c1ac",
+      "stl_bytes": 6365884,
+      "triangles": 127316,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00019216934742871672
+    },
+    {
+      "day": 2,
+      "source_3mf": "drawer_day02_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "51427ee2ecee7b8314ec9f2d1158fcc4c1c5acbac95b259477d9638ece792417",
+      "stl": "drawer_day02_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "fe631344d90d25135ee63a1d38c798193d8256f561dd1fd93c0c1b9ffaf6596f",
+      "stl_bytes": 6469884,
+      "triangles": 129396,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00010753695096354932
+    },
+    {
+      "day": 3,
+      "source_3mf": "drawer_day03_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "a8fa1b14cc9f2073167e4f94610f02b0d1eadfd681c8c2b91bb604fdf105d620",
+      "stl": "drawer_day03_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "928a1b06a103e2f7d498367cee35c90bc3cbae3becf55d3153084d1fb54d6438",
+      "stl_bytes": 6550684,
+      "triangles": 131012,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00023784571385476738
+    },
+    {
+      "day": 4,
+      "source_3mf": "drawer_day04_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "067da25192d25f017ae3d59a713603acd2e6355297386a30feb6df2a723996b9",
+      "stl": "drawer_day04_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "a40ce7c5a7d1600eca0b0a89bfadb38686cf180c30f5608b009bf4362cb4ddeb",
+      "stl_bytes": 6329484,
+      "triangles": 126588,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.0002523894072510302
+    },
+    {
+      "day": 5,
+      "source_3mf": "drawer_day05_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "0672cbfa01e2b0cb9f30bb15922bd61d02181fdc01b39fff4f426f2314fa34e9",
+      "stl": "drawer_day05_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "47857e259fd047c78386fb8c1c5d9cec00cdc9b496918edefdd3f5647e5823d1",
+      "stl_bytes": 6546084,
+      "triangles": 130920,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 6.500922609120607e-06
+    },
+    {
+      "day": 6,
+      "source_3mf": "drawer_day06_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "f9d47362aca9e17e5f126b5897670135f0810a6055be4a0350aaa0f763d24873",
+      "stl": "drawer_day06_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "2faf6be839f6d63a61640f192d03a0eb5e978dbbbc9d800080f2d966c1cd66b6",
+      "stl_bytes": 6528884,
+      "triangles": 130576,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00010327028576284647
+    },
+    {
+      "day": 7,
+      "source_3mf": "drawer_day07_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "db4f7f48ac9467d816fb7887e9c71982c8193fe0bc44a355bf0a3a1cfe85b596",
+      "stl": "drawer_day07_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "82bd1e99f6bca821feee58fbf253f6f3bbebd8fac917fe1adecbe8eca0c1e0d5",
+      "stl_bytes": 6365084,
+      "triangles": 127300,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00019906708621419966
+    },
+    {
+      "day": 8,
+      "source_3mf": "drawer_day08_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "27637b2a05fe62e0839c85e30c84fe092978ac684248212c51f1b880632fb35f",
+      "stl": "drawer_day08_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "4173f7a370565a5b50d60bbbb08b93a59baad79c841bc7622b7b18865a854858",
+      "stl_bytes": 6477684,
+      "triangles": 129552,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00014188562636263669
+    },
+    {
+      "day": 9,
+      "source_3mf": "drawer_day09_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "6ec13adbdf10d1984fe36af39dc82bc6ce59a2568af64d1ace0402b73f84b1d3",
+      "stl": "drawer_day09_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "d4ff10308f6f9690bfa8aaf2c27712159979a57366312a155ccf32df5c7b77b8",
+      "stl_bytes": 6550084,
+      "triangles": 131000,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.0003334555512992665
+    },
+    {
+      "day": 10,
+      "source_3mf": "drawer_day10_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "9c1203c94e703595554debdc8914e903bbf148ffdd4aa02ce0b8fe3c264b2404",
+      "stl": "drawer_day10_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "599eefc9a9087f95a52089a534157e5e361cc9ab502efe86ef371021b820223b",
+      "stl_bytes": 6347984,
+      "triangles": 126958,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00022069558326620609
+    },
+    {
+      "day": 11,
+      "source_3mf": "drawer_day11_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "957e201c55a89600b150d9ab50d66924a13e833b125410f479d19e36efab5e75",
+      "stl": "drawer_day11_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "fee40a3f59a02e2a098717594182bf6d42ee9ad8e7c0587519867a09b1c5c758",
+      "stl_bytes": 6536284,
+      "triangles": 130724,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.000257009916822426
+    },
+    {
+      "day": 12,
+      "source_3mf": "drawer_day12_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "c93b9e708308b5deb865f250abe5c9d3c8aa6827010262a05c5970f650da83bc",
+      "stl": "drawer_day12_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "2b801ac19a1d4924a792c066067949e89b76365726a432cb870907e8b085f885",
+      "stl_bytes": 6527084,
+      "triangles": 130540,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00021377256780397147
+    },
+    {
+      "day": 13,
+      "source_3mf": "drawer_day13_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "d85c1f21ac0e8b938021af28370a77548f7c7a50c3f7833afb6f2976732ec7a0",
+      "stl": "drawer_day13_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "ddf8d5ad9a3849328ad834655e57052bd28c9bbfb1dc7721c28e595f0865f7f5",
+      "stl_bytes": 6385984,
+      "triangles": 127718,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 5.728837277274579e-05
+    },
+    {
+      "day": 14,
+      "source_3mf": "drawer_day14_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "8c608e09e4f669be589180f02e484dbc88bbdf0823de4ae08ea3b4e56c0b9429",
+      "stl": "drawer_day14_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "0abd5603b3a274016868cfd120e8da7df8061a6fc2cf93cbc23e7eb111f849ec",
+      "stl_bytes": 6456784,
+      "triangles": 129134,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00023123146092984825
+    },
+    {
+      "day": 15,
+      "source_3mf": "drawer_day15_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "dc773c48baa5f655fedc5d09dcd55aa133b7eb46766a71a55ee1dc92ae0d2493",
+      "stl": "drawer_day15_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "95338c7aec9f0c54f13e7975149082e8b307a8af586010082cc91dbc01e9013b",
+      "stl_bytes": 6552984,
+      "triangles": 131058,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.0002734385197982192
+    },
+    {
+      "day": 16,
+      "source_3mf": "drawer_day16_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "b63a54499e6bf0704a6d03025c8fa2edfa7058d0df103bea17cde2ee5bdc385f",
+      "stl": "drawer_day16_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "ac7ebc00e6926f53e91624e701e6494b1daf75f795c5db14ef41ed82b3fbf4a5",
+      "stl_bytes": 6357784,
+      "triangles": 127154,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.0001807836233638227
+    },
+    {
+      "day": 17,
+      "source_3mf": "drawer_day17_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "2f66e7de951b2dc83cfac017702f0ad2a9085c75fe0886f1067718b8707732a5",
+      "stl": "drawer_day17_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "f621832185f4c8452ec784caf2bf9a408159d79a120f44f85bf123d7834246ba",
+      "stl_bytes": 6535484,
+      "triangles": 130708,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 6.409490015357733e-05
+    },
+    {
+      "day": 18,
+      "source_3mf": "drawer_day18_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "788337bf031ed2fec88d7705d23b4c878aa6dded668f8cf702be5e3524d0eb1f",
+      "stl": "drawer_day18_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "6440923847af16bca38f462d4e6d23ba68b95aabb02b0b55a4244401b71d5000",
+      "stl_bytes": 6537384,
+      "triangles": 130746,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.0001890548155643046
+    },
+    {
+      "day": 19,
+      "source_3mf": "drawer_day19_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "b9370a7a6c7c84c78af23734d3e2829f775479c564bb38201ccc25947f2bd0a5",
+      "stl": "drawer_day19_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "67e6a38b958b90163f0d2d8547fce94380b4d179b9ccee1edd0688bb186d4fa7",
+      "stl_bytes": 6385384,
+      "triangles": 127706,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.0001152546756202355
+    },
+    {
+      "day": 20,
+      "source_3mf": "drawer_day20_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "14665ea7a67d0417f6b77c674d7d3e8343300622a58206a30fd1caae24b21126",
+      "stl": "drawer_day20_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "d1e16f5d57809261c4137231d890e08b0b309ae3d1f931dbca501ab26f7c2336",
+      "stl_bytes": 6475584,
+      "triangles": 129510,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00017221372399944812
+    },
+    {
+      "day": 21,
+      "source_3mf": "drawer_day21_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "77358a839d47937746add574bf3c4445526cf3515c80d65cc37f7409e3081d0e",
+      "stl": "drawer_day21_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "e6fe87d9beba133b396a8cea49d7a822bc9f18907662302b1466e387f57c8f98",
+      "stl_bytes": 6543484,
+      "triangles": 130868,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.0002714765869313851
+    },
+    {
+      "day": 22,
+      "source_3mf": "drawer_day22_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "23dd28db575def3341b5d7641dd4fea52f7b0e14f2ca40ec1277a1207ef18921",
+      "stl": "drawer_day22_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "9bab7e80dea4acf86b7b276a2835deaaf079e11968f629bd13dac1f621c349ff",
+      "stl_bytes": 6348284,
+      "triangles": 126964,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.0001424602378392592
+    },
+    {
+      "day": 23,
+      "source_3mf": "drawer_day23_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "0052fc418c2184e24ae692faaea93ca9c9dd88b88617adc8fc94dd179e766c11",
+      "stl": "drawer_day23_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "d0e8fa727f88caa261916366db3dad832e3571b14b6739350a837cfd74130b89",
+      "stl_bytes": 6563184,
+      "triangles": 131262,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 1.0930365533567965e-05
+    },
+    {
+      "day": 24,
+      "source_3mf": "drawer_day24_rev29_manifold_motifs_v9.3mf",
+      "source_3mf_sha256": "662c6ac6a8bd1c783d18daeca8f249e3007a5f1af220e5490a0b820241f22b5e",
+      "stl": "drawer_day24_rev29_wrapped_peppermint_v9.stl",
+      "stl_sha256": "de1612af6483f0748e7e8270cc8d6b31cad66d1841617d6e8aa71760cc4dce02",
+      "stl_bytes": 6523184,
+      "triangles": 130462,
+      "bounds_mm": [
+        [
+          -0.5999979972839355,
+          -12.725000381469727,
+          0.0
+        ],
+        [
+          68.9000015258789,
+          144.5,
+          74.6500015258789
+        ]
+      ],
+      "extents_mm": [
+        69.49999952316284,
+        157.22500038146973,
+        74.6500015258789
+      ],
+      "watertight": true,
+      "consistent_winding": true,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "bounds_roundtrip_error_mm": 3.8146972691777137e-07,
+      "volume_roundtrip_error_mm3": 0.00036296845064498484
+    }
+  ],
+  "all_checks_passed": true
+}
