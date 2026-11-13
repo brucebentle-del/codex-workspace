@@ -1,0 +1,60 @@
+{
+  "version": "v7",
+  "scope": "All 24 approved Rev29 color drawers",
+  "result": "pass",
+  "models_checked": 24,
+  "requirements": {
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "watertight": true,
+    "consistent_winding": true,
+    "outer_bounds_change_mm": 0.0
+  },
+  "reported_error_repair": {
+    "drawer": 14,
+    "v6_open_edges": 4,
+    "v6_nonmanifold_edges": 960,
+    "v7_open_edges": 0,
+    "v7_nonmanifold_edges": 0,
+    "v7_watertight": true,
+    "v7_consistent_winding": true
+  },
+  "candy_cane_drawers": [
+    {
+      "day": 2,
+      "file": "drawer_day02_rev29_manifold_motifs_v7.3mf",
+      "triangles": 115956,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "day": 8,
+      "file": "drawer_day08_rev29_manifold_motifs_v7.3mf",
+      "triangles": 116112,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "day": 14,
+      "file": "drawer_day14_rev29_manifold_motifs_v7.3mf",
+      "triangles": 115694,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "day": 20,
+      "file": "drawer_day20_rev29_manifold_motifs_v7.3mf",
+      "triangles": 116070,
+      "open_edges": 0,
+      "nonmanifold_edges": 0,
+      "watertight": true,
+      "consistent_winding": true
+    }
+  ]
+}
